@@ -1,0 +1,557 @@
+Title: Identification and Estimation of Multidimensional Screening
+Authors: Gaurab Aryal, Federico Zincenko
+Published Date: 20141123
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1411.6250v10
+Title: The Mittag-Leffler Fitting of the Phillips Curve
+Authors: Tomas Skovranek
+Published Date: 20160401
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1604.00369v3
+Title: Banks as Tanks: A Continuous-Time Model of Financial Clearing
+Authors: Isaac M. Sonin, Konstantin Sonin
+Published Date: 20170516
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1705.05943v3
+Title: Economic Complexity: "Buttarla in caciara" vs a constructive approach
+Authors: Luciano Pietronero, Matthieu Cristelli, Andrea Gabrielli, Dario Mazzilli, Emanuele Pugliese, Andrea Tacchella, Andrea Zaccaria
+Published Date: 20170915
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1709.05272v1
+Skipping paper: Interpreting Economic Complexity (Primary category is not 'econ.GN')
+Title: Forecasting the sustainable status of the labor market in agriculture
+Authors: O. A. Malafeyev, V. E. Onishenko, I. V. Zaytseva
+Published Date: 20180523
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.09686v1
+Title: Justifying the Adoption and Relevance of Inflation Targeting Framework:
+  A Time-Varying Evidence from Ghana
+Authors: Nana Kwame Akosah, Francis W. Loloh, Maurice Omane-Adjepong
+Published Date: 20180529
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.11562v1
+Title: How do public research labs use funding for research? A case study
+Authors: Mario Coccia
+Published Date: 20180525
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.11932v1
+Title: A Physical Review on Currency
+Authors: Ran Huang
+Published Date: 20180418
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.12102v1
+Title: Information Technologies in Public Administration
+Authors: V. I. Gorelov
+Published Date: 20180405
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.12107v1
+Title: Lessons from the History of European EMU
+Authors: Chris Kirrane
+Published Date: 20180525
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.12112v1
+Title: Implications of EMU for the European Community
+Authors: Chris Kirrane
+Published Date: 20180525
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1805.12113v1
+Title: Influence of introducing high speed railways on intercity travel
+  behavior in Vietnam
+Authors: Tho V. Le, Junyi Zhang, Makoto Chikaraishi, Akimasa Fujiwara
+Published Date: 20180929
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.00155v1
+Title: A New Form of Banking -- Concept and Mathematical Model of Venture
+  Banking
+Authors: Brian P Hanley
+Published Date: 20181001
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.00516v8
+Title: Selectivity correction in discrete-continuous models for the willingness
+  to work as crowd-shippers and travel time tolerance
+Authors: Tho V. Le, Satish V. Ukkusuri
+Published Date: 20181001
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.00985v1
+Title: Disability for HIV and Disincentives for Health: The Impact of South
+  Africa's Disability Grant on HIV/AIDS Recovery
+Authors: Noah Haber, Till Bärnighausen, Jacob Bor, Jessica Cohen, Frank Tanser, Deenan Pillay, Günther Fink
+Published Date: 20181003
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.01971v1
+Title: District heating systems under high CO2 emission prices: the role of the
+  pass-through from emission cost to electricity prices
+Authors: Sebastian Wehrle, Johannes Schmidt
+Published Date: 20181004
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02109v1
+Title: Exploring the nuances in the relationship "culture-strategy" for the
+  business world
+Authors: Kiril Dimitrov
+Published Date: 20181005
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02613v1
+Title: Talent management - an etymological study
+Authors: Kiril Dimitrov
+Published Date: 20181005
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02615v1
+Title: Dominating Attributes Of Professed Firm Culture Of Holding Companies -
+  Members Of The Bulgarian Industrial Capital Association
+Authors: Kiril Dimitrov, Marin Geshkov
+Published Date: 20181005
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02617v1
+Title: Geert Hofstede et al's set of national cultural dimensions - popularity
+  and criticisms
+Authors: Kiril Dimitrov
+Published Date: 20181005
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02621v1
+Title: Contemporary facets of business successes among leading companies,
+  operating in Bulgaria
+Authors: Kiril Dimitrov
+Published Date: 20181005
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02622v1
+Title: Social capital at venture capital firms and their financial performance:
+  Evidence from China
+Authors: Qi-lin Cao, Hua-yun Xiang, You-jia Mao, Ben-zhang Yang
+Published Date: 20181006
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.02952v1
+Title: Critical review of models, containing cultural levels beyond the
+  organizational one
+Authors: Kiril Dimitrov
+Published Date: 20181008
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.03605v1
+Title: Integrating electricity markets: Impacts of increasing trade on prices
+  and emissions in the western United States
+Authors: Steven Dahlke
+Published Date: 20181010
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.04759v3
+Title: Deriving the factor endowment--commodity output relationship for
+  Thailand (1920-1927) using a three-factor two-good general equilibrium trade
+  model
+Authors: Yoshiaki Nakada
+Published Date: 20181011
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.04819v1
+Title: Aggressive Economic Incentives and Physical Activity: The Role of Choice
+  and Technology Decision Aids
+Authors: Idris Adjerid, Rachael Purta, Aaron Striegel, George Loewenstein
+Published Date: 20181015
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.06698v2
+Title: Constructing energy accounts for WIOD 2016 release
+Authors: Viktoras Kulionis
+Published Date: 20181016
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.07112v1
+Title: Does the price of strategic commodities respond to U.S. Partisan
+  Conflict?
+Authors: Yong Jiang, Yi-Shuai Ren, Chao-Qun Ma, Jiang-Long Liu, Basil Sharp
+Published Date: 20181019
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.08396v2
+Title: Causal Tree Estimation of Heterogeneous Household Response to
+  Time-Of-Use Electricity Pricing Schemes
+Authors: Eoghan O'Neill, Melvyn Weeks
+Published Date: 20181022
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.09179v3
+Title: Religion and Terrorism: Evidence from Ramadan Fasting
+Authors: Roland Hodler, Paul Raschky, Anthony Strittmatter
+Published Date: 20181023
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.09869v3
+Title: Expropriations, Property Confiscations and New Offshore Entities:
+  Evidence from the Panama Papers
+Authors: Ralph-Christopher Bayer, Roland Hodler, Paul Raschky, Anthony Strittmatter
+Published Date: 20181023
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.09876v1
+Title: Deep Neural Networks for Choice Analysis: A Statistical Learning Theory
+  Perspective
+Authors: Shenhao Wang, Qingyi Wang, Nate Bailey, Jinhua Zhao
+Published Date: 20181024
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.10465v2
+Title: The Case for Formation of ISP-Content Providers Consortiums by Nash
+  Bargaining for Internet Content Delivery
+Authors: Debasis Mitra, Abhinav Sridhar
+Published Date: 20181025
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.10660v1
+Title: Nighttime Light, Superlinear Growth, and Economic Inequalities at the
+  Country Level
+Authors: Ore Koren, Laura Mann
+Published Date: 20181030
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1810.12996v1
+Title: Ordeal Mechanisms, Information, and the Cost-Effectiveness of Subsidies:
+  Evidence from Subsidized Eyeglasses in Rural China
+Authors: Sean Sylvia, Xiaochen Ma, Yaojiang Shi, Scott Rozelle, C. -Y. Cynthia Lin Lawell
+Published Date: 20181202
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.00383v1
+Title: Shattering the glass ceiling? How the institutional context mitigates
+  the gender gap in entrepreneurship
+Authors: Christopher J. Boudreaux, Boris Nikolaev
+Published Date: 20181210
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.03771v1
+Title: Influence of High-Speed Railway System on Inter-city Travel Behavior in
+  Vietnam
+Authors: Tho V. Le, Junyi Zhang, Makoto Chikaraishi, Akimasa Fujiwara
+Published Date: 20181211
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.04184v1
+Title: Apropiación privada de renta de recursos naturales? El caso del cobre
+  en Chile
+Authors: Benjamín Leiva
+Published Date: 20181212
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.05093v1
+Title: Dynamic Programming with Recursive Preferences: Optimality and
+  Applications
+Authors: Guanlong Ren, John Stachurski
+Published Date: 20181214
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.05748v4
+Title: Spreading of an infectious disease between different locations
+Authors: Alessio Muscillo, Paolo Pin, Tiziano Razzolini
+Published Date: 20181219
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.07827v1
+Title: Social security and labor absenteeism in a regional health service
+Authors: Ariel Soto Caro, Roberto Herrera Cofre, Rodrigo Fuentes Solis
+Published Date: 20181219
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.08091v1
+Title: Estimating biomass migration parameters by analyzing the spatial
+  behavior of the fishing fleet
+Authors: Hugo Salgado, Ariel Soto-Caro
+Published Date: 20181219
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.08099v1
+Title: Internal migration and education: A cross-national comparison
+Authors: Aude Bernard, Martin Bell
+Published Date: 20181221
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.08913v1
+Title: Growth, Industrial Externality, Prospect Dynamics, and Well-being on
+  Markets
+Authors: Emmanuel Chauvet
+Published Date: 20181110
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.09302v4
+Title: Poverty, Income Inequality and Growth in Bangladesh: Revisited Karl-Marx
+Authors: Md Niaz Murshed Chowdhury, Md Mobarak Hossain
+Published Date: 20181221
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.09385v1
+Title: Population Growth and Economic Development in Bangladesh: Revisited
+  Malthus
+Authors: Md Niaz Murshed Chowdhury, Md. Mobarak Hossain
+Published Date: 20181221
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.09393v2
+Title: Random Utility and Limited Consideration
+Authors: Victor H. Aguiar, Maria Jose Boccardi, Nail Kashaev, Jeongbin Kim
+Published Date: 20181222
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.09619v3
+Title: Revisiting Transformation and Directional Technology Distance Functions
+Authors: Yaryna Kolomiytseva
+Published Date: 20181225
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.10108v1
+Title: Thought Viruses and Asset Prices
+Authors: Wolfgang Kuhle
+Published Date: 20181229
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.11417v1
+Title: Selling Wind
+Authors: Ali Kakhbod, Asuman Ozdaglar, Ian Schneider
+Published Date: 20181229
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.11420v1
+Title: E-commerce in Hungary: A Market Analysis
+Authors: Szabolcs Nagy
+Published Date: 20181230
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1812.11488v1
+Title: Stealed-bid Auctions: Detecting Bid Leakage via Semi-Supervised Learning
+Authors: Dmitry I. Ivanov, Alexander S. Nesterov
+Published Date: 20190301
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.00261v2
+Title: Using Artificial Intelligence to Recapture Norms: Did #metoo change
+  gender norms in Sweden?
+Authors: Sara Moricz
+Published Date: 20190302
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.00690v1
+Title: Elusive Longer-Run Impacts of Head Start: Replications Within and Across
+  Cohorts
+Authors: Remy J. -C. Pages, Dylan J. Lukes, Drew H. Bailey, Greg J. Duncan
+Published Date: 20190305
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.01954v4
+Title: Optimal Climate Strategy with Mitigation, Carbon Removal, and Solar
+  Geoengineering
+Authors: Mariia Belaia
+Published Date: 20190305
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.02043v1
+Title: The Interdependence of Hierarchical Institutions: Federal Regulation,
+  Job Creation, and the Moderating Effect of State Economic Freedom
+Authors: David S. Lucas, Christopher J. Boudreaux
+Published Date: 20190307
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.02924v1
+Title: Entrepreneurship, Institutions, and Economic Growth: Does the Level of
+  Development Matter?
+Authors: Christopher J. Boudreaux
+Published Date: 20190307
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.02934v1
+Title: Heterogeneous Impact of the Minimum Wage: Implications for Changes in
+  Between- and Within-group Inequality
+Authors: Tatsushi Oka, Ken Yamada
+Published Date: 20190310
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.03925v2
+Title: A fractional-order difference Cournot duopoly game with long memory
+Authors: Baogui Xin, Wei Peng, Yekyung Kwon
+Published Date: 20190311
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.04305v1
+Title: A micro-simulation model of irrigation farms in the southern
+  Murray-Darling Basin
+Authors: Huong Dinh, Manannan Donoghoe, Neal Hughes, Tim Goesch
+Published Date: 20190314
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.05781v1
+Title: The Prosumer Economy -- Being Like a Forest
+Authors: Uygar Ozesmi
+Published Date: 20190316
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.07615v1
+Title: The effects of institutional quality on formal and informal borrowing
+  across high-, middle-, and low-income countries
+Authors: Lan Chu Khanh
+Published Date: 20190319
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.07866v1
+Title: Variety, Complexity and Economic Development
+Authors: Alje van Dam, Koen Frenken
+Published Date: 20190319
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.07997v1
+Title: The Impact of Sex Education on Sexual Activity, Pregnancy, and Abortion
+Authors: Nima Khodakarami
+Published Date: 20190320
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.08307v1
+Title: Unravelling the forces underlying urban industrial agglomeration
+Authors: Neave O'Clery, Samuel Heroy, Francois Hulot, Mariano Beguerisse-Díaz
+Published Date: 20190322
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.09279v2
+Title: The Impact of Renewable Energy Forecasts on Intraday Electricity Prices
+Authors: Sergei Kulakov, Florian Ziel
+Published Date: 20190322
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.09641v2
+Title: Réintégration des refusés en Credit Scoring
+Authors: Adrien Ehrhardt, Christophe Biernacki, Vincent Vandewalle, Philippe Heinrich, Sébastien Beben
+Published Date: 20190321
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.10855v1
+Title: Determining Fundamental Supply and Demand Curves in a Wholesale
+  Electricity Market
+Authors: Sergei Kulakov, Florian Ziel
+Published Date: 20190322
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1903.11383v2
+Title: Identifying Opportunities to Improve the Network of Immigration Legal
+  Services Providers
+Authors: Vasil Yasenov, David Hausman, Michael Hotard, Duncan Lawrence, Alexandra Siegel, Jessica S. Wolff, David D. Laitin, Jens Hainmueller
+Published Date: 20200805
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.02230v1
+Title: Aggression in the workplace makes social distance difficult
+Authors: Keisuke Kokubun
+Published Date: 20200810
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.04131v2
+Title: Measuring Energy-saving Technological Change: International Trends and
+  Differences
+Authors: Emiko Inoue, Hiroya Taniguchi, Ken Yamada
+Published Date: 20200811
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.04639v4
+Title: Bookmakers' mispricing of the disappeared home advantage in the German
+  Bundesliga after the COVID-19 break
+Authors: Christian Deutscher, David Winkelmann, Marius Ötting
+Published Date: 20200812
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.05417v2
+Title: Are temporary value-added tax reductions passed on to consumers?
+  Evidence from Germany's stimulus
+Authors: Felix Montag, Alina Sagimuldina, Monika Schnitzer
+Published Date: 20200819
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.08511v1
+Title: Reforming the State-Based Forward Guidance through Wage Growth Rate
+  Threshold: Evidence from FRB/US Simulations
+Authors: Sudiksha Joshi
+Published Date: 20200819
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.08705v1
+Title: Implications of the Tradeoff between Inside and Outside Social Status in
+  Group Choice
+Authors: Takaaki Hamada
+Published Date: 20200824
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.10145v1
+Title: The Impact of Sodomy Law Repeals on Crime
+Authors: Riccardo Ciacci, Dario Sansone
+Published Date: 20200825
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.10926v1
+Title: An energy-based macroeconomic model validated by global historical
+  series since 1820
+Authors: Herve Bercegol, Henri Benisty
+Published Date: 20200825
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.10967v3
+Title: Formula to Determine the Countries Equilibrium Exchange Rate With the
+  Dollar and Proposal for a Second Bretton Woods Conference
+Authors: Walter H. Bruckman
+Published Date: 20200824
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.11275v1
+Title: Potential impacts of ballast water regulations on international trade,
+  shipping patterns, and the global economy: An integrated transportation and
+  economic modeling assessment
+Authors: Zhaojun Wang, Duy Nong, Amanda M. Countryman, James J. Corbett, Travis Warziniack
+Published Date: 20200826
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.11334v1
+Title: A Spatial Analysis of Disposable Income in Ireland: A GWR Approach
+Authors: Paul Kilgarriff, Martin Charlton
+Published Date: 20200826
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.11720v1
+Title: Layoffs, Inequity and COVID-19: A Longitudinal Study of the Journalism
+  Jobs Crisis in Australia from 2012 to 2020
+Authors: Nik Dawson, Sacha Molitorisz, Marian-Andrei Rizoiu, Peter Fray
+Published Date: 20200828
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.12459v2
+Title: Implication of Natal Care and Maternity Leave on Child Morbidity:
+  Evidence from Ghana
+Authors: Danny Turkson, Joy Kafui Ahiabor
+Published Date: 20200829
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.12910v1
+Title: Reviewing climate change and agricultural market competitiveness
+Authors: Bakhtmina Zia, Dr Muhammad Rafiq PhD Research Scholar, Institute of Management Sciences,  Peshawar,  Pakistan, Associate Professor, Institute of Management Sciences,  Peshawar,  Pakistan
+Published Date: 20200831
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2008.13726v1
+Title: Can one hear the shape of a target zone?
+Authors: Jean-Louis Arcand, Max-Olivier Hongler, Shekhar Hari Kumar, Daniele Rinaldo
+Published Date: 20200203
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.00948v3
+Title: Top of the Batch: Interviews and the Match
+Authors: Federico Echenique, Ruy Gonzalez, Alistair Wilson, Leeat Yariv
+Published Date: 20200213
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.05323v2
+Title: Economic complexity of prefectures in Japan
+Authors: Abhijit Chakraborty, Hiroyasu Inoue, Yoshi Fujiwara
+Published Date: 20200212
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.05785v2
+Title: The Effect of Network Adoption Subsidies: Evidence from Digital Traces
+  in Rwanda
+Authors: Daniel Björkegren, Burak Ceyhun Karaca
+Published Date: 20200213
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.05791v1
+Title: Satellite reveals age and extent of oil palm plantations in Southeast
+  Asia
+Authors: Olha Danylo, Johannes Pirker, Guido Lemoine, Guido Ceccherini, Linda See, Ian McCallum,  Hadi, Florian Kraxner, Frédéric Achard, Steffen Fritz
+Published Date: 20200217
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.07163v1
+Title: How Do Expectations Affect Learning About Fundamentals? Some
+  Experimental Evidence
+Authors: Kieran Marray, Nikhil Krishna, Jarel Tang
+Published Date: 20200217
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.07229v3
+Title: Rational Choice Hypothesis as X-point of Utility Function and Norm
+  Function
+Authors: Takeshi Kato, Yasuyuki Kudo, Junichi Miyakoshi, Jun Otsuka, Hayato Saigo, Kaori Karasawa, Hiroyuki Yamaguchi, Yasuo Deguchi
+Published Date: 20200219
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.09036v2
+Title: Sustainability and Fairness Simulations Based on Decision-Making Model
+  of Utility Function and Norm Function
+Authors: Takeshi Kato, Yasuyuki Kudo, Junichi Miyakoshi, Jun Otsuka, Hayato Saigo, Kaori Karasawa, Hiroyuki Yamaguchi, Yoshinori Hiroi, Yasuo Deguchi
+Published Date: 20200219
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.09037v2
+Title: Asymptotic Linearity of Consumption Functions and Computational
+  Efficiency
+Authors: Qingyin Ma, Alexis Akira Toda
+Published Date: 20200221
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.09108v2
+Title: A New Decomposition Ensemble Approach for Tourism Demand Forecasting:
+  Evidence from Major Source Countries
+Authors: Chengyuan Zhang, Fuxin Jiang, Shouyang Wang, Shaolong Sun
+Published Date: 20200221
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/2002.09201v1
+Title: Artificial Intelligence and Big Data in Entrepreneurship: A New Era Has
+  Begun
+Authors: Martin Obschonka, David B. Audretsch
+Published Date: 20190603
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.00553v1
+Title: Mapping the Sahelian Space
+Authors: Olivier Walther, Denis Retaille
+Published Date: 20190605
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.02223v1
+Title: Ergodicity-breaking reveals time optimal decision making in humans
+Authors: David Meder, Finn Rabe, Tobias Morville, Kristoffer H. Madsen, Magnus T. Koudahl, Ray J. Dolan, Hartwig R. Siebner, Oliver J. Hulme
+Published Date: 20190611
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.04652v5
+Title: Growing green: the role of path dependency and structural jumps in the
+  green economy expansion
+Authors: Seyyedmilad Talebzadehhosseini, Steven R. Scheinert, Ivan Garibay
+Published Date: 20190612
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.05269v2
+Title: A New Solution to Market Definition: An Approach Based on
+  Multi-dimensional Substitutability Statistics
+Authors: Yan Yang
+Published Date: 20190624
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.10030v1
+Title: On Capital Allocation under Information Constraints
+Authors: Christoph J. Börner, Ingo Hoffmann, Fabian Poetter, Tim Schmitz
+Published Date: 20190614
+Primary Category: econ.GN
+PDF Link: http://arxiv.org/pdf/1906.10624v2

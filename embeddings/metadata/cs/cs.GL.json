@@ -1,0 +1,1203 @@
+[
+    {
+        "title": "Theory and practice",
+        "authors": [
+            "Donald E. Knuth"
+        ],
+        "category": "cs.GL",
+        "published_year": "1991",
+        "summary": "  The author argues to Silicon Valley that the most important and powerful part\nof computer science is work that is simultaneously theoretical and practical.\nHe particularly considers the intersection of the theory of algorithms and\npractical software development. He combines examples from the development of\nthe TeX typesetting system with clever jokes, criticisms, and encouragements.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/9301114v1"
+    },
+    {
+        "title": "The Revolution Yet to Happen",
+        "authors": [
+            "C. Gordon Bell",
+            "Jim Gray"
+        ],
+        "category": "cs.GL",
+        "published_year": "1998",
+        "summary": "  All information about physical objects including humans, buildings,\nprocesses, and organizations will be online. This trend is both desirable and\ninevitable. Cyberspace will provide the basis for wonderful new ways to inform,\nentertain, and educate people. The information and the corresponding systems\nwill streamline commerce, but will also provide new levels of personal service,\nhealth care, and automation. The most significant benefit will be a\nbreakthrough in our ability to remotely communicate with one another using all\nour senses.\n  The ACM and the transistor were born in 1947. At that time the stored program\ncomputer was a revolutionary idea and the transistor was just a curiosity. Both\nideas evolved rapidly. By the mid 1960s integrated circuits appeared --\nallowing mass fabrication of transistors on silicon substrates. This allowed\nlow-cost mass-produced computers. These technologies enabled extraordinary\nincreases in processing speed and memory coupled with extraordinary price\ndeclines.\n  The only form of processing and memory more easily, cheaply, and rapidly\nfabricated is the human brain. Peter Cohrane (1996) estimates the brain to have\na processing power of around 1000 million-million operations per second, (one\nPetaops) and a memory of 10 Terabytes. If current trends continue, computers\ncould have these capabilities by 2047. Such computers could be 'on body'\npersonal assistants able to recall everything one reads, hears, and sees.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/9809010v1"
+    },
+    {
+        "title": "What Next? A Dozen Information-Technology Research Goals",
+        "authors": [
+            "Jim Gray"
+        ],
+        "category": "cs.GL",
+        "published_year": "1999",
+        "summary": "  Charles Babbage's vision of computing has largely been realized. We are on\nthe verge of realizing Vannevar Bush's Memex. But, we are some distance from\npassing the Turing Test. These three visions and their associated problems have\nprovided long-range research goals for many of us. For example, the scalability\nproblem has motivated me for several decades. This talk defines a set of\nfundamental research problems that broaden the Babbage, Bush, and Turing\nvisions. They extend Babbage's computational goal to include highly-secure,\nhighly-available, self-programming, self-managing, and self-replicating\nsystems. They extend Bush's Memex vision to include a system that automatically\norganizes, indexes, digests, evaluates, and summarizes information (as well as\na human might). Another group of problems extends Turing's vision of\nintelligent machines to include prosthetic vision, speech, hearing, and other\nsenses. Each problem is simply stated and each is orthogonal from the others,\nthough they share some common core technologies\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/9911005v1"
+    },
+    {
+        "title": "Questions for a Materialist Philosophy Implying the Equivalence of\n  Computers and Human Cognition",
+        "authors": [
+            "Douglas M. Snyder"
+        ],
+        "category": "cs.GL",
+        "published_year": "2000",
+        "summary": "  Issues related to a materialist philosophy are explored as concerns the\nimplied equivalence of computers running software and human observers. One\nissue explored concerns the measurement process in quantum mechanics. Another\nissue explored concerns the nature of experience as revealed by the existence\nof dreams. Some difficulties stemming from a materialist philosophy as regards\nthese issues are pointed out. For example, a gedankenexperiment involving what\nhas been called \"negative\" observation is discussed that illustrates the\ndifficulty with a materialist assumption in quantum mechanics. Based on an\nexploration of these difficulties, specifications are outlined briefly that\nwould provide a means to demonstrate the equivalence of of computers running\nsoftware and human experience given a materialist assumption.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0012003v1"
+    },
+    {
+        "title": "One More Revolution to Make: Free Scientific Publishing",
+        "authors": [
+            "Krzysztof R. Apt"
+        ],
+        "category": "cs.GL",
+        "published_year": "2001",
+        "summary": "  Computer scientists are in the position to create new, free high-quality\njournals. So what would it take?\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0106022v1"
+    },
+    {
+        "title": "ENUM: The Collision of Telephony and DNS Policy",
+        "authors": [
+            "Robert Cannon"
+        ],
+        "category": "cs.GL",
+        "published_year": "2001",
+        "summary": "  ENUM marks either the convergence or collision of the public telephone\nnetwork with the Internet. ENUM is an innovation in the domain name system\n(DNS). It starts with numerical domain names that are used to query DNS name\nservers. The servers respond with address information found in DNS records.\nThis can be telephone numbers, email addresses, fax numbers, SIP addresses, or\nother information. The concept is to use a single number in order to obtain a\nplethora of contact information.\n  By convention, the Internet Engineering Task Force (IETF) ENUM Working Group\ndetermined that an ENUM number would be the same numerical string as a\ntelephone number. In addition, the assignee of an ENUM number would be the\nassignee of that telephone number. But ENUM could work with any numerical\nstring or, in fact, any domain name. The IETF is already working on using E.212\nnumbers with ENUM. [Abridged]\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0110018v2"
+    },
+    {
+        "title": "Edsger Wybe Dijkstra (1930 -- 2002): A Portrait of a Genius",
+        "authors": [
+            "Krzysztof R. Apt"
+        ],
+        "category": "cs.GL",
+        "published_year": "2002",
+        "summary": "  We discuss the scientific contributions of Edsger Wybe Dijkstra, his opinions\nand his legacy.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0210001v1"
+    },
+    {
+        "title": "Classical and Nonextensive Information Theory",
+        "authors": [
+            "Gilson Antonio Giraldi"
+        ],
+        "category": "cs.GL",
+        "published_year": "2003",
+        "summary": "  In this work we firstly review some results in Classical Information Theory.\nNext, we try to generalize these results by using the Tsallis entropy. We\npresent a preliminary result and discuss our aims in this field.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0306132v1"
+    },
+    {
+        "title": "The pre-history of quantum computation",
+        "authors": [
+            "P. H. Potgieter"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  The main ideas behind developments in the theory and technology of quantum\ncomputation were formulated in the late 1970s and early 1980s by two physicists\nin the West and a mathematician in the former Soviet Union. It is not generally\nknown in the West that the subject has roots in the Russian technical\nliterature. The author hopes to present as impartial a synthesis as possible of\nthe early history of thought on this subject. The role of reversible and\nirreversible computational processes is examined briefly as it relates to the\norigins of quantum computing and the so-called Information Paradox in physics.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0402037v2"
+    },
+    {
+        "title": "Some first thoughts on the stability of the asynchronous systems",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  The (non-initialized, non-deterministic) asynchronous systems (in the\ninput-output sense) are multi-valued functions from m-dimensional signals to\nsets of n-dimensional signals, the concept being inspired by the modeling of\nthe asynchronous circuits. Our purpose is to state the problem of the their\nstability.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0410075v1"
+    },
+    {
+        "title": "The equations of the ideal latches",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  The latches are simple circuits with feedback from the digital electrical\nengineering. We have included in our work the C element of Muller, the RS\nlatch, the clocked RS latch, the D latch and also circuits containing two\ninterconnected latches: the edge triggered RS flip-flop, the D flip-flop, the\nJK flip-flop, the T flip-flop. The purpose of this study is to model with\nequations the previous circuits, considered to be ideal, i.e. non-inertial. The\ntechnique of analysis is the pseudoboolean differential calculus.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0411009v2"
+    },
+    {
+        "title": "Real Time Models of the Asynchronous Circuits: The Delay Theory",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  The chapter from the book introduces the delay theory, whose purpose is the\nmodeling of the asynchronous circuits from digital electrical engineering with\nordinary and differential pseudo-boolean equations.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0412090v1"
+    },
+    {
+        "title": "Methods for scaling a large member base",
+        "authors": [
+            "Nathan Boeger"
+        ],
+        "category": "cs.GL",
+        "published_year": "2006",
+        "summary": "  The technical challenges of scaling websites with large and growing member\nbases, like social networking sites, are numerous. One of these challenges is\nhow to evenly distribute the growing member base across all available\nresources. This paper will explore various methods that address this issue. The\ntechniques used in this paper can be generalized and applied to various other\nproblems that need to distribute data evenly amongst a finite amount of\nresources.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0602070v1"
+    },
+    {
+        "title": "Ten Incredibly Dangerous Software Ideas",
+        "authors": [
+            "G. A. Maney"
+        ],
+        "category": "cs.GL",
+        "published_year": "2006",
+        "summary": "  This is a rough draft synopsis of a book presently in preparation. This book\nprovides a systematic critique of the software industry. This critique is\naccomplished using classical methods in practical design science.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0607022v1"
+    },
+    {
+        "title": "The intersection and the union of the asynchronous systems",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2006",
+        "summary": "  The asynchronous systems $f$ are the models of the asynchronous circuits from\ndigital electrical engineering. They are multi-valued functions that associate\nto each input $u:\\mathbf{R}\\to \\{0,1\\}^{m}$ a set of states $x\\in f(u),$ where\n$x:\\mathbf{R}\\to \\{0,1\\}^{n}.$ The intersection of the systems allows adding\nsupplementary conditions in modeling and the union of the systems allows\nconsidering the validity of one of two systems in modeling, for example when\ntesting the asynchronous circuits and the circuit is supposed to be 'good' or\n'bad'. The purpose of the paper is that of analyzing the intersection and the\nunion against the initial/final states, initial/final time, initial/final state\nfunctions, subsystems, dual systems, inverse systems, Cartesian product of\nsystems, parallel connection and serial connection of systems.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0610127v1"
+    },
+    {
+        "title": "Recruitment, Preparation, Retention: A case study of computing culture\n  at the University of Illinois at Urbana-Champaign",
+        "authors": [
+            "Tanya L. Crenshaw",
+            "Erin Wolf Chambers",
+            "Heather Metcalf",
+            "Umesh Thakkar"
+        ],
+        "category": "cs.GL",
+        "published_year": "2007",
+        "summary": "  Computer science is seeing a decline in enrollment at all levels of\neducation, including undergraduate and graduate study. This paper reports on\nthe results of a study conducted at the University of Illinois at\nUrbana-Champaign which evaluated students attitudes regarding three areas which\ncan contribute to improved enrollment in the Department of Computer Science:\nRecruitment, preparation and retention. The results of our study saw two\nthemes. First, the department's tight research focus appears to draw\nsignificant attention from other activities -- such as teaching, service, and\nother community-building activities -- that are necessary for a department's\nexcellence. Yet, as demonstrated by our second theme, one partial solution is\nto better promote such activities already employed by the department to its\nstudents and faculty. Based on our results, we make recommendations for\nimprovements and enhancements based on the current state of practice at peer\ninstitutions.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0702141v1"
+    },
+    {
+        "title": "MIMO detection employing Markov Chain Monte Carlo",
+        "authors": [
+            "V. Sundaram",
+            "K. P. N. Murthy"
+        ],
+        "category": "cs.GL",
+        "published_year": "2007",
+        "summary": "  We propose a soft-output detection scheme for Multiple-Input-Multiple-Output\n(MIMO) systems. The detector employs Markov Chain Monte Carlo method to compute\nbit reliabilities from the signals received and is thus suited for coded MIMO\nsystems. It offers a good trade-off between achievable performance and\nalgorithmic complexity.\n",
+        "pdf_link": "http://arxiv.org/pdf/0705.0742v1"
+    },
+    {
+        "title": "Motivation, Design, and Ubiquity: A Discussion of Research Ethics and\n  Computer Science",
+        "authors": [
+            "David R. Wright"
+        ],
+        "category": "cs.GL",
+        "published_year": "2007",
+        "summary": "  Modern society is permeated with computers, and the software that controls\nthem can have latent, long-term, and immediate effects that reach far beyond\nthe actual users of these systems. This places researchers in Computer Science\nand Software Engineering in a critical position of influence and\nresponsibility, more than any other field because computer systems are vital\nresearch tools for other disciplines. This essay presents several key ethical\nconcerns and responsibilities relating to research in computing. The goal is to\npromote awareness and discussion of ethical issues among computer science\nresearchers. A hypothetical case study is provided, along with questions for\nreflection and discussion.\n",
+        "pdf_link": "http://arxiv.org/pdf/0706.0484v1"
+    },
+    {
+        "title": "Stop That Subversive Spreadsheet!",
+        "authors": [
+            "David Chadwick"
+        ],
+        "category": "cs.GL",
+        "published_year": "2007",
+        "summary": "  This paper documents the formation of the European Spreadsheet Risks Interest\nGroup (EuSpRIG www.eusprig.org) and outlines some of the research undertaken\nand reported upon by interested parties in EuSpRIG publications\n",
+        "pdf_link": "http://arxiv.org/pdf/0712.2594v1"
+    },
+    {
+        "title": "The equations of the ideal latches",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2008",
+        "summary": "  The latches are simple circuits with feedback from the digital electrical\nengineering. We have included in our work the C element of Muller, the RS\nlatch, the clocked RS latch, the D latch and also circuits containing two\ninterconnected latches: the edge triggered RS flip-flop, the D flip-flop, the\nJK flip-flop, the T flip-flop. The purpose of this study is to model with\nequations the previous circuits, considered to be ideal, i.e. non-inertial. The\ntechnique of analysis is the pseudoboolean differential calculus.\n",
+        "pdf_link": "http://arxiv.org/pdf/0804.0879v1"
+    },
+    {
+        "title": "The non-anticipation of the asynchronous systems",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2008",
+        "summary": "  The asynchronous systems are the models of the asynchronous circuits from the\ndigital electrical engineering and non-anticipation is one of the most\nimportant properties in systems theory. Our present purpose is to introduce\nseveral concepts of non-anticipation of the asynchronous systems.\n",
+        "pdf_link": "http://arxiv.org/pdf/0804.2035v1"
+    },
+    {
+        "title": "Design and Implementation of a Master of Science in Information and\n  Computer Sciences - An Inventory and retrospect for the last four years",
+        "authors": [
+            "Christoph Schommer"
+        ],
+        "category": "cs.GL",
+        "published_year": "2008",
+        "summary": "  This Master of Science in Computer and Information Sciences (MICS) is an\ninternational accredited master program that has been initiated in 2004 and\nstarted in September 2005. MICS is a research-oriented academic study of 4\nsemesters and a continuation of the Bachelor towards the PhD. It is completely\ntaught in English, supported by lecturers coming from more than ten different\ncountries. This report compass a description of its underlying architecture,\ndescribes some implementation details and gives a presentation of diverse\nexperiences and results. As the program has been designed and implemented right\nafter the creation of the University, the significance of the program is\nmoreover a self-discovery of the computer science department, which has finally\nled to the creation of the today's research institutes and research axes.\n",
+        "pdf_link": "http://arxiv.org/pdf/0804.2621v1"
+    },
+    {
+        "title": "Modeling Time in Computing: A Taxonomy and a Comparative Survey",
+        "authors": [
+            "Carlo A. Furia",
+            "Dino Mandrioli",
+            "Angelo Morzenti",
+            "Matteo Rossi"
+        ],
+        "category": "cs.GL",
+        "published_year": "2008",
+        "summary": "  The increasing relevance of areas such as real-time and embedded systems,\npervasive computing, hybrid systems control, and biological and social systems\nmodeling is bringing a growing attention to the temporal aspects of computing,\nnot only in the computer science domain, but also in more traditional fields of\nengineering.\n  This article surveys various approaches to the formal modeling and analysis\nof the temporal features of computer-based systems, with a level of detail that\nis suitable also for non-specialists. In doing so, it provides a unifying\nframework, rather than just a comprehensive list of formalisms.\n  The paper first lays out some key dimensions along which the various\nformalisms can be evaluated and compared. Then, a significant sample of\nformalisms for time modeling in computing are presented and discussed according\nto these dimensions. The adopted perspective is, to some extent, historical,\ngoing from \"traditional\" models and formalisms to more modern ones.\n",
+        "pdf_link": "http://arxiv.org/pdf/0807.4132v3"
+    },
+    {
+        "title": "Free and Open Source Software for Development",
+        "authors": [
+            "Victor van Reijswoud",
+            "Arjan de Jager"
+        ],
+        "category": "cs.GL",
+        "published_year": "2008",
+        "summary": "  Development organizations and International Non-Governmental Organizations\nhave been emphasizing the high potential of Free and Open Source Software for\nthe Less Developed Countries. Cost reduction, less vendor dependency and\nincreased potential for local capacity development have been their main\narguments. In spite of its advantages, Free and Open Source Software is not\nwidely adopted at the African continent. In this book the authors will explore\nthe grounds on with these expectations are based. Where do they come from and\nis there evidence to support these expectations? Over the past years several\nprojects have been initiated and some good results have been achieved, but at\nthe same time many challenges were encountered. What lessons can be drawn from\nthese experiences and do these experiences contain enough evidence to support\nthe high expectations? Several projects and their achievements will be\nconsidered. In the final part of the book the future of Free and Open Source\nSoftware for Development will be explored. Special attention is given to the\nAfrican continent since here challenges are highest. What is the role of Free\nand open Source Software for Development and how do we need to position and\nexplore the potential? What are the threats? The book aims at professionals\nthat are engaged in the design and implementation of ICT for Development\n(ICT4D) projects and want to improve their understanding of the role Free and\nOpen Source Software can play.\n",
+        "pdf_link": "http://arxiv.org/pdf/0808.3717v1"
+    },
+    {
+        "title": "A Dialogue Concerning Two World Systems: Info-Computational vs.\n  Mechanistic",
+        "authors": [
+            "Gordana Dodig-Crnkovic",
+            "Vincent C. Müller"
+        ],
+        "category": "cs.GL",
+        "published_year": "2009",
+        "summary": "  The dialogue develops arguments for and against adopting a new world system,\ninfo-computationalist naturalism, that is poised to replace the traditional\nmechanistic world system. We try to figure out what the info-computational\nparadigm would mean, in particular its pancomputationalism. We make some steps\ntowards developing the notion of computing that is necessary here, especially\nin relation to traditional notions. We investigate whether pancomputationalism\ncan possibly provide the basic causal structure to the world, whether the\noverall research programme appears productive and whether it can revigorate\ncomputationalism in the philosophy of mind.\n",
+        "pdf_link": "http://arxiv.org/pdf/0910.5001v1"
+    },
+    {
+        "title": "Making Sense of the Evolution of a Scientific Domain: A Visual Analytic\n  Study of the Sloan Digital Sky Survey Research",
+        "authors": [
+            "Chaomei Chen",
+            "Jian Zhang",
+            "Michael S. Vogeley"
+        ],
+        "category": "cs.GL",
+        "published_year": "2010",
+        "summary": "  We introduce a new visual analytic approach to the study of scientific\ndiscoveries and knowledge diffusion. Our approach enhances contemporary\nco-citation network analysis by enabling analysts to identify co-citation\nclusters of cited references intuitively, synthesize thematic contexts in which\nthese clusters are cited, and trace how research focus evolves over time. The\nnew approach integrates and streamlines a few previously isolated techniques\nsuch as spectral clustering and feature selection algorithms. The integrative\nprocedure is expected to empower and strengthen analytical and sense making\ncapabilities of scientists, learners, and researchers to understand the\ndynamics of the evolution of scientific domains in a wide range of scientific\nfields, science studies, and science policy evaluation and planning. We\ndemonstrate the potential of our approach through a visual analysis of the\nevolution of astronomical research associated with the Sloan Digital Sky Survey\n(SDSS) using bibliographic data between 1994 and 2008. In addition, we also\ndemonstrate that the approach can be consistently applied to a set of\nheterogeneous data sources such as e-prints on arXiv, publications on ADS, and\nNSF awards related to the same topic of SDSS.\n",
+        "pdf_link": "http://arxiv.org/pdf/1002.1936v1"
+    },
+    {
+        "title": "Removing Barriers to Interdisciplinary Research",
+        "authors": [
+            "Naomi Jacobs",
+            "Martyn Amos"
+        ],
+        "category": "cs.GL",
+        "published_year": "2010",
+        "summary": "  A significant amount of high-impact contemporary scientific research occurs\nwhere biology, computer science, engineering and chemistry converge. Although\nprogrammes have been put in place to support such work, the complex dynamics of\ninterdisciplinarity are still poorly understood. In this paper we interrogate\nthe nature of interdisciplinary research and how we might measure its\n\"success\", identify potential barriers to its implementation, and suggest\npossible mechanisms for removing these impediments.\n",
+        "pdf_link": "http://arxiv.org/pdf/1012.4170v2"
+    },
+    {
+        "title": "On the serial connection of the regular asynchronous systems",
+        "authors": [
+            "Serban E. Vlad"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  The asynchronous systems f are multi-valued functions, representing the\nnon-deterministic models of the asynchronous circuits from the digital\nelectrical engineering. In real time, they map an 'admissible input' function\nu:R\\rightarrow{0,1}^{m} to a set f(u) of 'possible states' x\\inf(u), where\nx:R\\rightarrow{0,1}^{m}. When f is defined by making use of a 'generator\nfunction' {\\Phi}:{0,1}^{n}\\times{0,1}^{m}\\rightarrow{0,1}^{n}, the system is\ncalled regular. The usual definition of the serial connection of systems as\ncomposition of multi-valued functions does not bring the regular systems into\nregular systems, thus the first issue in this study is to modify in an\nacceptable manner the definition of the serial connection in a way that matches\nregularity. This intention was expressed for the first time, without proving\nthe regularity of the serial connection of systems, in a previous work. Our\npresent purpose is to restate with certain corrections and prove that result.\n",
+        "pdf_link": "http://arxiv.org/pdf/1206.4708v1"
+    },
+    {
+        "title": "Info-Computationalism and Philosophical Aspects of Research in\n  Information Sciences",
+        "authors": [
+            "Gordana Dodig-Crnkovic"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  The historical development has lead to the decay of Natural Philosophy which\nuntil 19th century included all of our knowledge about the physical world into\nthe growing multitude of specialized sciences. The focus on the in-depth\nenquiry disentangled from its broad context lead to the problem of loss of\ncommon world-view and impossibility of communication between specialist\nresearch fields because of different languages they developed in isolation. The\nneed for a new unifying framework is becoming increasingly apparent with the\ninformation technology enabling and intensifying the communication between\ndifferent research fields and knowledge communities. This time, not only\nnatural sciences, but also all of human knowledge is being integrated in a\nglobal network such as Internet with its diverse knowledge and language\ncommunities. Info-computationalism (ICON) as a synthesis of pancomputationalism\nand paninformationalism presents a unifying framework for understanding of\nnatural phenomena including living beings and their cognition, their ways of\nprocessing information and producing knowledge. Within ICON physical universe\nis understood as a network of computational processes on an informational\nstructure.\n",
+        "pdf_link": "http://arxiv.org/pdf/1207.1032v1"
+    },
+    {
+        "title": "Alan Turing's Legacy: Info-Computational Philosophy of Nature",
+        "authors": [
+            "Gordana Dodig-Crnkovic"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  Alan Turing's pioneering work on computability, and his ideas on\nmorphological computing support Andrew Hodges' view of Turing as a natural\nphilosopher. Turing's natural philosophy differs importantly from Galileo's\nview that the book of nature is written in the language of mathematics (The\nAssayer, 1623). Computing is more than a language of nature as computation\nproduces real time physical behaviors. This article presents the framework of\nNatural Info-computationalism as a contemporary natural philosophy that builds\non the legacy of Turing's computationalism. Info-computationalism is a\nsynthesis of Informational Structural Realism (the view that nature is a web of\ninformational structures) and Natural Computationalism (the view that nature\nphysically computes its own time development). It presents a framework for the\ndevelopment of a unified approach to nature, with common interpretation of\ninanimate nature as well as living organisms and their social networks.\nComputing is understood as information processing that drives all the changes\non different levels of organization of information and can be modeled as\nmorphological computing on data sets pertinent to informational structures. The\nuse of infocomputational conceptualizations, models and tools makes possible\nfor the first time in history the study of complex selforganizing adaptive\nsystems, including basic characteristics and functions of living systems,\nintelligence, and cognition.\n",
+        "pdf_link": "http://arxiv.org/pdf/1207.1033v1"
+    },
+    {
+        "title": "Le droit du numérique : une histoire à préserver",
+        "authors": [
+            "François Pellegrini",
+            "Sébastien Canevet"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  Although the history of informatics is recent, this field poses unusual\nproblems with respect to its preservation. These problems are amplified by\nlegal issues, digital law being in itself a subject matter whose history is\nalso worth presenting in a computer science museum. The purpose of this paper\nis to present a quick overview of the evolution of law regarding digital\nmatters, from an historical perspective as well as with respect to the\npreservation and presentation of the works.\n",
+        "pdf_link": "http://arxiv.org/pdf/1210.3597v1"
+    },
+    {
+        "title": "Computing Nature: A Network of Networks of Concurrent Information\n  Processes",
+        "authors": [
+            "Gordana Dodig Crnkovic",
+            "Raffaela Giovagnoli"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  This text presents the research field of natural/unconventional computing as\nit appears in the book COMPUTING NATURE. The articles discussed consist a\nselection of works from the Symposium on Natural Computing at AISB-IACAP\n(British Society for the Study of Artificial Intelligence and the Simulation of\nBehaviour and The International Association for Computing and Philosophy) World\nCongress 2012, held at the University of Birmingham, celebrating Turing\ncentenary. The COMPUTING NATURE is about nature considered as the totality of\nphysical existence, the universe. By physical we mean all phenomena, objects\nand processes, that are possible to detect either directly by our senses or via\ninstruments. Historically, there have been many ways of describing the universe\n(cosmic egg, cosmic tree, theistic universe, mechanistic universe) while a\nparticularly prominent contemporary approach is computational universe, as\ndiscussed in this article.\n",
+        "pdf_link": "http://arxiv.org/pdf/1210.7784v1"
+    },
+    {
+        "title": "NanoInfoBio: A case-study in interdisciplinary research",
+        "authors": [
+            "Naomi Jacobs",
+            "Martyn Amos"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  A significant amount of high-impact contemporary scientific research occurs\nwhere biology, computer science, engineering and chemistry converge. Although\nprogrammes have been put in place to support such work, the complex dynamics of\ninterdisciplinarity are still poorly understood. In this paper we highlight\npotential barriers to effective research across disciplines, and suggest, using\na case study, possible mechanisms for removing these impediments.\n",
+        "pdf_link": "http://arxiv.org/pdf/1211.5508v1"
+    },
+    {
+        "title": "Grasping Complexity",
+        "authors": [
+            "A. N. Gorban",
+            "G. S. Yablonsky"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  The century of complexity has come. The face of science has changed.\nSurprisingly, when we start asking about the essence of these changes and then\ncritically analyse the answers, the result are mostly discouraging. Most of the\nanswers are related to the properties that have been in the focus of scientific\nresearch already for more than a century (like non-linearity). This paper is\nPreface to the special issue \"Grasping Complexity\" of the journal \"Computers\nand Mathematics with Applications\". We analyse the change of era in science,\nits reasons and main changes in scientific activity and give a brief review of\nthe papers in the issue.\n",
+        "pdf_link": "http://arxiv.org/pdf/1303.3855v1"
+    },
+    {
+        "title": "Typologies of Computation and Computational Models",
+        "authors": [
+            "Mark Burgin",
+            "Gordana Dodig-Crnkovic"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  We need much better understanding of information processing and computation\nas its primary form. Future progress of new computational devices capable of\ndealing with problems of big data, internet of things, semantic web, cognitive\nrobotics and neuroinformatics depends on the adequate models of computation. In\nthis article we first present the current state of the art through\nsystematization of existing models and mechanisms, and outline basic structural\nframework of computation. We argue that defining computation as information\nprocessing, and given that there is no information without (physical)\nrepresentation, the dynamics of information on the fundamental level is\nphysical/ intrinsic/ natural computation. As a special case, intrinsic\ncomputation is used for designed computation in computing machinery. Intrinsic\nnatural computation occurs on variety of levels of physical processes,\ncontaining the levels of computation of living organisms (including highly\nintelligent animals) as well as designed computational devices. The present\narticle offers a typology of current models of computation and indicates future\npaths for the advancement of the field; both by the development of new\ncomputational models and by learning from nature how to better compute using\ndifferent mechanisms of intrinsic computation.\n",
+        "pdf_link": "http://arxiv.org/pdf/1312.2447v1"
+    },
+    {
+        "title": "Les connaissances de la toile",
+        "authors": [
+            "Serge Abiteboul"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  How to manage knowledge on the Web.\n",
+        "pdf_link": "http://arxiv.org/pdf/1312.3213v1"
+    },
+    {
+        "title": "Levels of Abstraction and the Apparent Contradictory Philosophical\n  Legacy of Turing and Shannon",
+        "authors": [
+            "Hector Zenil"
+        ],
+        "category": "cs.GL",
+        "published_year": "2014",
+        "summary": "  In a recent article, Luciano Floridi explains his view of Turing's legacy in\nconnection to the philosophy of information. I will very briefly survey one of\nTuring's other contributions to the philosophy of information and computation,\nincluding similarities to Shannon's own methodological approach to information\nthrough communication, showing how crucial they are and have been as\nmethodological strategies to understanding key aspects of these concepts. While\nFloridi's concept of Levels of Abstraction is related to the novel methodology\nof Turing's imitation game for tackling the question of machine intelligence,\nTuring's other main contribution to the philosophy of information runs contrary\nto it. Indeed, the seminal concept of computation universality strongly\nsuggests the deletion of fundamental differences among seemingly different\nlevels of description. How might we reconcile these apparently contradictory\ncontributions? I will argue that Turing's contribution should prompt us to plot\nsome directions for a philosophy of information and computation, one that\nclosely parallels the most important developments in computer science, one that\nunderstands the profound implications of the works of Turing, Shannon and\nothers.\n",
+        "pdf_link": "http://arxiv.org/pdf/1402.1099v1"
+    },
+    {
+        "title": "Bouncing Towers move faster than Hanoi Towers, but still require\n  exponential time",
+        "authors": [
+            "Jérémy Barbay"
+        ],
+        "category": "cs.GL",
+        "published_year": "2016",
+        "summary": "  The problem of the Hanoi Tower is a classic exercise in recursive\nprogramming: the solution has a simple recursive definition, and its complexity\nand the matching lower bound are the solution of a simple recursive function\n(the solution is so easy that most students memorize it and regurgitate it at\nexams without truly understanding it). We describe how some very minor changes\nin the rules of the Hanoi Tower yield various increases of complexity in the\nsolution, so that they require a deeper analysis than the classical Hanoi Tower\nproblem while still yielding exponential solutions. In particular, we analyze\nthe problem fo the Bouncing Tower, where just changing the insertion and\nextraction position from the top to the middle of the tower results in a\nsurprising increase of complexity in the solution: such a tower of $n$ disks\ncan be optimally moved in $\\sqrt{3}^n$ moves for $n$ even (i.e. less than a\nHanoi Tower of same height), via $5$ recursive functions (or, equivalently, one\nrecursion function with $5$ states).\n",
+        "pdf_link": "http://arxiv.org/pdf/1602.03934v2"
+    },
+    {
+        "title": "Life, The Mind, and Everything",
+        "authors": [
+            "Gary R. Prok"
+        ],
+        "category": "cs.GL",
+        "published_year": "2016",
+        "summary": "  Incompleteness theorems of Godel, Turing, Chaitin, and Algorithmic\nInformation Theory have profound epistemological implications. Incompleteness\nlimits our ability to ever understand every observable phenomenon in the\nuniverse. Incompleteness limits the ability of evolutionary processes from\nfinding optimal solutions. Incompleteness limits the detectability of machine\nconsciousness. This is an effort to convey these thoughts and results in a\nsomewhat entertaining manner.\n",
+        "pdf_link": "http://arxiv.org/pdf/1602.07646v2"
+    },
+    {
+        "title": "Research Methods in Computer Science: The Challenges and Issues",
+        "authors": [
+            "Hossein Hassani"
+        ],
+        "category": "cs.GL",
+        "published_year": "2017",
+        "summary": "  Research methods are essential parts in conducting any research project.\nAlthough they have been theorized and summarized based on best practices, every\nfield of science requires an adaptation of the overall approaches to perform\nresearch activities. In addition, any specific research needs a particular\nadjustment to the generalized approach and specializing them to suit the\nproject in hand. However, unlike most well-established science disciplines,\ncomputing research is not supported by well-defined, globally accepted methods.\nThis is because of its infancy and ambiguity in its definition, on one hand,\nand its extensive coverage and overlap with other fields, on the other hand.\nThis article discusses the research methods in science and engineering in\ngeneral and in computing in particular. It shows that despite several special\nparameters that make research in computing rather unique, it still follows the\nsame steps that any other scientific research would do. The article also shows\nthe particularities that researchers need to consider when they conduct\nresearch in this field.\n",
+        "pdf_link": "http://arxiv.org/pdf/1703.04080v2"
+    },
+    {
+        "title": "Kalman Filtering of Distributed Time Series",
+        "authors": [
+            "Dan Stefanoiu",
+            "Janetta Culita"
+        ],
+        "category": "cs.GL",
+        "published_year": "2017",
+        "summary": "  This paper aims to introduce an application to Kalman Filtering Theory, which\nis rather unconventional. Recent experiments have shown that many natural\nphenomena, especially from ecology or meteorology, could be monitored and\npredicted more accurately when accounting their evolution over some\ngeographical area. Thus, the signals they provide are gathered together into a\ncollection of distributed time series. Despite the common sense, such time\nseries are more or less correlated each other. Instead of processing each time\nseries independently, their collection can constitute the set of measurable\nstates provided by some open system. Modeling and predicting the system states\ncan take benefit from the family of Kalman filtering algorithms. The article\ndescribes an adaptation of basic Kalman filter to the context of distributed\nsignals collections and completes with an application coming from Meteorology.\n",
+        "pdf_link": "http://arxiv.org/pdf/1703.07194v1"
+    },
+    {
+        "title": "From Helmut Jürgensen's Former Students: The Game of Informatics\n  Research",
+        "authors": [
+            "Mark Daley",
+            "Mark Eramian",
+            "Christopher Power",
+            "Ian McQuillan"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  Personal reflections are given on being students of Helmut J\\\"urgensen. Then,\nwe attempt to address his hypothesis that informatics follows trend-like\nbehaviours through the use of a content analysis of university job\nadvertisements, and then via simulation techniques from the area of\nquantitative economics.\n",
+        "pdf_link": "http://arxiv.org/pdf/1903.03405v1"
+    },
+    {
+        "title": "Solving the Black Box Problem: A Normative Framework for Explainable\n  Artificial Intelligence",
+        "authors": [
+            "Carlos Zednik"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  Many of the computing systems programmed using Machine Learning are opaque:\nit is difficult to know why they do what they do or how they work. The\nExplainable Artificial Intelligence research program aims to develop analytic\ntechniques with which to render opaque computing systems transparent, but lacks\na normative framework with which to evaluate these techniques' explanatory\nsuccess. The aim of the present discussion is to develop such a framework,\nwhile paying particular attention to different stakeholders' distinct\nexplanatory requirements. Building on an analysis of 'opacity' from philosophy\nof science, this framework is modeled after David Marr's influential account of\nexplanation in cognitive science. Thus, the framework distinguishes between the\ndifferent questions that might be asked about an opaque computing system, and\nspecifies the general way in which these questions should be answered. By\napplying this normative framework to current techniques such as input\nheatmapping, feature-detector identification, and diagnostic classification, it\nwill be possible to determine whether and to what extent the Black Box Problem\ncan be solved.\n",
+        "pdf_link": "http://arxiv.org/pdf/1903.04361v2"
+    },
+    {
+        "title": "From the digital data revolution to digital health and digital economy\n  toward a digital society: Pervasiveness of Artificial Intelligence",
+        "authors": [
+            "Frank Emmert-Streib"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  Technological progress has led to powerful computers and communication\ntechnologies that penetrate nowadays all areas of science, industry and our\nprivate lives. As a consequence, all these areas are generating digital traces\nof data amounting to big data resources. This opens unprecedented opportunities\nbut also challenges toward the analysis, management, interpretation and\nutilization of these data. Fortunately, recent breakthroughs in deep learning\nalgorithms complement now machine learning and statistics methods for an\nefficient analysis of such data. Furthermore, advances in text mining and\nnatural language processing, e.g., word-embedding methods, enable also the\nprocessing of large amounts of text data from diverse sources as governmental\nreports, blog entries in social media or clinical health records of patients.\nIn this paper, we present a perspective on the role of artificial intelligence\nin these developments and discuss also potential problems we are facing in a\ndigital society.\n",
+        "pdf_link": "http://arxiv.org/pdf/2008.12672v2"
+    },
+    {
+        "title": "Writing and Publishing Scientific Articles in Computer Science",
+        "authors": [
+            "Wladmir Cardoso Brandão"
+        ],
+        "category": "cs.GL",
+        "published_year": "2015",
+        "summary": "  Over 15 years of teaching, advising students and coordinating scientific\nresearch activities and projects in computer science, we have observed the\ndifficulties of students to write scientific papers to present the results of\ntheir research practices. In addition, they repeatedly have doubts about the\npublishing process. In this article we propose a conceptual framework to\nsupport the writing and publishing of scientific papers in computer science,\nproviding a kind of guide for computer science students to effectively present\nthe results of their research practices, particularly for experimental\nresearch.\n",
+        "pdf_link": "http://arxiv.org/pdf/1506.00555v1"
+    },
+    {
+        "title": "How to Read a Research Compendium",
+        "authors": [
+            "Daniel Nüst",
+            "Carl Boettiger",
+            "Ben Marwick"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  Researchers spend a great deal of time reading research papers. Keshav (2012)\nprovides a three-pass method to researchers to improve their reading skills.\nThis article extends Keshav's method for reading a research compendium.\nResearch compendia are an increasingly used form of publication, which packages\nnot only the research paper's text and figures, but also all data and software\nfor better reproducibility. We introduce the existing conventions for research\ncompendia and suggest how to utilise their shared properties in a structured\nreading process. Unlike the original, this article is not build upon a long\nhistory but intends to provide guidance at the outset of an emerging practice.\n",
+        "pdf_link": "http://arxiv.org/pdf/1806.09525v1"
+    },
+    {
+        "title": "A man with a computer face (to the 80th anniversary of Ivan Edward\n  Sutherland)",
+        "authors": [
+            "S. O. Semerikov",
+            "A. M. Striuk",
+            "K. I. Slovak",
+            "N. V. Rashevska",
+            "Yu. V. Yechkalo"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  The article presents the main milestones of the science and technology\nbiography of Ivan Edward Sutherland. The influence of the family and the school\non the development of its research competencies is shown, and little-known\nbiographical facts explaining the evolution of his scientific interests is\npresented: from dynamic object-oriented graphic systems through systems of\nvirtual reality to asynchronous circuits.\n",
+        "pdf_link": "http://arxiv.org/pdf/1807.07824v1"
+    },
+    {
+        "title": "Big Data: the End of the Scientific Method?",
+        "authors": [
+            "Sauro Succi",
+            "Peter V. Coveney"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  We argue that the boldest claims of Big Data are in need of revision and\ntoning-down, in view of a few basic lessons learned from the science of complex\nsystems. We point out that, once the most extravagant claims of Big Data are\nproperly discarded, a synergistic merging of BD with big theory offers\nconsiderable potential to spawn a new scientific paradigm capable of overcoming\nsome of the major barriers confronted by the modern scientific method\noriginating with Galileo. These obstacles are due to the presence of\nnonlinearity, nonlocality and hyperdimensions which one encounters frequently\nin multiscale modelling.\n",
+        "pdf_link": "http://arxiv.org/pdf/1807.09515v1"
+    },
+    {
+        "title": "Retracing and assessing the CEP project",
+        "authors": [
+            "Giovanni A. Cignoni",
+            "Fabio Gadducci"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  The last decade witnessed a renewed interest in the development of the\nItalian computer industry and in the role of the Fifties pioneers in Rome,\nMilan, Ivrea, and Pisa. The aim of the paper is to retrace some steps of the\nCEP project, carried out by the University of Pisa in collaboration with\nOlivetti, by reassessing the documents preserved in the University archives.\nThe project was a seminal enterprise for Italy, and among its accomplishments\nit delivered in 1957 the first Italian computer. The mix of public sector\nfunding and industrial foretelling witnessed by the project is one of the\nleading examples in Italy of best practices, and its success paved the way for\nthe birth of Computer Science in the country as an industry as well as a\nscientific discipline.\n",
+        "pdf_link": "http://arxiv.org/pdf/1904.00944v1"
+    },
+    {
+        "title": "The need for modern computing paradigm: Science applied to computing",
+        "authors": [
+            "János Végh"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  More than hundred years ago the 'classic physics' was it in its full power,\nwith just a few unexplained phenomena; which however led to a revolution and\nthe development of the 'modern physics'. Today the computing is in a similar\nposition: computing is a sound success story, with exponentially growing\nutilization, but with a growing number of difficulties and unexpected issues as\nmoving towards extreme utilization conditions. In physics studying the nature\nunder extreme conditions has lead to the understanding of the relativistic and\nquantal behavior. Quite similarly in computing some phenomena, acquired in\nconnection with extreme (computing) conditions, cannot be understood based on\nof the 'classic computing paradigm'. The paper draws the attention that under\nextreme conditions qualitatively different behaviors may be encountered in both\nphysics and computing, and pinpointing that certain, formerly unnoticed or\nneglected aspects enable to explain new phenomena as well as to enhance\ncomputing features. Moreover, an idea of modern computing paradigm\nimplementation is proposed.\n",
+        "pdf_link": "http://arxiv.org/pdf/1908.02651v3"
+    },
+    {
+        "title": "Oprema -- The Relay Computer of Carl Zeiss Jena",
+        "authors": [
+            "Juergen F. H. Winkler"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  The Oprema (Optikrechenmaschine = computer for optical calculations) was a\nrelay computer whose development was initiated by Herbert Kortum and which was\ndesigned and built by a team under the leadership of Wilhelm Kaemmerer at Carl\nZeiss Jena (CZJ) in 1954 and 1955. Basic experiments, design and construction\nof machine-1 were all done, partly concurrently, in the remarkably short time\nof about 14 months. Shortly after the electronic G 2 of Heinz Billing in\nGoettingen it was the 7th universal computer in Germany and the 1st in the GDR.\nThe Oprema consisted of two identical machines. One machine consisted of about\n8,300 relays, 45,000 selenium rectifiers and 250 km cable. The main reason for\nthe construction of the Oprema was the computational needs of CZJ, which was\nthe leading company for optics and precision mechanics in the GDR. During its\nlifetime (1955-1963) the Oprema was applied by CZJ and a number of other\ninstitutes and companies in the GDR. The paper presents new details of the\nOprema project and of the arithmetic operations implemented in the Oprema.\nAdditionally, it covers briefly the lives of the two protagonists, W. Kaemmerer\nand H. Kortum, and draws some comparisons with other early projects, namely\nColossus, ASCC/Mark 1 and ENIAC. Finally, it discusses the question, whether\nKortum is a German computer pioneer.\n",
+        "pdf_link": "http://arxiv.org/pdf/1908.09549v1"
+    },
+    {
+        "title": "Kolmogorov's legacy: Algorithmic Theory of Informatics and Kolmogorov\n  Programmable Technology",
+        "authors": [
+            "Sergei Levashkin",
+            "Victor Alexandrov",
+            "Adolfo Guzmán-Arenas"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  In this survey, we explore Andrei Nikolayevich Kolmogorov's seminal work in\njust one of his many facets: its influence Computer Science especially his\nviewpoint of what herein we call 'Algorithmic Theory of Informatics.'\n  Can a computer file 'reduce' its 'size' if we add to it new symbols? Do\nequations of state like second Newton law in Physics exist in Computer Science?\nCan Leibniz' principle of identification by indistinguishability be formalized?\n  In the computer, there are no coordinates, no distances, and no dimensions;\nmost of traditional mathematical approaches do not work. The computer processes\nfinite binary sequences i.e. the sequences of 0 and 1. A natural question\narises: Should we continue today, as we have done for many years, to approach\nComputer Science problems by using classical mathematical apparatus such as\n'mathematical modeling'? The first who drew attention to this question and gave\ninsightful answers to it was Kolmogorov in 1960s. Kolmogorov's empirical\npostulate about existence of a program that translates 'a natural number into\nits binary record and the record into the number' formulated in 1958 represents\na hint of Kolmogorov's approach to Computer Science.\n  Following his ideas, we interpret Kolmogorov algorithm, Kolmogorov machine,\nand Kolmogorov complexity in the context of modern information technologies\nshowing that they essentially represent fundamental elements of Algorithmic\nTheory of Informatics, Kolmogorov Programmable Technology, and new Komputer\nMathematics i.e. Mathematics of computers.\n",
+        "pdf_link": "http://arxiv.org/pdf/2006.11842v1"
+    },
+    {
+        "title": "Philosophical Solution to P=?NP: P is Equal to NP",
+        "authors": [
+            "Steven Meyer"
+        ],
+        "category": "cs.GL",
+        "published_year": "2016",
+        "summary": "  The P=?NP problem is philosophically solved by showing P is equal to NP in\nthe random access with unit multiply (MRAM) model. It is shown that the MRAM\nmodel empirically best models computation hardness. The P=?NP problem is shown\nto be a scientific rather than a mathematical problem. The assumptions involved\nin the current definition of the P?=NP problem as a problem involving non\ndeterministic Turing Machines (NDTMs) from axiomatic automata theory are\ncriticized. The problem is also shown to be neither a problem in pure nor\napplied mathematics. The details of The MRAM model and the well known Hartmanis\nand Simon construction that shows how to code and simulate NDTMs on MRAM\nmachines is described. Since the computation power of MRAMs is the same as\nNDTMs, P is equal to NP. The paper shows that the justification for the NDTM\nP?=NP problem using a letter from Kurt Godel to John Von Neumann is incorrect\nby showing Von Neumann explicitly rejected automata models of computation\nhardness and used his computer architecture for modeling computation that is\nexactly the MRAM model. The paper argues that Deolalikar's scientific solution\nshowing P not equal to NP if assumptions from statistical physics are used,\nneeds to be revisited.\n",
+        "pdf_link": "http://arxiv.org/pdf/1603.06018v1"
+    },
+    {
+        "title": "Dialogue Concerning The Two Chief World Views",
+        "authors": [
+            "Craig Alan Feinstein"
+        ],
+        "category": "cs.GL",
+        "published_year": "2016",
+        "summary": "  In 1632, Galileo Galilei wrote a book called \\textit{Dialogue Concerning the\nTwo Chief World Systems} which compared the new Copernican model of the\nuniverse with the old Ptolemaic model. His book took the form of a dialogue\nbetween three philosophers, Salviati, a proponent of the Copernican model,\nSimplicio, a proponent of the Ptolemaic model, and Sagredo, who was initially\nopen-minded and neutral. In this paper, I am going to use Galileo's idea to\npresent a dialogue between three modern philosophers, Mr. Spock, a proponent of\nthe view that $\\mathsf{P} \\neq \\mathsf{NP}$, Professor Simpson, a proponent of\nthe view that $\\mathsf{P} = \\mathsf{NP}$, and Judge Wapner, who is initially\nopen-minded and neutral.\n",
+        "pdf_link": "http://arxiv.org/pdf/1605.08639v1"
+    },
+    {
+        "title": "Paths to Unconventional Computing: Causality in Complexity",
+        "authors": [
+            "Hector Zenil"
+        ],
+        "category": "cs.GL",
+        "published_year": "2017",
+        "summary": "  I describe my path to unconventionality in my exploration of theoretical and\napplied aspects of computation towards revealing the algorithmic and\nreprogrammable properties and capabilities of the world, in particular related\nto applications of algorithmic complexity in reshaping molecular biology and\ntackling the challenges of causality in science.\n",
+        "pdf_link": "http://arxiv.org/pdf/1706.08803v1"
+    },
+    {
+        "title": "A Template and Suggestions for Writing Easy-to-Read Research Articles",
+        "authors": [
+            "Tansu Alpcan"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  The number of research papers written has been growing at least linearly --\nif not exponentially -- in recent years. In proportion, the amount of time a\nreader allocates per paper has been decreasing. While an accessible paper will\nbe appreciated by a large audience, hard-to-read papers may remain obscure for\na long time regardless of scientific merit. Unfortunately, there is still\ninsufficient emphasis on good written and oral communication skills in\ntechnical disciplines, especially in engineering.\n  As an academic, I have realised over the years that I keep telling my\nstudents the same things over and over again when they write papers, reports,\npresentations, and theses. This article contains some of those suggestions and\nserves as a limited template for organising research articles. I have adopted a\nvery practical and personal approach and don't claim that this is a formal\ncontribution to the scientific communication literature. However, I hope that\nthis article will not only make my life a bit easier but also help other\ngraduate students and academic supervisors.\n",
+        "pdf_link": "http://arxiv.org/pdf/1907.12204v1"
+    },
+    {
+        "title": "Artificial Intelligence, Chaos, Prediction and Understanding in Science",
+        "authors": [
+            "Miguel A. F. Sanjuan"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  Machine learning and deep learning techniques are contributing much to the\nadvancement of science. Their powerful predictive capabilities appear in\nnumerous disciplines, including chaotic dynamics, but they miss understanding.\nThe main thesis here is that prediction and understanding are two very\ndifferent and important ideas that should guide us about the progress of\nscience. Furthermore, it is emphasized the important role played by that\nnonlinear dynamical systems for the process of understanding. The path of the\nfuture of science will be marked by a constructive dialogue between big data\nand big theory, without which we cannot understand.\n",
+        "pdf_link": "http://arxiv.org/pdf/2003.01771v2"
+    },
+    {
+        "title": "Edsger Dijkstra. The Man Who Carried Computer Science on His Shoulders",
+        "authors": [
+            "Krzysztof R. Apt"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  This a biographical essay about Edsger Wybe Dijkstra.\n",
+        "pdf_link": "http://arxiv.org/pdf/2010.00506v1"
+    },
+    {
+        "title": "Edsger W. Dijkstra: a Commemoration",
+        "authors": [
+            "Krzysztof R. Apt",
+            "Tony Hoare"
+        ],
+        "category": "cs.GL",
+        "published_year": "2021",
+        "summary": "  This article is a multiauthored portrait of Edsger Wybe Dijkstra that\nconsists of testimonials written by several friends, colleagues, and students\nof his. It provides unique insights into his personality, working style and\nhabits, and his influence on other computer scientists, as a researcher,\nteacher, and mentor.\n",
+        "pdf_link": "http://arxiv.org/pdf/2104.03392v1"
+    },
+    {
+        "title": "What Kind of Person Wins the Turing Award?",
+        "authors": [
+            "Zhongkai Shangguan",
+            "Zihe Zheng",
+            "Jiebo Luo"
+        ],
+        "category": "cs.GL",
+        "published_year": "2021",
+        "summary": "  Computer science has grown rapidly since its inception in the 1950s and the\npioneers in the field are celebrated annually by the A.M. Turing Award. In this\npaper, we attempt to shed light on the path to influential computer scientists\nby examining the characteristics of the 72 Turing Award laureates. To achieve\nthis goal, we build a comprehensive dataset of the Turing Award laureates and\nanalyze their characteristics, including their personal information, family\nbackground, academic background, and industry experience. The FP-Growth\nalgorithm is used for frequent feature mining. Logistic regression plot, pie\nchart, word cloud and map are generated accordingly for each of the interesting\nfeatures to uncover insights regarding personal factors that drive influential\nwork in the field of computer science. In particular, we show that the Turing\nAward laureates are most commonly white, male, married, United States citizen,\nand received a PhD degree. Our results also show that the age at which the\nlaureate won the award increases over the years; most of the Turing Award\nlaureates did not major in computer science; birth order is strongly related to\nthe winners' success; and the number of citations is not as important as one\nwould expect.\n",
+        "pdf_link": "http://arxiv.org/pdf/2104.05636v1"
+    },
+    {
+        "title": "A Guide for New Program Committee Members at Theoretical Computer\n  Science Conferences",
+        "authors": [
+            "Yfke Dulek",
+            "Stacey Jeffery",
+            "Christian Majenz",
+            "Christian Schaffner",
+            "Florian Speelman",
+            "Ronald de Wolf"
+        ],
+        "category": "cs.GL",
+        "published_year": "2021",
+        "summary": "  In theoretical computer science, conferences play an important role in the\nscientific process. The decisions whether to accept or reject articles is taken\nby the program committee (PC) members. Serving on a PC for the first time can\nbe a daunting experience. This guide will help new program-committee members to\nunderstand how the system works, and provide useful tips and guidelines. It\ndiscusses every phase of the paper-selection process, and the tasks associated\nto it.\n",
+        "pdf_link": "http://arxiv.org/pdf/2105.02773v1"
+    },
+    {
+        "title": "Human-Machine Interaction in the Light of Turing and Wittgenstein",
+        "authors": [
+            "Charles Bodon"
+        ],
+        "category": "cs.GL",
+        "published_year": "2021",
+        "summary": "  We propose a study of the constitution of meaning in human-computer\ninteraction based on Turing and Wittgenstein's definitions of thought,\nunderstanding, and decision. We show by the comparative analysis of the\nconceptual similarities and differences between the two authors that the common\nsense between humans and machines is co-constituted in and from action and that\nit is precisely in this co-constitution that lies the social value of their\ninteraction. This involves problematizing human-machine interaction around the\nquestion of what it means to \"follow a rule\" to define and distinguish the\ninterpretative modes and decision-making behaviors of each. We conclude that\nthe mutualization of signs that takes place through the human-machine dialogue\nis at the foundation of the constitution of a computerized society.\n",
+        "pdf_link": "http://arxiv.org/pdf/2105.05302v2"
+    },
+    {
+        "title": "Data Science in Perspective",
+        "authors": [
+            "Rogerio Rossi"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  Data and Science has stood out in the generation of results, whether in the\nprojects of the scientific domain or business domain. CERN Project, Scientific\nInstitutes, companies like Walmart, Google, Apple, among others, need data to\npresent their results and make predictions in the competitive data world. Data\nand Science are words that together culminated in a globally recognized term\ncalled Data Science. Data Science is in its initial phase, possibly being part\nof formal sciences and also being presented as part of applied sciences,\ncapable of generating value and supporting decision making. Data Science\nconsiders science and, consequently, the scientific method to promote decision\nmaking through data intelligence. In many cases, the application of the method\n(or part of it) is considered in Data Science projects in scientific domain\n(social sciences, bioinformatics, geospatial projects) or business domain\n(finance, logistic, retail), among others. In this sense, this article\naddresses the perspectives of Data Science as a multidisciplinary area,\nconsidering science and the scientific method, and its formal structure which\nintegrate Statistics, Computer Science, and Business Science, also taking into\naccount Artificial Intelligence, emphasizing Machine Learning, among others.\nThe article also deals with the perspective of applied Data Science, since Data\nScience is used for generating value through scientific and business projects.\nData Science persona is also discussed in the article, concerning the education\nof Data Science professionals and its corresponding profiles, since its\nprojection changes the field of data in the world.\n",
+        "pdf_link": "http://arxiv.org/pdf/2201.05852v1"
+    },
+    {
+        "title": "Moore's Law is dead, long live Moore's Law!",
+        "authors": [
+            "Nick Zhang"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  Moore's Law has been used by semiconductor industry as predicative indicators\nof the industry and it has become a self-fulfilling prophecy. Now more people\ntend to agree that the original Moore's Law started to falter. This paper\nproposes a possible quantitative modification to Moore's Law. It can cover\nother derivative laws of Moore's Law as well. It intends to more accurately\npredict the roadmap of chip's performance and energy consumption.\n",
+        "pdf_link": "http://arxiv.org/pdf/2205.15011v1"
+    },
+    {
+        "title": "50 Years of Computational Complexity: Hao Wang and the Theory of\n  Computation",
+        "authors": [
+            "Nick Zhang"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  If Turing's groundbreaking paper in 1936 laid the foundation of the theory of\ncomputation (ToC), it is no exaggeration to say that Cook's paper in 1971, \"The\ncomplexity of theorem proving procedures\", [4] has pioneered the study of\ncomputational complexity. So computational complexity, as an independent\nresearch field, is 50 years old now (2021) if we date from Cook's article. This\nyear coincides with the 100th birthday of Cook's mentor Hao Wang, one of the\nmost important logicians. This paper traces the origin of computational\ncomplexity, and meanwhile, tries to sort out the instrumental role that Wang\nplayed in the process.\n",
+        "pdf_link": "http://arxiv.org/pdf/2206.05274v1"
+    },
+    {
+        "title": "Mary Kenneth Keller: First US PhD in Computer Science",
+        "authors": [
+            "Jennifer Head",
+            "Dianne P. O'Leary"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  In June 1965, Sister Mary Kenneth Keller, BVM, received the first US PhD in\nComputer Science, and this paper outlines her life and accomplishments. As a\nscholar, she has the distinction of being an early advocate of\nlearning-by-example in artificial intelligence. Her main scholarly contribution\nwas in shaping computer science education in high schools and small colleges.\nShe was an evangelist for viewing the computer as a symbol manipulator, for\nproviding computer literacy to everyone, and for the use of computers in\nservice to humanity. She was far ahead of her time in working to ensure a place\nfor women in technology and in eliminating barriers preventing their\nparticipation, such as poor access to education and daycare. She was a strong\nand spirited woman, a visionary in seeing how computers would revolutionize our\nlives. A condensation of this paper appeared as, ``The Legacy of Mary Kenneth\nKeller, First U.S. Ph.D. in Computer Science,\" Jennifer Head and Dianne P.\nO'Leary, IEEE Annals of the History of Computing 45(1):55--63, January-March\n2023.\n",
+        "pdf_link": "http://arxiv.org/pdf/2208.01765v2"
+    },
+    {
+        "title": "Decentralized Infrastructure for (Neuro)science",
+        "authors": [
+            "Jonny L. Saunders"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  The most pressing problems in science are neither empirical nor theoretical,\nbut infrastructural. Scientific practice is defined by coproductive, mutually\nreinforcing infrastructural deficits and incentive systems that everywhere\nconstrain and contort our art of curiosity in service of profit and prestige.\nOur infrastructural problems are not unique to science, but reflective of the\nbroader logic of digital enclosure where platformatized control of information\nproduction and extraction fuels some of the largest corporations in the world.\nI have taken lessons learned from decades of intertwined digital cultures\nwithin and beyond academia like wikis, pirates, and librarians in order to\ndraft a path towards more liberatory infrastructures for both science and\nsociety. Based on a system of peer-to-peer linked data, I sketch interoperable\nsystems for shared data, tools, and knowledge that map onto three domains of\nplatform capture: storage, computation and communication. The challenge of\ninfrastructure is not solely technical, but also social and cultural, and so I\nattempt to ground a practical development blueprint in an ethics for organizing\nand maintaining it. I intend this draft as a rallying call for organization, to\nbe revised with the input of collaborators and through the challenges posed by\nits implementation. I argue that a more liberatory future for science is\nneither utopian nor impractical -- the truly impractical choice is to continue\nto organize science as prestige fiefdoms resting on a pyramid scheme of\nunderpaid labor, playing out the clock as every part of our work is swallowed\nwhole by circling information conglomerates. It was arguably scientists looking\nfor a better way to communicate that created something as radical as the\ninternet in the first place, and I believe we can do it again.\n",
+        "pdf_link": "http://arxiv.org/pdf/2209.07493v1"
+    },
+    {
+        "title": "The First Computer Program",
+        "authors": [
+            "Raúl Rojas"
+        ],
+        "category": "cs.GL",
+        "published_year": "2023",
+        "summary": "  In 1837, the first computer program in history was sketched by the renowned\nmathematician and inventor Charles Babbage. It was a program for the Analytical\nEngine. The program consists of a sequence of arithmetical operations and the\nnecessary variable addresses (memory locations) of the arguments and the\nresult, displayed in tabular fashion, like a program trace. The program\ncomputes the solutions for a system of two linear equations in two unknowns.\n",
+        "pdf_link": "http://arxiv.org/pdf/2303.13740v1"
+    },
+    {
+        "title": "ChatGPT believes it is conscious",
+        "authors": [
+            "Arend Hintze"
+        ],
+        "category": "cs.GL",
+        "published_year": "2023",
+        "summary": "  The development of advanced generative chat models, such as ChatGPT, has\nraised questions about the potential consciousness of these tools and the\nextent of their general artificial intelligence. ChatGPT consistent avoidance\nof passing the test is here overcome by asking ChatGPT to apply the Turing test\nto itself. This explores the possibility of the model recognizing its own\nsentience. In its own eyes, it passes this test. ChatGPT's self-assessment\nmakes serious implications about our understanding of the Turing test and the\nnature of consciousness. This investigation concludes by considering the\nexistence of distinct types of consciousness and the possibility that the\nTuring test is only effective when applied between consciousnesses of the same\nkind. This study also raises intriguing questions about the nature of AI\nconsciousness and the validity of the Turing test as a means of verifying such\nconsciousness.\n",
+        "pdf_link": "http://arxiv.org/pdf/2304.12898v1"
+    },
+    {
+        "title": "A guideline for the methodology chapter in computer science\n  dissertations",
+        "authors": [
+            "Marco Araujo"
+        ],
+        "category": "cs.GL",
+        "published_year": "2024",
+        "summary": "  Rather than simply offering suggestions, this guideline for the methodology\nchapter in computer science dissertations provides thorough insights on how to\ndevelop a strong research methodology within the area of computer science. The\nmethod is structured into several parts starting with an overview of research\nstrategies which include experiments, surveys, interviews and case studies. The\nguide highlights the significance of defining a research philosophy and\nreasoning by talking about paradigms such as positivism, constructivism and\npragmatism. Besides, it reveals the importance of types of research including\ndeductive and inductive methodologies; basic versus applied research\napproaches. Moreover, this guideline discusses data collection and analysis\nintricacies that divide data into quantitative and qualitative typologies. It\nexplains different ways in which data can be collected from observation to\nexperimentation, interviews or surveys. It also mentions ethical considerations\nin research emphasizing ethical behavior like following academic principles. In\ngeneral, this guideline is an essential tool for undertaking computer science\ndissertations that help researchers structure their work while maintaining\nethical standards in their study design.\n",
+        "pdf_link": "http://arxiv.org/pdf/2405.00040v1"
+    },
+    {
+        "title": "Writing and Editing Complexity Theory: Tales and Tools",
+        "authors": [
+            "Lane A. Hemaspaandra",
+            "Alan L. Selman"
+        ],
+        "category": "cs.GL",
+        "published_year": "1998",
+        "summary": "  Each researcher should have a full shelf---physical or virtual---of books on\nwriting and editing prose. Though we make no claim to any special degree of\nexpertise, we recently edited a book of complexity theory surveys (Complexity\nTheory Retrospective II, Springer-Verlag, 1997), and in doing so we were\nbrought into particularly close contact with the subject of this article, and\nwith a number of the excellent resources available to writers and editors. In\nthis article, we list some of these resources, and we also relate some of the\nadventures we had as our book moved from concept to reality.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/9811005v1"
+    },
+    {
+        "title": "DAB Content Annotation and Receiver Hardware Control with XML",
+        "authors": [
+            "Darran Nathan",
+            "Eva Rosdiana",
+            "Chua Beng Koon"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  The Eureka-147 Digital Audio Broadcasting (DAB) standard defines the 'dynamic\nlabels' data field for holding information about the transmission content.\nHowever, this information does not follow a well-defined structure since it is\ndesigned to carry text for direct output to displays, for human interpretation.\nThis poses a problem when machine interpretation of DAB content information is\ndesired. Extensible Markup Language (XML) was developed to allow for the\nwell-defined, structured machine-to-machine exchange of data over computer\nnetworks. This article proposes a novel technique of machine-interpretable DAB\ncontent annotation and receiver hardware control, involving the utilisation of\nXML as metadata in the transmitted DAB frames.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0404026v1"
+    },
+    {
+        "title": "The Persistent Buffer Tree : An I/O-efficient Index for Temporal Data",
+        "authors": [
+            "Saju Jude Dominic",
+            "G. Sajith"
+        ],
+        "category": "cs.GL",
+        "published_year": "2004",
+        "summary": "  In a variety of applications, we need to keep track of the development of a\ndata set over time. For maintaining and querying this multi version data\nI/O-efficiently, external memory data structures are required. In this paper,\nwe present a probabilistic self-balancing persistent data structure in external\nmemory called the persistent buffer tree, which supports insertions, updates\nand deletions of data items at the present version and range queries for any\nversion, past or present. The persistent buffer tree is I/O-optimal in the\nsense that the expected amortized I/O performance bounds are asymptotically the\nsame as the deterministic amortized bounds of the (single version) buffer tree\nin the worst case.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0404033v1"
+    },
+    {
+        "title": "Tarski's influence on computer science",
+        "authors": [
+            "Solomon Feferman"
+        ],
+        "category": "cs.GL",
+        "published_year": "2006",
+        "summary": "  The influence of Alfred Tarski on computer science was indirect but\nsignificant in a number of directions and was in certain respects fundamental.\nHere surveyed is the work of Tarski on the decision procedure for algebra and\ngeometry, the method of elimination of quantifiers, the semantics of formal\nlanguages, modeltheoretic preservation theorems, and algebraic logic; various\nconnections of each with computer science are taken up.\n",
+        "pdf_link": "http://arxiv.org/pdf/cs/0608062v2"
+    },
+    {
+        "title": "Towards an explanatory and computational theory of scientific discovery",
+        "authors": [
+            "Chaomei Chen",
+            "Yue Chen",
+            "Mark Horowitz",
+            "Haiyan Hou",
+            "Zeyuan Liu",
+            "Don Pellegrino"
+        ],
+        "category": "cs.GL",
+        "published_year": "2009",
+        "summary": "  We propose an explanatory and computational theory of transformative\ndiscoveries in science. The theory is derived from a recurring theme found in a\ndiverse range of scientific change, scientific discovery, and knowledge\ndiffusion theories in philosophy of science, sociology of science, social\nnetwork analysis, and information science. The theory extends the concept of\nstructural holes from social networks to a broader range of associative\nnetworks found in science studies, especially including networks that reflect\nunderlying intellectual structures such as co-citation networks and\ncollaboration networks. The central premise is that connecting otherwise\ndisparate patches of knowledge is a valuable mechanism of creative thinking in\ngeneral and transformative scientific discovery in particular.\n",
+        "pdf_link": "http://arxiv.org/pdf/0904.1439v1"
+    },
+    {
+        "title": "The Business of Selling Electronic Documents",
+        "authors": [
+            "Manuel Oriol"
+        ],
+        "category": "cs.GL",
+        "published_year": "2009",
+        "summary": "  The music industry has huge troubles adapting to the new technologies. As\nmany pointed out, when copying music is essentially free and socially accepted\nit becomes increasingly tempting for users to infringe copyrights and copy\nmusic from one person to another. The answer of the music industry is to outlaw\na majority of citizens. This article describes how the music industry should\nreinvent itself and adapt to a world where the network is ubiquitous and\nexchanging information is essentially free. It relies on adapting prices to the\ndemand and lower costs of electronic documents in a dramatic way.\n",
+        "pdf_link": "http://arxiv.org/pdf/0904.3243v1"
+    },
+    {
+        "title": "Exploration of the Gap Between Computer Science Curriculum and\n  Industrial I.T Skills Requirements",
+        "authors": [
+            "Azeez Nureni Ayofe",
+            "Azeez Raheem Ajetola"
+        ],
+        "category": "cs.GL",
+        "published_year": "2009",
+        "summary": "  This paper sets out to examine the skills gaps between the industrial\napplication of Information Technology and university academic programmes\n(curriculum). It looks at some of the causes, and considers the probable\nsolutions for bridging the gap between them and suggests the possibilities of\nexploring a new role for our universities and employers of labor. It also\nhighlights strategies to abolish the misalignment between university and\nindustry. The main concept is to blend the academic rigidity with the\nindustrial relevance.\n",
+        "pdf_link": "http://arxiv.org/pdf/0908.4353v1"
+    },
+    {
+        "title": "Axiomatic Tools versus Constructive approach to Unconventional\n  Algorithms",
+        "authors": [
+            "Gordana Dodig-Crnkovic",
+            "Mark Burgin"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  In this paper, we analyze axiomatic issues of unconventional computations\nfrom a methodological and philosophical point of view. We explain how the new\nmodels of algorithms changed the algorithmic universe, making it open and\nallowing increased flexibility and creativity. However, the greater power of\nnew types of algorithms also brought the greater complexity of the algorithmic\nuniverse, demanding new tools for its study. That is why we analyze new\npowerful tools brought forth by the axiomatic theory of algorithms, automata\nand computation.\n",
+        "pdf_link": "http://arxiv.org/pdf/1207.1034v1"
+    },
+    {
+        "title": "Rethinking Abstractions for Big Data: Why, Where, How, and What",
+        "authors": [
+            "Mary Hall",
+            "Robert M. Kirby",
+            "Feifei Li",
+            "Miriah Meyer",
+            "Valerio Pascucci",
+            "Jeff M. Phillips",
+            "Rob Ricci",
+            "Jacobus Van der Merwe",
+            "Suresh Venkatasubramanian"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  Big data refers to large and complex data sets that, under existing\napproaches, exceed the capacity and capability of current compute platforms,\nsystems software, analytical tools and human understanding. Numerous lessons on\nthe scalability of big data can already be found in asymptotic analysis of\nalgorithms and from the high-performance computing (HPC) and applications\ncommunities. However, scale is only one aspect of current big data trends;\nfundamentally, current and emerging problems in big data are a result of\nunprecedented complexity--in the structure of the data and how to analyze it,\nin dealing with unreliability and redundancy, in addressing the human factors\nof comprehending complex data sets, in formulating meaningful analyses, and in\nmanaging the dense, power-hungry data centers that house big data.\n  The computer science solution to complexity is finding the right\nabstractions, those that hide as much triviality as possible while revealing\nthe essence of the problem that is being addressed. The \"big data challenge\"\nhas disrupted computer science by stressing to the very limits the familiar\nabstractions which define the relevant subfields in data analysis, data\nmanagement and the underlying parallel systems. As a result, not enough of\nthese challenges are revealed by isolating abstractions in a traditional\nsoftware stack or standard algorithmic and analytical techniques, and attempts\nto address complexity either oversimplify or require low-level management of\ndetails. The authors believe that the abstractions for big data need to be\nrethought, and this reorganization needs to evolve and be sustained through\ncontinued cross-disciplinary collaboration.\n",
+        "pdf_link": "http://arxiv.org/pdf/1306.3295v1"
+    },
+    {
+        "title": "Epistemology of Modeling and Simulation: How can we gain Knowledge from\n  Simulations?",
+        "authors": [
+            "Andreas Tolk",
+            "Saikou Y. Diallo",
+            "Jose J. Padilla",
+            "Ross Gore"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  Epistemology is the branch of philosophy that deals with gaining knowledge.\nIt is closely related to ontology. The branch that deals with questions like\n\"What is real?\" and \"What do we know?\" as it provides these components. When\nusing modeling and simulation, we usually imply that we are doing so to either\napply knowledge, in particular when we are using them for training and\nteaching, or that we want to gain new knowledge, for example when doing\nanalysis or conducting virtual experiments. This paper looks at the history of\nscience to give a context to better cope with the question, how we can gain\nknowledge from simulation. It addresses aspects of computability and the\ngeneral underlying mathematics, and applies the findings to validation and\nverification and development of federations. As simulations are understood as\ncomputable executable hypotheses, validation can be understood as hypothesis\ntesting and theory building. The mathematical framework allows furthermore\naddressing some challenges when developing federations and the potential\nintroduction of contradictions when composing different theories, as they are\nrepresented by the federated simulation systems.\n",
+        "pdf_link": "http://arxiv.org/pdf/1306.5215v1"
+    },
+    {
+        "title": "Re-run, Repeat, Reproduce, Reuse, Replicate: Transforming Code into\n  Scientific Contributions",
+        "authors": [
+            "Fabien Benureau",
+            "Nicolas Rougier"
+        ],
+        "category": "cs.GL",
+        "published_year": "2017",
+        "summary": "  Scientific code is not production software. Scientific code participates in\nthe evaluation of a scientific hypothesis. This imposes specific constraints on\nthe code that are often overlooked in practice. We articulate, with a small\nexample, five characteristics that a scientific code in computational science\nshould possess: re-runnable, repeatable, reproducible, reusable and replicable.\n",
+        "pdf_link": "http://arxiv.org/pdf/1708.08205v2"
+    },
+    {
+        "title": "Michael John Caldwell Gordon (FRS 1994), 28 February 1948 -- 22 August\n  2017",
+        "authors": [
+            "Lawrence C Paulson"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  Michael Gordon was a pioneer in the field of interactive theorem proving and\nhardware verification. In the 1970s, he had the vision of formally verifying\nsystem designs, proving their correctness using mathematics and logic. He\ndemonstrated his ideas on real-world computer designs. His students extended\nthe work to such diverse areas as the verification of floating-point\nalgorithms, the verification of probabilistic algorithms and the verified\ntranslation of source code to correct machine code. He was elected to the Royal\nSociety in 1994, and he continued to produce outstanding research until\nretirement.\n  His achievements include his work at Edinburgh University helping to create\nEdinburgh LCF, the first interactive theorem prover of its kind, and the ML\nfamily of functional programming languages. He adopted higher-order logic as a\ngeneral formalism for verification, showing that it could specify hardware\ndesigns from the gate level right up to the processor level. It turned out to\nbe an ideal formalism for many problems in computer science and mathematics.\nHis tools and techniques have exerted a huge influence across the field of\nformal verification.\n",
+        "pdf_link": "http://arxiv.org/pdf/1806.04002v2"
+    },
+    {
+        "title": "Technology, Propaganda, and the Limits of Human Intellect",
+        "authors": [
+            "Panagiotis Metaxas"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  \"Fake news\" is a recent phenomenon, but misinformation and propaganda are\nnot. Our new communication technologies make it easy for us to be exposed to\nhigh volumes of true, false, irrelevant, and unprovable information. Future AI\nis expected to amplify the problem even more. At the same time, our brains are\nreaching their limits in handling information. How should we respond to\npropaganda? Technology can help, but relying on it alone will not suffice in\nthe long term. We also need ethical policies, laws, regulations, and trusted\nauthorities, including fact-checkers. However, we will not solve the problem\nwithout the active engagement of the educated citizen. Epistemological\neducation, recognition of self biases and protection of our channels of\ncommunication and trusted networks are all needed to overcome the problem and\ncontinue our progress as democratic societies.\n",
+        "pdf_link": "http://arxiv.org/pdf/1806.09541v1"
+    },
+    {
+        "title": "Brief Notes and History Computing in Mexico during 50 years",
+        "authors": [
+            "Genaro J. Martinez",
+            "Juan C. Seck-Tuoh-Mora",
+            "Sergio V. Chapa-Vergara",
+            "Christian Lemaitre"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  The history of computing in Mexico can not be thought without the name of\nProf. Harold V. McIntosh (1929-2015). For almost 50 years, in Mexico he\ncontributed to the development of computer science with wide international\nrecognition. Approximately in 1964, McIntosh began working in the Physics\nDepartment of the Advanced Studies Center (CIEA) of the National Polytechnic\nInstitute (IPN), now called CINVESTAV. In 1965, at the National Center of\nCalculus (CeNaC), he was a founding member of the Master in Computing, first in\nLatin America. With the support of Mario Baez Camargo and Enrique Melrose,\nMcIntosh continues his research of Martin-Baltimore Computer Center and\nUniversity of Florida at IBM 709.\n",
+        "pdf_link": "http://arxiv.org/pdf/1905.07527v1"
+    },
+    {
+        "title": "An Environment for Sustainable Research Software in Germany and Beyond:\n  Current State, Open Challenges, and Call for Action",
+        "authors": [
+            "Hartwig Anzt",
+            "Felix Bach",
+            "Stephan Druskat",
+            "Frank Löffler",
+            "Axel Loewe",
+            "Bernhard Y. Renard",
+            "Gunnar Seemann",
+            "Alexander Struck",
+            "Elke Achhammer",
+            "Piush Aggarwal",
+            "Franziska Appel",
+            "Michael Bader",
+            "Lutz Brusch",
+            "Christian Busse",
+            "Gerasimos Chourdakis",
+            "Piotr W. Dabrowski",
+            "Peter Ebert",
+            "Bernd Flemisch",
+            "Sven Friedl",
+            "Bernadette Fritzsch",
+            "Maximilian D. Funk",
+            "Volker Gast",
+            "Florian Goth",
+            "Jean-Noël Grad",
+            "Sibylle Hermann",
+            "Florian Hohmann",
+            "Stephan Janosch",
+            "Dominik Kutra",
+            "Jan Linxweiler",
+            "Thilo Muth",
+            "Wolfgang Peters-Kottig",
+            "Fabian Rack",
+            "Fabian H. C. Raters",
+            "Stephan Rave",
+            "Guido Reina",
+            "Malte Reißig",
+            "Timo Ropinski",
+            "Joerg Schaarschmidt",
+            "Heidi Seibold",
+            "Jan P. Thiele",
+            "Benjamin Uekerman",
+            "Stefan Unger",
+            "Rudolf Weeber"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  Research software has become a central asset in academic research. It\noptimizes existing and enables new research methods, implements and embeds\nresearch knowledge, and constitutes an essential research product in itself.\nResearch software must be sustainable in order to understand, replicate,\nreproduce, and build upon existing research or conduct new research\neffectively. In other words, software must be available, discoverable, usable,\nand adaptable to new needs, both now and in the future. Research software\ntherefore requires an environment that supports sustainability. Hence, a change\nis needed in the way research software development and maintenance are\ncurrently motivated, incentivized, funded, structurally and infrastructurally\nsupported, and legally treated. Failing to do so will threaten the quality and\nvalidity of research. In this paper, we identify challenges for research\nsoftware sustainability in Germany and beyond, in terms of motivation,\nselection, research software engineering personnel, funding, infrastructure,\nand legal aspects. Besides researchers, we specifically address political and\nacademic decision-makers to increase awareness of the importance and needs of\nsustainable research software practices. In particular, we recommend strategies\nand measures to create an environment for sustainable research software, with\nthe ultimate goal to ensure that software-driven research is valid,\nreproducible and sustainable, and that software is recognized as a first class\ncitizen in research. This paper is the outcome of two workshops run in Germany\nin 2019, at deRSE19 - the first International Conference of Research Software\nEngineers in Germany - and a dedicated DFG-supported follow-up workshop in\nBerlin.\n",
+        "pdf_link": "http://arxiv.org/pdf/2005.01469v2"
+    },
+    {
+        "title": "Sustainable Research Software Hand-Over",
+        "authors": [
+            "Jörg Fehr",
+            "Christian Himpe",
+            "Stephan Rave",
+            "Jens Saak"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  Scientific software projects evolve rapidly in their initial development\nphase, yet at the end of a funding period, the completion of a research\nproject, thesis, or publication, further engagement in the project may slow\ndown or cease completely. To retain the invested effort for the sciences, this\nsoftware needs to be preserved or handed over to a succeeding developer or\nteam, such as the next generation of (PhD) students.\n  Comparable guides provide top-down recommendations for project leads. This\npaper intends to be a bottom-up approach for sustainable hand-over processes\nfrom a developer's perspective. An important characteristic in this regard is\nthe project's size, by which this guideline is structured. Furthermore,\nchecklists are provided, which can serve as a practical guide for implementing\nthe proposed measures.\n",
+        "pdf_link": "http://arxiv.org/pdf/1909.09469v2"
+    },
+    {
+        "title": "Analog Computation and Representation",
+        "authors": [
+            "Corey J. Maley"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  Relative to digital computation, analog computation has been neglected in the\nphilosophical literature. To the extent that attention has been paid to analog\ncomputation, it has been misunderstood. The received view -- that analog\ncomputation has to do essentially with continuity -- is simply wrong, as shown\nby careful attention to historical examples of discontinuous, discrete analog\ncomputers. Instead of the received view, I develop an account of analog\ncomputation in terms of a particular type of analog representation that allows\nfor discontinuity. This account thus characterizes all types of analog\ncomputation, whether continuous or discrete. Furthermore, the structure of this\naccount can be generalized to other types of computation: analog computation\nessentially involves analog representation, whereas digital computation\nessentially involves digital representation. Besides being a necessary\ncomponent of a complete philosophical understanding of computation in general,\nunderstanding analog computation is important for computational explanation in\ncontemporary neuroscience and cognitive science.\n",
+        "pdf_link": "http://arxiv.org/pdf/2012.05965v1"
+    },
+    {
+        "title": "Naughton's Wisconsin Bibliography: A Brief Guide",
+        "authors": [
+            "Joseph M. Hellerstein"
+        ],
+        "category": "cs.GL",
+        "published_year": "2016",
+        "summary": "  Over nearly three decades at the University of Wisconsin, Jeff Naughton has\nleft an indelible mark on computer science. He has been a global leader of the\ndatabase research field, deepening its core and pushing its boundaries. Many of\nNaughton's ideas were translated directly into practice in commercial and\nopen-source systems. But software comes and goes. In the end, it is the ideas\nthemselves that have had impact, ideas written down in papers.\n  Naughton has been a prolific scholar over the last thirty years, with over\n175 publications in his bibliography, covering a wide range of topics. This\ndocument does not attempt to enumerate or even summarize the wealth of ideas\nthat Naughton has published over the course of his academic career--the task is\ntoo daunting. Instead, the best this short note aims to do is to serve as a\nrough map of the territory: something to help other researchers navigate the\nwide spaces of Naughton's work.\n",
+        "pdf_link": "http://arxiv.org/pdf/1605.05566v1"
+    },
+    {
+        "title": "Challenges in IT Operations Management at a German University Chair --\n  Ten Years in Retrospect",
+        "authors": [
+            "Martin Geier",
+            "Samarjit Chakraborty"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  Over the last two decades, the majority of German universities adopted\nvarious characteristics of the prevailing North-American academic system,\nresulting in significant changes in several key areas that include, e.g., both\nteaching and research. The universities' internal organizational structures,\nhowever, still follow a traditional, decentralized scheme implementing an\nadditional organizational level -- the Chair -- effectively a \"mini department\"\nwith dedicated staff, budget and infrastructure. Although the Technical\nUniversity of Munich (TUM) has been establishing a more centralized scheme for\nmany administrative tasks over the past decade, the transition from its\ndistributed to a centralized information technology (IT) administration and\ninfrastructure is still an ongoing process. In case of the authors' chair, this\nmigration so far included handing over all network-related operations to the\njoint compute center, consolidating the Chair's legacy server system in terms\nof both hardware architectures and operating systems and, lately, moving\nselected services to replacements operated by Department or University. With\nrequirements, individuals and organizations constantly shifting, this process,\nhowever, is neither close to completion nor particularly unique to TUM. In this\npaper, we will thus share our experiences w.r.t. this IT migration as we\nbelieve both that many of the other German universities might be facing similar\nchallenges and that, in the future, North-American universities - currently not\nimplementing the chair layer and instead relying on a centralized IT\ninfrastructure - could need a more decentralized solution. Hoping that both\nbenefit from this journey, we thus present the design, commissioning and\nevolution of our infrastructure.\n",
+        "pdf_link": "http://arxiv.org/pdf/1907.01874v1"
+    },
+    {
+        "title": "Towards a Theory of Bullshit Visualization",
+        "authors": [
+            "Michael Correll"
+        ],
+        "category": "cs.GL",
+        "published_year": "2021",
+        "summary": "  In this unhinged rant, I lay out my suspicion that a lot of visualizations\nare bullshit: charts that do not have even the common decency to intentionally\nlie but are totally unconcerned about the state of the world or any practical\nutility. I suspect that bullshit charts take up a large fraction of the time\nand attention of actual visualization producers and consumers, and yet are\nseemingly absent from academic research into visualization design.\n",
+        "pdf_link": "http://arxiv.org/pdf/2109.12975v1"
+    },
+    {
+        "title": "Satoshi Nakamoto and the Origins of Bitcoin -- The Profile of a\n  1-in-a-Billion Genius",
+        "authors": [
+            "Jens Ducrée"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  The mystery about the ingenious creator of Bitcoin concealing behind the\npseudonym Satoshi Nakamoto has been fascinating the global public for more than\na decade. Suddenly jumping out of the dark in 2008, this persona hurled the\ndecentralized electronic cash system \"Bitcoin\", which has reached a peak market\ncapitalization in the region of 1 trillion USD. In a purposely agnostic, and\nmeticulous \"lea-ving no stone unturned\" approach, this study presents new hard\nfacts, which evidently slipped through Satoshi Nakamoto's elaborate privacy\nshield, and derives meaningful pointers that are primarily inferred from\nBitcoin's whitepaper, its blockchain parameters, and data that were widely up\nto his discretion. This ample stack of established and novel evidence is\nsystematically categorized, analyzed, and then connected to its related,\nreal-world ambient, like relevant locations and happenings in the past, and at\nthe time. Evidence compounds towards a substantial role of the Benelux\ncryptography ecosystem, with strong transatlantic links, in the creation of\nBitcoin. A consistent biography, a psychogram, and gripping story of an\ningenious, multi-talented, autodidactic, reticent, and capricious polymath\ntranspire, which are absolutely unique from a history of science and technology\nperspective. A cohort of previously fielded and best matches emerging from the\ninvestigations are probed against an unprecedently restrictive, multi-stage\nexclusion filter, which can, with maximum certainty, rule out most \"Satoshi\nNakamoto\" candidates, while some of them remain to be confirmed. With this\narticle, you will be able to decide who is not, or highly unlikely to be\nSatoshi Nakamoto, be equipped with an ample stack of systematically categorized\nevidence and efficient methodologies to find suitable candidates, and can\npossibly unveil the real identity of the creator of Bitcoin - if you want.\n",
+        "pdf_link": "http://arxiv.org/pdf/2206.10257v14"
+    },
+    {
+        "title": "Mind the hubris: complexity can misfire",
+        "authors": [
+            "Arnald Puy",
+            "Andrea Saltelli"
+        ],
+        "category": "cs.GL",
+        "published_year": "2022",
+        "summary": "  Here we briefly reflect on the philosophical foundations that ground the\nquest towards ever-detailed models and identify four practical dangers derived\nfrom this pursuit: explosion of the model's uncertainty space, model\nblack-boxing, computational exhaustion and model attachment. We argue that the\ngrowth of a mathematical model should be carefully and continuously pondered\nlest models become extraneous constructs chasing the Cartesian dream.\n",
+        "pdf_link": "http://arxiv.org/pdf/2207.12230v2"
+    },
+    {
+        "title": "AI empowering research: 10 ways how science can benefit from AI",
+        "authors": [
+            "César França"
+        ],
+        "category": "cs.GL",
+        "published_year": "2023",
+        "summary": "  This article explores the transformative impact of artificial intelligence\n(AI) on scientific research. It highlights ten ways in which AI is\nrevolutionizing the work of scientists, including powerful referencing tools,\nimproved understanding of research problems, enhanced research question\ngeneration, optimized research design, stub data generation, data\ntransformation, advanced data analysis, and AI-assisted reporting. While AI\noffers numerous benefits, challenges such as bias, privacy concerns, and the\nneed for human-AI collaboration must be considered. The article emphasizes that\nAI can augment human creativity in science but not replace it.\n",
+        "pdf_link": "http://arxiv.org/pdf/2307.10265v1"
+    },
+    {
+        "title": "The History of Quantum Games",
+        "authors": [
+            "Laura Piispanen",
+            "Edward Morrell",
+            "Solip Park",
+            "Marcell Pfaffhauser",
+            "Annakaisa Kultima"
+        ],
+        "category": "cs.GL",
+        "published_year": "2023",
+        "summary": "  In this paper, we explore the historical development of playable quantum\nphysics related games (\\textit{\\textbf{quantum games}}). For the purpose of\nthis examination, we have collected over 260 quantum games ranging from\ncommercial games, applied and serious games, and games that have been developed\nat quantum themed game jams and educational courses. We provide an overview of\nthe journey of quantum games across three dimensions: \\textit{the perceivable\ndimension of quantum physics, the dimension of scientific purposes, and the\ndimension of quantum technologies}. We then further reflect on the definition\nof quantum games and its implications. While motivations behind developing\nquantum games have typically been educational or academic, themes related to\nquantum physics have begun to be more broadly utilised across a range of\ncommercial games. In addition, as the availability of quantum computer hardware\nhas grown, entirely new variants of quantum games have emerged to take\nadvantage of these machines' inherent capabilities, \\textit{quantum computer\ngames}\n",
+        "pdf_link": "http://arxiv.org/pdf/2309.01525v1"
+    },
+    {
+        "title": "Computational Natural Philosophy: A Thread from Presocratics through\n  Turing to ChatGPT",
+        "authors": [
+            "Gordana Dodig-Crnkovic"
+        ],
+        "category": "cs.GL",
+        "published_year": "2023",
+        "summary": "  Modern computational natural philosophy conceptualizes the universe in terms\nof information and computation, establishing a framework for the study of\ncognition and intelligence. Despite some critiques, this computational\nperspective has significantly influenced our understanding of the natural\nworld, leading to the development of AI systems like ChatGPT based on deep\nneural networks. Advancements in this domain have been facilitated by\ninterdisciplinary research, integrating knowledge from multiple fields to\nsimulate complex systems. Large Language Models (LLMs), such as ChatGPT,\nrepresent this approach's capabilities, utilizing reinforcement learning with\nhuman feedback (RLHF). Current research initiatives aim to integrate neural\nnetworks with symbolic computing, introducing a new generation of hybrid\ncomputational models.\n",
+        "pdf_link": "http://arxiv.org/pdf/2309.13094v1"
+    },
+    {
+        "title": "Eternal Sunshine of the Mechanical Mind: The Irreconcilability of\n  Machine Learning and the Right to be Forgotten",
+        "authors": [
+            "Meem Arafat Manab"
+        ],
+        "category": "cs.GL",
+        "published_year": "2024",
+        "summary": "  As we keep rapidly advancing toward an era where artificial intelligence is a\nconstant and normative experience for most of us, we must also be aware of what\nthis vision and this progress entail. By first approximating neural connections\nand activities in computer circuits and then creating more and more\nsophisticated versions of this crude approximation, we are now facing an age to\ncome where modern deep learning-based artificial intelligence systems can\nrightly be called thinking machines, and they are sometimes even lauded for\ntheir emergent behavior and black-box approaches. But as we create more\npowerful electronic brains, with billions of neural connections and parameters,\ncan we guarantee that these mammoths built of artificial neurons will be able\nto forget the data that we store in them? If they are at some level like a\nbrain, can the right to be forgotten still be protected while dealing with\nthese AIs? The essential gap between machine learning and the RTBF is explored\nin this article, with a premonition of far-reaching conclusions if the gap is\nnot bridged or reconciled any time soon. The core argument is that deep\nlearning models, due to their structure and size, cannot be expected to forget\nor delete a data as it would be expected from a tabular database, and they\nshould be treated more like a mechanical brain, albeit still in development.\n",
+        "pdf_link": "http://arxiv.org/pdf/2403.05592v1"
+    },
+    {
+        "title": "Max Bense as a Visionary: from Entropy to the Dialectics of Programmed\n  Images",
+        "authors": [
+            "Gaëtan Robillard"
+        ],
+        "category": "cs.GL",
+        "published_year": "2024",
+        "summary": "  In 1960 in Stuttgart, Max Bense published the book Programming the Beautiful\n[Programmierung des Sch{\\\"o}nen]. Bense looks in cybernetics for scientific\nconcepts and instigates the thought of programming in the field of literature.\nHis information aesthetics influences a whole generation of scientists and\nartists - including the Stuttgart Circle, which takes hold of the new\naesthetics to carry out the first programmed artistic images. Is Max Bense a\nvisionary? How is he revolutionizing the world of images? The article discusses\nthe cybernetics that inspired Bense: a science of probability that contrasts\nwith the principles of Newtonian physics. Moreover, in the sixties, Max Bense,\ntogether with Elisabeth Walther, launched the experimental magazine Rot, which\ndevoted its pages to the concrete poetry and the first computer-generated\nimages of Georg Nees. As Frieder Nake defends through his pioneering work and\ntheory, these images oppose the visible and the computable. This dialectic\nopens to a critical thinking on the algorithmic image in art and science.\n",
+        "pdf_link": "http://arxiv.org/pdf/2407.02492v1"
+    },
+    {
+        "title": "Human Indignity: From Legal AI Personhood to Selfish Memes",
+        "authors": [
+            "Roman V. Yampolskiy"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  It is possible to rely on current corporate law to grant legal personhood to\nArtificially Intelligent (AI) agents. In this paper, after introducing pathways\nto AI personhood, we analyze consequences of such AI empowerment on human\ndignity, human safety and AI rights. We emphasize possibility of creating\nselfish memes and legal system hacking in the context of artificial entities.\nFinally, we consider some potential solutions for addressing described\nproblems.\n",
+        "pdf_link": "http://arxiv.org/pdf/1810.02724v1"
+    },
+    {
+        "title": "Sulla decifratura di Enigma -- Come un reverendo del XVIII secolo\n  contribuì alla sconfitta degli U-boot tedeschi durante la Seconda Guerra\n  Mondiale",
+        "authors": [
+            "Fabio S. Priuli",
+            "Claudia Violante"
+        ],
+        "category": "cs.GL",
+        "published_year": "2020",
+        "summary": "  This article, written in Italian language, explores the contribution given by\nBayes' rule and by subjective probability in the work at Bletchley Park towards\ncracking Enigma cyphered messages during WWII.\n  --\n  In questo articolo, scritto in Italiano, esploriamo il contributo dato dal\nteorema di Bayes e dalle idee della probabilit\\`a soggettiva nel lavoro\ncompiuto a Bletchley Park che ha portato a decifrare i messaggi cifrati con\nmacchine Enigma durante la Seconda Guerra Mondiale.\n",
+        "pdf_link": "http://arxiv.org/pdf/2008.03122v1"
+    },
+    {
+        "title": "Software Carpentry: Lessons Learned",
+        "authors": [
+            "Greg Wilson"
+        ],
+        "category": "cs.GL",
+        "published_year": "2013",
+        "summary": "  Over the last 15 years, Software Carpentry has evolved from a week-long\ntraining course at the US national laboratories into a worldwide volunteer\neffort to raise standards in scientific computing. This article explains what\nwe have learned along the way the challenges we now face, and our plans for the\nfuture.\n",
+        "pdf_link": "http://arxiv.org/pdf/1307.5448v2"
+    },
+    {
+        "title": "Navigating Diverse Data Science Learning: Critical Reflections Towards\n  Future Practice",
+        "authors": [
+            "Yehia Elkhatib"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  Data Science is currently a popular field of science attracting expertise\nfrom very diverse backgrounds. Current learning practices need to acknowledge\nthis and adapt to it. This paper summarises some experiences relating to such\nlearning approaches from teaching a postgraduate Data Science module, and draws\nsome learned lessons that are of relevance to others teaching Data Science.\n",
+        "pdf_link": "http://arxiv.org/pdf/1807.03750v1"
+    },
+    {
+        "title": "Towards a Science of Mind",
+        "authors": [
+            "Jerome Feldman"
+        ],
+        "category": "cs.GL",
+        "published_year": "2018",
+        "summary": "  The ancient mind/body problem continues to be one of deepest mysteries of\nscience and of the human spirit. Despite major advances in many fields, there\nis still no plausible link between subjective experience (qualia) and its\nrealization in the body. This paper outlines some of the elements of a rigorous\nscience of mind (SoM) - key ideas include scientific realism of mind, agnostic\nmysterianism, careful attention to language, and a focus on concrete\n(touchstone) questions and results. A core suggestion is to focus effort on the\n(still mysterious) mapping from neural activity to subjective experience.\n",
+        "pdf_link": "http://arxiv.org/pdf/1811.06825v3"
+    },
+    {
+        "title": "100+ Metrics for Software Startups - A Multi-Vocal Literature Review",
+        "authors": [
+            "Kai-Kristian Kemell",
+            "Xiaofeng Wang",
+            "Anh Nguyen-Duc",
+            "Jason Grendus",
+            "Tuure Tuunanen",
+            "Pekka Abrahamsson"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  Metrics can be used by businesses to make more objective decisions based on\ndata. Software startups in particular are characterized by the uncertain or\neven chaotic nature of the contexts in which they operate. Using data in the\nform of metrics can help software startups to make the right decisions amidst\nuncertainty and limited resources. However, whereas conventional business\nmetrics and software metrics have been studied in the past, metrics in the\nspe-cific context of software startup are not widely covered within academic\nliterature. To promote research in this area and to create a starting point for\nit, we have conducted a multi-vocal literature review focusing on practitioner\nliterature in order to compile a list of metrics used by software startups.\nSaid list is intended to serve as a basis for further research in the area, as\nthe metrics in it are based on suggestions made by practitioners and not\nempirically verified.\n",
+        "pdf_link": "http://arxiv.org/pdf/1901.04819v1"
+    },
+    {
+        "title": "Kolmogorov complexity in the USSR (1975--1982): isolation and its end",
+        "authors": [
+            "V. V. V'yugin"
+        ],
+        "category": "cs.GL",
+        "published_year": "2019",
+        "summary": "  These reminiscences are about the \"dark ages\" of algorithmic information\ntheory in the USSR. After a great interest in this topic in 1960s and the\nbeginning of 1970s the number of people working in this area in the USSR\ndecreased significantly. At that time L.A. Levin published a bunch of papers\nthat were seminal for the modern algorithmic information theory. Then he left\nthe USSR, and the new wave of interest was triggered by the talk of A.N.\nKolmogorov at a Moscow State (Lomonosov) University Mathematical Department\n(Logic and Algorithms Division) seminar organized by him; several younger\nresearchers obtained some new results in algorithmic information theory.\n",
+        "pdf_link": "http://arxiv.org/pdf/1907.05056v1"
+    },
+    {
+        "title": "History of generative Artificial Intelligence (AI) chatbots: past,\n  present, and future development",
+        "authors": [
+            "Md. Al-Amin",
+            "Mohammad Shazed Ali",
+            "Abdus Salam",
+            "Arif Khan",
+            "Ashraf Ali",
+            "Ahsan Ullah",
+            "Md Nur Alam",
+            "Shamsul Kabir Chowdhury"
+        ],
+        "category": "cs.GL",
+        "published_year": "2024",
+        "summary": "  This research provides an in-depth comprehensive review of the progress of\nchatbot technology over time, from the initial basic systems relying on rules\nto today's advanced conversational bots powered by artificial intelligence.\nSpanning many decades, the paper explores the major milestones, innovations,\nand paradigm shifts that have driven the evolution of chatbots. Looking back at\nthe very basic statistical model in 1906 via the early chatbots, such as ELIZA\nand ALICE in the 1960s and 1970s, the study traces key innovations leading to\ntoday's advanced conversational agents, such as ChatGPT and Google Bard. The\nstudy synthesizes insights from academic literature and industry sources to\nhighlight crucial milestones, including the introduction of Turing tests,\ninfluential projects such as CALO, and recent transformer-based models. Tracing\nthe path forward, the paper highlights how natural language processing and\nmachine learning have been integrated into modern chatbots for more\nsophisticated capabilities. This chronological survey of the chatbot landscape\nprovides a holistic reference to understand the technological and historical\nfactors propelling conversational AI. By synthesizing learnings from this\nhistorical analysis, the research offers important context about the\ndevelopmental trajectory of chatbots and their immense future potential across\nvarious field of application which could be the potential take ways for the\nrespective research community and stakeholders.\n",
+        "pdf_link": "http://arxiv.org/pdf/2402.05122v1"
+    },
+    {
+        "title": "Darwin Turing Dawkins: Building a General Theory of Evolution",
+        "authors": [
+            "Leonard M. Adleman"
+        ],
+        "category": "cs.GL",
+        "published_year": "2024",
+        "summary": "  Living things, computers, societies, and even books are part of a grand\nevolutionary struggle to survive. That struggle shapes nature, nations,\nreligions, art, science, and you. What you think, feel, and do is determined by\nit. Darwinian evolution does not apply solely to the genes that are stored in\nDNA. Using the insights of Alan Turing and Richard Dawkins, we will see that it\nalso applies to the memes we store in our brains and the information we store\nin our computers. The next time you run for president, fight a war, or just\ndeal with the ordinary problems humans are heir to, perhaps this book will be\nof use. If you want to understand why and when you will die, or if you want to\nachieve greatness this book may help. If you are concerned about where the\ncomputer revolution is headed, this book may provide some answers.\n",
+        "pdf_link": "http://arxiv.org/pdf/2402.10393v1"
+    },
+    {
+        "title": "Foreword: A Computable Universe, Understanding Computation and Exploring\n  Nature As Computation",
+        "authors": [
+            "Roger Penrose"
+        ],
+        "category": "cs.GL",
+        "published_year": "2012",
+        "summary": "  I am most honoured to have the privilege to present the Foreword to this\nfascinating and wonderfully varied collection of contributions, concerning the\nnature of computation and of its deep connection with the operation of those\nbasic laws, known or yet unknown, governing the universe in which we live.\nFundamentally deep questions are indeed being grappled with here, and the fact\nthat we find so many different viewpoints is something to be expected, since,\nin truth, we know little about the foundational nature and origins of these\nbasic laws, despite the immense precision that we so often find revealed in\nthem. Accordingly, it is not surprising that within the viewpoints expressed\nhere is some unabashed speculation, occasionally bordering on just partially\njustified guesswork, while elsewhere we find a good deal of precise reasoning,\nsome in the form of rigorous mathematical theorems. Both of these are as should\nbe, for without some inspired guesswork we cannot have new ideas as to where\nlook in order to make genuinely new progress, and without precise mathematical\nreasoning, no less than in precise observation, we cannot know when we are\nright -- or, more usually, when we are wrong.\n",
+        "pdf_link": "http://arxiv.org/pdf/1205.5823v1"
+    }
+]
