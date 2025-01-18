@@ -58,10 +58,16 @@ def download_papers():
     # ]
 
     queries = [
-        "cat:eess.AS",
-        "cat:eess.IV",
-        "cat:eess.SP",
-        "cat:eess.SY",
+        "cat:q-bio.BM",
+        "cat:q-bio.CB",
+        "cat:q-bio.GN",
+        "cat:q-bio.MN",
+        "cat:q-bio.NC",
+        "cat:q-bio.OT",
+        "cat:q-bio.PE",
+        "cat:q-bio.QM",
+        "cat:q-bio.SC",
+        "cat:q-bio.TO"
     ]
 
     for query in queries:
