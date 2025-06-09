@@ -1,0 +1,458 @@
+{
+  "cs": {
+    "name": "Computer Science",
+    "top_authors": [
+      {
+        "name": "H. Vincent Poor",
+        "count": 464
+      },
+      {
+        "name": "Yang Liu",
+        "count": 411
+      },
+      {
+        "name": "Rui Zhang",
+        "count": 361
+      },
+      {
+        "name": "Dusit Niyato",
+        "count": 266
+      },
+      {
+        "name": "Wei Wang",
+        "count": 255
+      },
+      {
+        "name": "Robert Schober",
+        "count": 236
+      },
+      {
+        "name": "Wei Zhang",
+        "count": 231
+      },
+      {
+        "name": "Wei Chen",
+        "count": 229
+      },
+      {
+        "name": "Philip S. Yu",
+        "count": 226
+      },
+      {
+        "name": "Mohamed-Slim Alouini",
+        "count": 219
+      }
+    ],
+    "top_words": [
+      "proceedings",
+      "neural",
+      "user",
+      "language",
+      "pages",
+      "node",
+      "computer",
+      "nodes",
+      "task",
+      "users"
+    ]
+  },
+  "econ": {
+    "name": "Economics",
+    "top_authors": [
+      {
+        "name": "Alfred Galichon",
+        "count": 41
+      },
+      {
+        "name": "Federico Echenique",
+        "count": 30
+      },
+      {
+        "name": "Yuya Sasaki",
+        "count": 28
+      },
+      {
+        "name": "Alexis Akira Toda",
+        "count": 27
+      },
+      {
+        "name": "Mark Whitmeyer",
+        "count": 27
+      },
+      {
+        "name": "Florian Huber",
+        "count": 26
+      },
+      {
+        "name": "Richard S. J. Tol",
+        "count": 24
+      },
+      {
+        "name": "Eiji Yamamura",
+        "count": 23
+      },
+      {
+        "name": "Luyao Zhang",
+        "count": 20
+      },
+      {
+        "name": "Victor Chernozhukov",
+        "count": 19
+      }
+    ],
+    "top_words": [
+      "economic",
+      "economics",
+      "market",
+      "policy",
+      "price",
+      "literature",
+      "social",
+      "equilibrium",
+      "effects",
+      "variable"
+    ]
+  },
+  "eess": {
+    "name": "Electrical Engineering and Systems Science",
+    "top_authors": [
+      {
+        "name": "Shinji Watanabe",
+        "count": 155
+      },
+      {
+        "name": "André Kaup",
+        "count": 153
+      },
+      {
+        "name": "Henk Wymeersch",
+        "count": 140
+      },
+      {
+        "name": "Mohamed-Slim Alouini",
+        "count": 132
+      },
+      {
+        "name": "Yonina C. Eldar",
+        "count": 122
+      },
+      {
+        "name": "Andreas Maier",
+        "count": 119
+      },
+      {
+        "name": "Ming Li",
+        "count": 116
+      },
+      {
+        "name": "Xin Wang",
+        "count": 113
+      },
+      {
+        "name": "Daniel Rueckert",
+        "count": 96
+      },
+      {
+        "name": "Cunhua Pan",
+        "count": 96
+      }
+    ],
+    "top_words": [
+      "images",
+      "deep",
+      "neural",
+      "processing",
+      "speech",
+      "noise",
+      "channel",
+      "loss",
+      "segmentation",
+      "transactions"
+    ]
+  },
+  "math": {
+    "name": "Mathematics",
+    "top_authors": [
+      {
+        "name": "Saharon Shelah",
+        "count": 693
+      },
+      {
+        "name": "Delfim F. M. Torres",
+        "count": 266
+      },
+      {
+        "name": "Indranil Biswas",
+        "count": 237
+      },
+      {
+        "name": "Taekyun Kim",
+        "count": 234
+      },
+      {
+        "name": "Terence Tao",
+        "count": 223
+      },
+      {
+        "name": "Xueliang Li",
+        "count": 183
+      },
+      {
+        "name": "Benny Sudakov",
+        "count": 177
+      },
+      {
+        "name": "Taras Banakh",
+        "count": 170
+      },
+      {
+        "name": "Florentin Smarandache",
+        "count": 170
+      },
+      {
+        "name": "Igor E. Shparlinski",
+        "count": 150
+      }
+    ],
+    "top_words": [
+      "algebra",
+      "spaces",
+      "lim",
+      "groups",
+      "closed",
+      "compact",
+      "sup",
+      "smooth",
+      "isomorphism",
+      "formula"
+    ]
+  },
+  "physic": {
+    "name": "Physics",
+    "top_authors": [
+      {
+        "name": "Y. Zhang",
+        "count": 1848
+      },
+      {
+        "name": "Y. Wang",
+        "count": 1291
+      },
+      {
+        "name": "CMS Collaboration",
+        "count": 1265
+      },
+      {
+        "name": "Y. Li",
+        "count": 1254
+      },
+      {
+        "name": "ATLAS Collaboration",
+        "count": 1231
+      },
+      {
+        "name": "X. Liu",
+        "count": 1150
+      },
+      {
+        "name": "Z. Wang",
+        "count": 1147
+      },
+      {
+        "name": "L. Sun",
+        "count": 1123
+      },
+      {
+        "name": "L. Zhang",
+        "count": 1111
+      },
+      {
+        "name": "G. Wilkinson",
+        "count": 1080
+      }
+    ],
+    "top_words": [
+      "spin",
+      "apj",
+      "particle",
+      "particles",
+      "emission",
+      "optical",
+      "lattice",
+      "light",
+      "electron",
+      "wave"
+    ]
+  },
+  "q-bio": {
+    "name": "Quantitative Biology",
+    "top_authors": [
+      {
+        "name": "Danielle S. Bassett",
+        "count": 103
+      },
+      {
+        "name": "Mike Steel",
+        "count": 92
+      },
+      {
+        "name": "Thierry Mora",
+        "count": 77
+      },
+      {
+        "name": "Guo-Wei Wei",
+        "count": 73
+      },
+      {
+        "name": "Aleksandra M. Walczak",
+        "count": 65
+      },
+      {
+        "name": "Liane Gabora",
+        "count": 63
+      },
+      {
+        "name": "D. Thirumalai",
+        "count": 61
+      },
+      {
+        "name": "William Bialek",
+        "count": 56
+      },
+      {
+        "name": "Yujiang Wang",
+        "count": 50
+      },
+      {
+        "name": "Pieter Rein ten Wolde",
+        "count": 49
+      }
+    ],
+    "top_words": [
+      "cell",
+      "population",
+      "protein",
+      "cells",
+      "brain",
+      "species",
+      "gene",
+      "neural",
+      "neurons",
+      "human"
+    ]
+  },
+  "q-fin": {
+    "name": "Quantitative Finance",
+    "top_authors": [
+      {
+        "name": "Wei-Xing Zhou",
+        "count": 84
+      },
+      {
+        "name": "Jean-Philippe Bouchaud",
+        "count": 75
+      },
+      {
+        "name": "Fabrizio Lillo",
+        "count": 50
+      },
+      {
+        "name": "Didier Sornette",
+        "count": 44
+      },
+      {
+        "name": "Erhan Bayraktar",
+        "count": 44
+      },
+      {
+        "name": "Pavel V. Shevchenko",
+        "count": 41
+      },
+      {
+        "name": "H. Eugene Stanley",
+        "count": 41
+      },
+      {
+        "name": "Antoine Jacquier",
+        "count": 38
+      },
+      {
+        "name": "Thomas Guhr",
+        "count": 35
+      },
+      {
+        "name": "Johannes Muhle-Karbe",
+        "count": 35
+      }
+    ],
+    "top_words": [
+      "market",
+      "price",
+      "risk",
+      "volatility",
+      "stock",
+      "portfolio",
+      "trading",
+      "prices",
+      "asset",
+      "finance"
+    ]
+  },
+  "stat": {
+    "name": "Statistics",
+    "top_authors": [
+      {
+        "name": "David B. Dunson",
+        "count": 94
+      },
+      {
+        "name": "Ajay Jasra",
+        "count": 69
+      },
+      {
+        "name": "Carey E. Priebe",
+        "count": 63
+      },
+      {
+        "name": "Christian P. Robert",
+        "count": 62
+      },
+      {
+        "name": "Shu Yang",
+        "count": 62
+      },
+      {
+        "name": "Andrew Gelman",
+        "count": 60
+      },
+      {
+        "name": "Fan Li",
+        "count": 59
+      },
+      {
+        "name": "Shonosuke Sugasawa",
+        "count": 56
+      },
+      {
+        "name": "Håvard Rue",
+        "count": 56
+      },
+      {
+        "name": "Masashi Sugiyama",
+        "count": 55
+      }
+    ],
+    "top_words": [
+      "statistical",
+      "statistics",
+      "estimation",
+      "regression",
+      "bayesian",
+      "posterior",
+      "prior",
+      "estimator",
+      "estimated",
+      "variance"
+    ]
+  }
+}

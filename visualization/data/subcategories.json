@@ -1,0 +1,8778 @@
+{
+  "econ.GN": {
+    "name": "General Economics",
+    "category": "econ",
+    "top_authors": [
+      {
+        "name": "Eiji Yamamura",
+        "count": 23
+      },
+      {
+        "name": "Richard S. J. Tol",
+        "count": 22
+      },
+      {
+        "name": "Luyao Zhang",
+        "count": 20
+      },
+      {
+        "name": "Alfred Galichon",
+        "count": 15
+      },
+      {
+        "name": "Jose Aurelio Medina-Garrido",
+        "count": 15
+      },
+      {
+        "name": "Stephan Leitner",
+        "count": 14
+      },
+      {
+        "name": "Saeed Nosratabadi",
+        "count": 13
+      },
+      {
+        "name": "Szabolcs Nagy",
+        "count": 12
+      },
+      {
+        "name": "Plamen Nikolov",
+        "count": 11
+      },
+      {
+        "name": "Yoshiro Tsutsui",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "economic",
+      "market",
+      "economics",
+      "policy",
+      "income",
+      "social",
+      "countries",
+      "effects",
+      "price",
+      "impact"
+    ]
+  },
+  "econ.EM": {
+    "name": "Econometrics",
+    "category": "econ",
+    "top_authors": [
+      {
+        "name": "Yuya Sasaki",
+        "count": 26
+      },
+      {
+        "name": "Florian Huber",
+        "count": 23
+      },
+      {
+        "name": "Bin Peng",
+        "count": 18
+      },
+      {
+        "name": "Jiti Gao",
+        "count": 18
+      },
+      {
+        "name": "Victor Chernozhukov",
+        "count": 16
+      },
+      {
+        "name": "Martin Weidner",
+        "count": 16
+      },
+      {
+        "name": "Alfred Galichon",
+        "count": 15
+      },
+      {
+        "name": "Alain Hecq",
+        "count": 15
+      },
+      {
+        "name": "Christis Katsouris",
+        "count": 15
+      },
+      {
+        "name": "Niko Hauzenberger",
+        "count": 13
+      }
+    ],
+    "top_words": [
+      "estimator",
+      "estimation",
+      "economic",
+      "treatment",
+      "conditional",
+      "regression",
+      "empirical",
+      "assumptions",
+      "econometrics",
+      "estimators"
+    ]
+  },
+  "econ.TH": {
+    "name": "Theoretical Economics",
+    "category": "econ",
+    "top_authors": [
+      {
+        "name": "Mark Whitmeyer",
+        "count": 26
+      },
+      {
+        "name": "Federico Echenique",
+        "count": 25
+      },
+      {
+        "name": "Christopher P. Chambers",
+        "count": 19
+      },
+      {
+        "name": "Alexis Akira Toda",
+        "count": 18
+      },
+      {
+        "name": "Mehmet S. Ismail",
+        "count": 17
+      },
+      {
+        "name": "Yuval Heller",
+        "count": 15
+      },
+      {
+        "name": "Ian Ball",
+        "count": 15
+      },
+      {
+        "name": "Omer Tamuz",
+        "count": 14
+      },
+      {
+        "name": "Jorge Oviedo",
+        "count": 12
+      },
+      {
+        "name": "Yuhki Hosoya",
+        "count": 12
+      }
+    ],
+    "top_words": [
+      "economic",
+      "equilibrium",
+      "agents",
+      "agent",
+      "utility",
+      "preferences",
+      "game",
+      "choice",
+      "economics",
+      "preference"
+    ]
+  },
+  "stat.AP": {
+    "name": "Applications",
+    "category": "stat",
+    "top_authors": [
+      {
+        "name": "Kerrie Mengersen",
+        "count": 33
+      },
+      {
+        "name": "Andrew O. Finley",
+        "count": 29
+      },
+      {
+        "name": "Dylan S. Small",
+        "count": 25
+      },
+      {
+        "name": "Han Lin Shang",
+        "count": 24
+      },
+      {
+        "name": "Adrian E. Raftery",
+        "count": 24
+      },
+      {
+        "name": "Hernando Ombao",
+        "count": 23
+      },
+      {
+        "name": "Philip B. Stark",
+        "count": 22
+      },
+      {
+        "name": "Andrew Gelman",
+        "count": 21
+      },
+      {
+        "name": "David B. Dunson",
+        "count": 21
+      },
+      {
+        "name": "Tim Friede",
+        "count": 21
+      }
+    ],
+    "top_words": [
+      "statistical",
+      "regression",
+      "estimation",
+      "statistics",
+      "bayesian",
+      "estimated",
+      "estimates",
+      "posterior",
+      "prior",
+      "variable"
+    ]
+  },
+  "stat.CO": {
+    "name": "Computation",
+    "category": "stat",
+    "top_authors": [
+      {
+        "name": "Ajay Jasra",
+        "count": 57
+      },
+      {
+        "name": "Christian P. Robert",
+        "count": 40
+      },
+      {
+        "name": "Nicolas Chopin",
+        "count": 32
+      },
+      {
+        "name": "Arnaud Doucet",
+        "count": 29
+      },
+      {
+        "name": "Nial Friel",
+        "count": 21
+      },
+      {
+        "name": "Anthony Lee",
+        "count": 20
+      },
+      {
+        "name": "Gareth O. Roberts",
+        "count": 20
+      },
+      {
+        "name": "Thomas B. Schön",
+        "count": 20
+      },
+      {
+        "name": "Víctor Elvira",
+        "count": 20
+      },
+      {
+        "name": "Alexandros Beskos",
+        "count": 19
+      }
+    ],
+    "top_words": [
+      "posterior",
+      "sampling",
+      "bayesian",
+      "carlo",
+      "mcmc",
+      "monte",
+      "statistics",
+      "statistical",
+      "likelihood",
+      "markov"
+    ]
+  },
+  "stat.ME": {
+    "name": "Methodology",
+    "category": "stat",
+    "top_authors": [
+      {
+        "name": "Shu Yang",
+        "count": 59
+      },
+      {
+        "name": "David B. Dunson",
+        "count": 53
+      },
+      {
+        "name": "Shonosuke Sugasawa",
+        "count": 51
+      },
+      {
+        "name": "Fan Li",
+        "count": 42
+      },
+      {
+        "name": "Peter Bühlmann",
+        "count": 39
+      },
+      {
+        "name": "Holger Dette",
+        "count": 38
+      },
+      {
+        "name": "Eric Tchetgen Tchetgen",
+        "count": 36
+      },
+      {
+        "name": "Robert Tibshirani",
+        "count": 34
+      },
+      {
+        "name": "Gane Samb Lo",
+        "count": 33
+      },
+      {
+        "name": "Stijn Vansteelandt",
+        "count": 33
+      }
+    ],
+    "top_words": [
+      "statistics",
+      "estimation",
+      "regression",
+      "statistical",
+      "estimator",
+      "prior",
+      "estimated",
+      "variance",
+      "inference",
+      "true"
+    ]
+  },
+  "stat.ML": {
+    "name": "Machine Learning",
+    "category": "stat",
+    "top_authors": [
+      {
+        "name": "Masashi Sugiyama",
+        "count": 55
+      },
+      {
+        "name": "Zoubin Ghahramani",
+        "count": 46
+      },
+      {
+        "name": "Yoshua Bengio",
+        "count": 38
+      },
+      {
+        "name": "Yee Whye Teh",
+        "count": 38
+      },
+      {
+        "name": "Han Liu",
+        "count": 37
+      },
+      {
+        "name": "Lawrence Carin",
+        "count": 34
+      },
+      {
+        "name": "José Miguel Hernández-Lobato",
+        "count": 33
+      },
+      {
+        "name": "Bernhard Schölkopf",
+        "count": 26
+      },
+      {
+        "name": "Carey E. Priebe",
+        "count": 26
+      },
+      {
+        "name": "Francis Bach",
+        "count": 26
+      }
+    ],
+    "top_words": [
+      "neural",
+      "machine",
+      "gaussian",
+      "regression",
+      "kernel",
+      "samples",
+      "optimization",
+      "inference",
+      "bayesian",
+      "gradient"
+    ]
+  },
+  "stat.OT": {
+    "name": "Other Statistics",
+    "category": "stat",
+    "top_authors": [
+      {
+        "name": "Johanna Hardin",
+        "count": 6
+      },
+      {
+        "name": "Yudi Pawitan",
+        "count": 6
+      },
+      {
+        "name": "Nicholas J. Horton",
+        "count": 6
+      },
+      {
+        "name": "Mine Dogucu",
+        "count": 5
+      },
+      {
+        "name": "Hanti Lin",
+        "count": 5
+      },
+      {
+        "name": "Andrew Gelman",
+        "count": 4
+      },
+      {
+        "name": "Rochelle E. Tractenberg",
+        "count": 4
+      },
+      {
+        "name": "Kayvan Sadeghi",
+        "count": 4
+      },
+      {
+        "name": "Deborah Nolan",
+        "count": 4
+      },
+      {
+        "name": "Yaakov Malinovsky",
+        "count": 4
+      }
+    ],
+    "top_words": [
+      "statistics",
+      "statistical",
+      "students",
+      "course",
+      "bayesian",
+      "hypothesis",
+      "inference",
+      "population",
+      "probabilities",
+      "courses"
+    ]
+  },
+  "cs.AI": {
+    "name": "Artificial Intelligence",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Joseph Y. Halpern",
+        "count": 49
+      },
+      {
+        "name": "Toby Walsh",
+        "count": 49
+      },
+      {
+        "name": "Subbarao Kambhampati",
+        "count": 45
+      },
+      {
+        "name": "Florentin Smarandache",
+        "count": 40
+      },
+      {
+        "name": "Julian Togelius",
+        "count": 39
+      },
+      {
+        "name": "Judea Pearl",
+        "count": 36
+      },
+      {
+        "name": "Adnan Darwiche",
+        "count": 31
+      },
+      {
+        "name": "Rina Dechter",
+        "count": 28
+      },
+      {
+        "name": "David Heckerman",
+        "count": 28
+      },
+      {
+        "name": "Ross D. Shachter",
+        "count": 28
+      }
+    ],
+    "top_words": [
+      "knowledge",
+      "agent",
+      "intelligence",
+      "reasoning",
+      "search",
+      "decision",
+      "agents",
+      "actions",
+      "logic",
+      "rules"
+    ]
+  },
+  "cs.AR": {
+    "name": "Hardware Architecture",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Onur Mutlu",
+        "count": 170
+      },
+      {
+        "name": "Luca Benini",
+        "count": 100
+      },
+      {
+        "name": "Saugata Ghose",
+        "count": 46
+      },
+      {
+        "name": "Davide Rossi",
+        "count": 39
+      },
+      {
+        "name": "Juan Gómez-Luna",
+        "count": 39
+      },
+      {
+        "name": "Geraldo F. Oliveira",
+        "count": 30
+      },
+      {
+        "name": "Bei Yu",
+        "count": 30
+      },
+      {
+        "name": "P Balasubramanian",
+        "count": 28
+      },
+      {
+        "name": "Tushar Krishna",
+        "count": 27
+      },
+      {
+        "name": "Mohammad Sadrosadati",
+        "count": 26
+      }
+    ],
+    "top_words": [
+      "memory",
+      "design",
+      "hardware",
+      "architecture",
+      "bit",
+      "latency",
+      "dram",
+      "cache",
+      "accelerator",
+      "operations"
+    ]
+  },
+  "cs.CC": {
+    "name": "Computational Complexity",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Erik D. Demaine",
+        "count": 52
+      },
+      {
+        "name": "Lane A. Hemaspaandra",
+        "count": 48
+      },
+      {
+        "name": "Leslie Ann Goldberg",
+        "count": 48
+      },
+      {
+        "name": "Jin-Yi Cai",
+        "count": 40
+      },
+      {
+        "name": "Rocco A. Servedio",
+        "count": 37
+      },
+      {
+        "name": "Srikanth Srinivasan",
+        "count": 34
+      },
+      {
+        "name": "Mrinal Kumar",
+        "count": 33
+      },
+      {
+        "name": "V. Arvind",
+        "count": 32
+      },
+      {
+        "name": "Christian Ikenmeyer",
+        "count": 32
+      },
+      {
+        "name": "Li-Yang Tan",
+        "count": 31
+      }
+    ],
+    "top_words": [
+      "complexity",
+      "polynomial",
+      "vertices",
+      "vertex",
+      "instance",
+      "edges",
+      "graphs",
+      "boolean",
+      "edge",
+      "bounds"
+    ]
+  },
+  "cs.CE": {
+    "name": "Computational Engineering, Finance, and Science",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Sebastian Schöps",
+        "count": 52
+      },
+      {
+        "name": "Wolfgang A. Wall",
+        "count": 45
+      },
+      {
+        "name": "Uwe Aickelin",
+        "count": 32
+      },
+      {
+        "name": "Herbert De Gersem",
+        "count": 32
+      },
+      {
+        "name": "Christoph Meier",
+        "count": 31
+      },
+      {
+        "name": "W. Chen",
+        "count": 22
+      },
+      {
+        "name": "Stefanie Reese",
+        "count": 22
+      },
+      {
+        "name": "Prabhat Kumar",
+        "count": 22
+      },
+      {
+        "name": "Ulrich Rüde",
+        "count": 21
+      },
+      {
+        "name": "Ulrich Römer",
+        "count": 20
+      }
+    ],
+    "top_words": [
+      "computational",
+      "engineering",
+      "material",
+      "optimization",
+      "design",
+      "mesh",
+      "mechanics",
+      "stress",
+      "modeling",
+      "displacement"
+    ]
+  },
+  "cs.CG": {
+    "name": "Computational Geometry",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "David Eppstein",
+        "count": 81
+      },
+      {
+        "name": "Sariel Har-Peled",
+        "count": 79
+      },
+      {
+        "name": "Prosenjit Bose",
+        "count": 64
+      },
+      {
+        "name": "Maarten Löffler",
+        "count": 51
+      },
+      {
+        "name": "Matias Korman",
+        "count": 47
+      },
+      {
+        "name": "Erik D. Demaine",
+        "count": 46
+      },
+      {
+        "name": "Micha Sharir",
+        "count": 44
+      },
+      {
+        "name": "Wolfgang Mulzer",
+        "count": 38
+      },
+      {
+        "name": "Therese Biedl",
+        "count": 38
+      },
+      {
+        "name": "Csaba D. Tóth",
+        "count": 37
+      }
+    ],
+    "top_words": [
+      "vertices",
+      "edge",
+      "edges",
+      "vertex",
+      "convex",
+      "path",
+      "graphs",
+      "plane",
+      "segment",
+      "polygon"
+    ]
+  },
+  "cs.CL": {
+    "name": "Computation and Language",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Graham Neubig",
+        "count": 128
+      },
+      {
+        "name": "Yue Zhang",
+        "count": 114
+      },
+      {
+        "name": "Hinrich Schütze",
+        "count": 102
+      },
+      {
+        "name": "Iryna Gurevych",
+        "count": 100
+      },
+      {
+        "name": "Hai Zhao",
+        "count": 98
+      },
+      {
+        "name": "Yang Liu",
+        "count": 96
+      },
+      {
+        "name": "Ryan Cotterell",
+        "count": 92
+      },
+      {
+        "name": "Noah A. Smith",
+        "count": 92
+      },
+      {
+        "name": "Xuanjing Huang",
+        "count": 86
+      },
+      {
+        "name": "Xipeng Qiu",
+        "count": 85
+      }
+    ],
+    "top_words": [
+      "language",
+      "linguistics",
+      "word",
+      "proceedings",
+      "association",
+      "computational",
+      "text",
+      "pages",
+      "sentence",
+      "task"
+    ]
+  },
+  "cs.CR": {
+    "name": "Cryptography and Security",
+    "category": "cs",
+    "top_authors": NaN,
+    "top_words": NaN
+  },
+  "cs.CV": {
+    "name": "Computer Vision and Pattern Recognition",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Chunhua Shen",
+        "count": 176
+      },
+      {
+        "name": "Luc Van Gool",
+        "count": 131
+      },
+      {
+        "name": "Lei Zhang",
+        "count": 109
+      },
+      {
+        "name": "Liang Lin",
+        "count": 108
+      },
+      {
+        "name": "Dacheng Tao",
+        "count": 97
+      },
+      {
+        "name": "Ming-Hsuan Yang",
+        "count": 94
+      },
+      {
+        "name": "Yi Yang",
+        "count": 90
+      },
+      {
+        "name": "Jiashi Feng",
+        "count": 89
+      },
+      {
+        "name": "Xiaogang Wang",
+        "count": 88
+      },
+      {
+        "name": "Shuicheng Yan",
+        "count": 86
+      }
+    ],
+    "top_words": [
+      "images",
+      "recognition",
+      "feature",
+      "vision",
+      "deep",
+      "computer",
+      "object",
+      "detection",
+      "segmentation",
+      "convolutional"
+    ]
+  },
+  "cs.CY": {
+    "name": "Computers and Society",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Kristina Lerman",
+        "count": 31
+      },
+      {
+        "name": "Loet Leydesdorff",
+        "count": 28
+      },
+      {
+        "name": "Bernardo A. Huberman",
+        "count": 26
+      },
+      {
+        "name": "Robert West",
+        "count": 21
+      },
+      {
+        "name": "Jukka Ruohonen",
+        "count": 20
+      },
+      {
+        "name": "Luiz Fernando Capretz",
+        "count": 19
+      },
+      {
+        "name": "Paul Denny",
+        "count": 18
+      },
+      {
+        "name": "Rayed AlGhamdi",
+        "count": 17
+      },
+      {
+        "name": "Bruno Lepri",
+        "count": 17
+      },
+      {
+        "name": "Filippo Menczer",
+        "count": 17
+      }
+    ],
+    "top_words": [
+      "social",
+      "users",
+      "technology",
+      "students",
+      "development",
+      "education",
+      "online",
+      "user",
+      "public",
+      "human"
+    ]
+  },
+  "cs.DB": {
+    "name": "Databases",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Jérôme Darmont",
+        "count": 74
+      },
+      {
+        "name": "Dan Suciu",
+        "count": 48
+      },
+      {
+        "name": "Tim Kraska",
+        "count": 37
+      },
+      {
+        "name": "Jim Gray",
+        "count": 36
+      },
+      {
+        "name": "Hongzhi Wang",
+        "count": 36
+      },
+      {
+        "name": "Daniel Lemire",
+        "count": 35
+      },
+      {
+        "name": "Wensheng Gan",
+        "count": 35
+      },
+      {
+        "name": "Wil M. P. van der Aalst",
+        "count": 35
+      },
+      {
+        "name": "Lei Chen",
+        "count": 34
+      },
+      {
+        "name": "Dan Olteanu",
+        "count": 33
+      }
+    ],
+    "top_words": [
+      "query",
+      "queries",
+      "database",
+      "databases",
+      "node",
+      "join",
+      "nodes",
+      "tuples",
+      "attributes",
+      "schema"
+    ]
+  },
+  "cs.DC": {
+    "name": "Distributed, Parallel, and Cluster Computing",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Rajkumar Buyya",
+        "count": 149
+      },
+      {
+        "name": "Blesson Varghese",
+        "count": 58
+      },
+      {
+        "name": "Sébastien Tixeuil",
+        "count": 53
+      },
+      {
+        "name": "Michel Raynal",
+        "count": 49
+      },
+      {
+        "name": "Shantenu Jha",
+        "count": 49
+      },
+      {
+        "name": "Torsten Hoefler",
+        "count": 47
+      },
+      {
+        "name": "Petr Kuznetsov",
+        "count": 47
+      },
+      {
+        "name": "Ian Foster",
+        "count": 47
+      },
+      {
+        "name": "Lauritz Thamsen",
+        "count": 44
+      },
+      {
+        "name": "David Bermbach",
+        "count": 42
+      }
+    ],
+    "top_words": [
+      "computing",
+      "distributed",
+      "node",
+      "nodes",
+      "memory",
+      "execution",
+      "parallel",
+      "communication",
+      "cloud",
+      "application"
+    ]
+  },
+  "cs.DL": {
+    "name": "Digital Libraries",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Loet Leydesdorff",
+        "count": 159
+      },
+      {
+        "name": "Lutz Bornmann",
+        "count": 141
+      },
+      {
+        "name": "Ciriaco Andrea D'Angelo",
+        "count": 127
+      },
+      {
+        "name": "Giovanni Abramo",
+        "count": 127
+      },
+      {
+        "name": "Mike Thelwall",
+        "count": 76
+      },
+      {
+        "name": "Michael L. Nelson",
+        "count": 72
+      },
+      {
+        "name": "Philipp Mayr",
+        "count": 63
+      },
+      {
+        "name": "Ludo Waltman",
+        "count": 56
+      },
+      {
+        "name": "Rodrigo Costas",
+        "count": 51
+      },
+      {
+        "name": "Robin Haunschild",
+        "count": 46
+      }
+    ],
+    "top_words": [
+      "citation",
+      "papers",
+      "citations",
+      "publications",
+      "journals",
+      "articles",
+      "publication",
+      "scientific",
+      "authors",
+      "impact"
+    ]
+  },
+  "cs.DM": {
+    "name": "Discrete Mathematics",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Marc Hellmuth",
+        "count": 32
+      },
+      {
+        "name": "Vadim E. Levit",
+        "count": 30
+      },
+      {
+        "name": "Eric Sopena",
+        "count": 25
+      },
+      {
+        "name": "Nicolas Trotignon",
+        "count": 25
+      },
+      {
+        "name": "Peter F. Stadler",
+        "count": 24
+      },
+      {
+        "name": "Sebastian Siebertz",
+        "count": 23
+      },
+      {
+        "name": "Nicolas Bousquet",
+        "count": 23
+      },
+      {
+        "name": "Andreas Brandstädt",
+        "count": 22
+      },
+      {
+        "name": "Michel Grabisch",
+        "count": 22
+      },
+      {
+        "name": "Raffaele Mosca",
+        "count": 21
+      }
+    ],
+    "top_words": [
+      "vertices",
+      "graphs",
+      "vertex",
+      "edges",
+      "edge",
+      "path",
+      "connected",
+      "tree",
+      "contains",
+      "cycle"
+    ]
+  },
+  "cs.DS": {
+    "name": "Data Structures and Algorithms",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "David P. Woodruff",
+        "count": 142
+      },
+      {
+        "name": "Gonzalo Navarro",
+        "count": 107
+      },
+      {
+        "name": "Travis Gagie",
+        "count": 107
+      },
+      {
+        "name": "Monika Henzinger",
+        "count": 97
+      },
+      {
+        "name": "Saket Saurabh",
+        "count": 96
+      },
+      {
+        "name": "Tomasz Kociumaka",
+        "count": 90
+      },
+      {
+        "name": "Shunsuke Inenaga",
+        "count": 88
+      },
+      {
+        "name": "Anupam Gupta",
+        "count": 85
+      },
+      {
+        "name": "Peter Sanders",
+        "count": 75
+      },
+      {
+        "name": "Robert Krauthgamer",
+        "count": 73
+      }
+    ],
+    "top_words": [
+      "vertex",
+      "vertices",
+      "edges",
+      "edge",
+      "tree",
+      "graphs",
+      "path",
+      "node",
+      "pages",
+      "nodes"
+    ]
+  },
+  "cs.ET": {
+    "name": "Emerging Technologies",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Andrew Adamatzky",
+        "count": 111
+      },
+      {
+        "name": "Kaushik Roy",
+        "count": 52
+      },
+      {
+        "name": "Robert Schober",
+        "count": 39
+      },
+      {
+        "name": "Alex Pappachen James",
+        "count": 29
+      },
+      {
+        "name": "Giacomo Indiveri",
+        "count": 29
+      },
+      {
+        "name": "Abhronil Sengupta",
+        "count": 27
+      },
+      {
+        "name": "H. Birkan Yilmaz",
+        "count": 26
+      },
+      {
+        "name": "Chan-Byoung Chae",
+        "count": 26
+      },
+      {
+        "name": "Kai Ni",
+        "count": 23
+      },
+      {
+        "name": "Abu Sebastian",
+        "count": 23
+      }
+    ],
+    "top_words": [
+      "computing",
+      "circuit",
+      "circuits",
+      "devices",
+      "output",
+      "memory",
+      "design",
+      "device",
+      "voltage",
+      "neural"
+    ]
+  },
+  "cs.FL": {
+    "name": "Formal Languages and Automata Theory",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Georg Zetzsche",
+        "count": 36
+      },
+      {
+        "name": "Manfred Kufleitner",
+        "count": 29
+      },
+      {
+        "name": "Janusz Brzozowski",
+        "count": 29
+      },
+      {
+        "name": "Emmanuel Filiot",
+        "count": 26
+      },
+      {
+        "name": "Wojciech Czerwiński",
+        "count": 26
+      },
+      {
+        "name": "Marek Szykuła",
+        "count": 26
+      },
+      {
+        "name": "Stefan Kiefer",
+        "count": 25
+      },
+      {
+        "name": "Jeffrey Shallit",
+        "count": 25
+      },
+      {
+        "name": "Thomas Place",
+        "count": 25
+      },
+      {
+        "name": "Marc Zeitoun",
+        "count": 25
+      }
+    ],
+    "top_words": [
+      "automata",
+      "automaton",
+      "languages",
+      "word",
+      "language",
+      "words",
+      "alphabet",
+      "regular",
+      "accepting",
+      "transitions"
+    ]
+  },
+  "cs.GL": {
+    "name": "General Literature",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Serban E. Vlad",
+        "count": 7
+      },
+      {
+        "name": "Gordana Dodig-Crnkovic",
+        "count": 6
+      },
+      {
+        "name": "Krzysztof R. Apt",
+        "count": 4
+      },
+      {
+        "name": "Hector Zenil",
+        "count": 2
+      },
+      {
+        "name": "Nick Zhang",
+        "count": 2
+      },
+      {
+        "name": "Chaomei Chen",
+        "count": 2
+      },
+      {
+        "name": "Mark Burgin",
+        "count": 2
+      },
+      {
+        "name": "Jim Gray",
+        "count": 2
+      },
+      {
+        "name": "Stephan Rave",
+        "count": 2
+      },
+      {
+        "name": "Franziska Appel",
+        "count": 1
+      }
+    ],
+    "top_words": [
+      "computer",
+      "software",
+      "computing",
+      "turing",
+      "computers",
+      "world",
+      "development",
+      "like",
+      "program",
+      "people"
+    ]
+  },
+  "cs.GR": {
+    "name": "Graphics",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Alec Jacobson",
+        "count": 34
+      },
+      {
+        "name": "Daniel Cohen-Or",
+        "count": 29
+      },
+      {
+        "name": "Lin Gao",
+        "count": 29
+      },
+      {
+        "name": "Wenping Wang",
+        "count": 29
+      },
+      {
+        "name": "Niloy J. Mitra",
+        "count": 27
+      },
+      {
+        "name": "Justin Solomon",
+        "count": 24
+      },
+      {
+        "name": "Yu-Kun Lai",
+        "count": 23
+      },
+      {
+        "name": "Hans-Peter Seidel",
+        "count": 22
+      },
+      {
+        "name": "Dinesh Manocha",
+        "count": 22
+      },
+      {
+        "name": "Tobias Ritschel",
+        "count": 22
+      }
+    ],
+    "top_words": [
+      "graphics",
+      "computer",
+      "acm",
+      "rendering",
+      "mesh",
+      "shape",
+      "visualization",
+      "transactions",
+      "images",
+      "neural"
+    ]
+  },
+  "cs.GT": {
+    "name": "Computer Science and Game Theory",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Haris Aziz",
+        "count": 95
+      },
+      {
+        "name": "Tuomas Sandholm",
+        "count": 90
+      },
+      {
+        "name": "Georgios Piliouras",
+        "count": 68
+      },
+      {
+        "name": "Michal Feldman",
+        "count": 66
+      },
+      {
+        "name": "Edith Elkind",
+        "count": 65
+      },
+      {
+        "name": "Moshe Tennenholtz",
+        "count": 64
+      },
+      {
+        "name": "Christian Kroer",
+        "count": 57
+      },
+      {
+        "name": "Gabriele Farina",
+        "count": 57
+      },
+      {
+        "name": "Nicola Gatti",
+        "count": 55
+      },
+      {
+        "name": "S. Matthew Weinberg",
+        "count": 54
+      }
+    ],
+    "top_words": [
+      "game",
+      "games",
+      "player",
+      "agents",
+      "strategy",
+      "equilibrium",
+      "players",
+      "agent",
+      "utility",
+      "nash"
+    ]
+  },
+  "cs.HC": {
+    "name": "Human-Computer Interaction",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Huamin Qu",
+        "count": 86
+      },
+      {
+        "name": "Mingming Fan",
+        "count": 46
+      },
+      {
+        "name": "Xiaojuan Ma",
+        "count": 44
+      },
+      {
+        "name": "Yong Wang",
+        "count": 40
+      },
+      {
+        "name": "Andrés Monroy-Hernández",
+        "count": 39
+      },
+      {
+        "name": "Jens Grubert",
+        "count": 39
+      },
+      {
+        "name": "Hai-Ning Liang",
+        "count": 37
+      },
+      {
+        "name": "Pan Hui",
+        "count": 34
+      },
+      {
+        "name": "Jian Zhao",
+        "count": 33
+      },
+      {
+        "name": "Alex Endert",
+        "count": 32
+      }
+    ],
+    "top_words": [
+      "participants",
+      "user",
+      "users",
+      "design",
+      "human",
+      "proceedings",
+      "acm",
+      "visual",
+      "computing",
+      "task"
+    ]
+  },
+  "cs.IR": {
+    "name": "Information Retrieval",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Maarten de Rijke",
+        "count": 130
+      },
+      {
+        "name": "Ruiming Tang",
+        "count": 108
+      },
+      {
+        "name": "Xiangnan He",
+        "count": 105
+      },
+      {
+        "name": "Hongzhi Yin",
+        "count": 104
+      },
+      {
+        "name": "Jimmy Lin",
+        "count": 93
+      },
+      {
+        "name": "Weinan Zhang",
+        "count": 76
+      },
+      {
+        "name": "Jiafeng Guo",
+        "count": 74
+      },
+      {
+        "name": "Qingyao Ai",
+        "count": 74
+      },
+      {
+        "name": "Fuli Feng",
+        "count": 72
+      },
+      {
+        "name": "Xueqi Cheng",
+        "count": 69
+      }
+    ],
+    "top_words": [
+      "recommendation",
+      "user",
+      "users",
+      "retrieval",
+      "items",
+      "item",
+      "acm",
+      "recommender",
+      "query",
+      "proceedings"
+    ]
+  },
+  "cs.IT": {
+    "name": "Information Theory",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "H. Vincent Poor",
+        "count": 374
+      },
+      {
+        "name": "Rui Zhang",
+        "count": 198
+      },
+      {
+        "name": "Giuseppe Caire",
+        "count": 196
+      },
+      {
+        "name": "Robert Schober",
+        "count": 194
+      },
+      {
+        "name": "B. Sundar Rajan",
+        "count": 186
+      },
+      {
+        "name": "Shlomo Shamai",
+        "count": 180
+      },
+      {
+        "name": "Mohamed-Slim Alouini",
+        "count": 143
+      },
+      {
+        "name": "Derrick Wing Kwan Ng",
+        "count": 135
+      },
+      {
+        "name": "Robert W. Heath Jr",
+        "count": 123
+      },
+      {
+        "name": "Zhiguo Ding",
+        "count": 115
+      }
+    ],
+    "top_words": [
+      "channel",
+      "codes",
+      "code",
+      "trans",
+      "capacity",
+      "decoding",
+      "wireless",
+      "channels",
+      "scheme",
+      "coding"
+    ]
+  },
+  "cs.LG": {
+    "name": "Machine Learning",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Yoshua Bengio",
+        "count": 67
+      },
+      {
+        "name": "Bo Han",
+        "count": 56
+      },
+      {
+        "name": "Yang Liu",
+        "count": 55
+      },
+      {
+        "name": "Tongliang Liu",
+        "count": 54
+      },
+      {
+        "name": "Jun Zhu",
+        "count": 53
+      },
+      {
+        "name": "Masashi Sugiyama",
+        "count": 49
+      },
+      {
+        "name": "Mihaela van der Schaar",
+        "count": 44
+      },
+      {
+        "name": "Shirui Pan",
+        "count": 40
+      },
+      {
+        "name": "Philip S. Yu",
+        "count": 40
+      },
+      {
+        "name": "Zhangyang Wang",
+        "count": 38
+      }
+    ],
+    "top_words": [
+      "neural",
+      "machine",
+      "datasets",
+      "deep",
+      "loss",
+      "accuracy",
+      "feature",
+      "prediction",
+      "samples",
+      "tasks"
+    ]
+  },
+  "cs.LO": {
+    "name": "Logic in Computer Science",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Bernd Finkbeiner",
+        "count": 73
+      },
+      {
+        "name": "Gilles Dowek",
+        "count": 68
+      },
+      {
+        "name": "Ugo Dal Lago",
+        "count": 63
+      },
+      {
+        "name": "Rob van Glabbeek",
+        "count": 57
+      },
+      {
+        "name": "Joost-Pieter Katoen",
+        "count": 51
+      },
+      {
+        "name": "Lutz Schröder",
+        "count": 50
+      },
+      {
+        "name": "Frédéric Blanqui",
+        "count": 40
+      },
+      {
+        "name": "Bart Jacobs",
+        "count": 39
+      },
+      {
+        "name": "Stefan Milius",
+        "count": 36
+      },
+      {
+        "name": "Jürgen Giesl",
+        "count": 35
+      }
+    ],
+    "top_words": [
+      "logic",
+      "semantics",
+      "rules",
+      "rule",
+      "formula",
+      "induction",
+      "formulas",
+      "computer",
+      "program",
+      "calculus"
+    ]
+  },
+  "cs.MA": {
+    "name": "Multiagent Systems",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Ali H. Sayed",
+        "count": 32
+      },
+      {
+        "name": "Jun Wang",
+        "count": 23
+      },
+      {
+        "name": "Alfred M. Bruckstein",
+        "count": 19
+      },
+      {
+        "name": "Yaodong Yang",
+        "count": 19
+      },
+      {
+        "name": "Guoliang Fan",
+        "count": 15
+      },
+      {
+        "name": "Zhiwei Xu",
+        "count": 14
+      },
+      {
+        "name": "Bin Zhang",
+        "count": 14
+      },
+      {
+        "name": "Wojciech Jamroga",
+        "count": 14
+      },
+      {
+        "name": "Jianye Hao",
+        "count": 13
+      },
+      {
+        "name": "Dapeng Li",
+        "count": 13
+      }
+    ],
+    "top_words": [
+      "agents",
+      "agent",
+      "multiagent",
+      "policy",
+      "environment",
+      "reinforcement",
+      "reward",
+      "communication",
+      "actions",
+      "social"
+    ]
+  },
+  "cs.MM": {
+    "name": "Multimedia",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Christian Timmerer",
+        "count": 26
+      },
+      {
+        "name": "Pascal Frossard",
+        "count": 24
+      },
+      {
+        "name": "Vignesh V Menon",
+        "count": 18
+      },
+      {
+        "name": "Zhaoxia Yin",
+        "count": 18
+      },
+      {
+        "name": "Jiwu Huang",
+        "count": 17
+      },
+      {
+        "name": "Siwei Ma",
+        "count": 17
+      },
+      {
+        "name": "Lifeng Sun",
+        "count": 15
+      },
+      {
+        "name": "Wei Zhou",
+        "count": 14
+      },
+      {
+        "name": "Zhi Wang",
+        "count": 14
+      },
+      {
+        "name": "Guangtao Zhai",
+        "count": 14
+      }
+    ],
+    "top_words": [
+      "video",
+      "quality",
+      "images",
+      "visual",
+      "multimedia",
+      "videos",
+      "content",
+      "processing",
+      "feature",
+      "audio"
+    ]
+  },
+  "cs.MS": {
+    "name": "Mathematical Software",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Paolo Bientinesi",
+        "count": 25
+      },
+      {
+        "name": "David A. Ham",
+        "count": 14
+      },
+      {
+        "name": "Matthew G. Knepley",
+        "count": 13
+      },
+      {
+        "name": "Jan Verschelde",
+        "count": 13
+      },
+      {
+        "name": "Tobias Weinzierl",
+        "count": 13
+      },
+      {
+        "name": "Lawrence Mitchell",
+        "count": 10
+      },
+      {
+        "name": "Conrad Sanderson",
+        "count": 10
+      },
+      {
+        "name": "Fredrik Johansson",
+        "count": 10
+      },
+      {
+        "name": "Robert A. van de Geijn",
+        "count": 10
+      },
+      {
+        "name": "Saman Amarasinghe",
+        "count": 9
+      }
+    ],
+    "top_words": [
+      "code",
+      "memory",
+      "implementation",
+      "computing",
+      "library",
+      "software",
+      "parallel",
+      "operations",
+      "matrices",
+      "computation"
+    ]
+  },
+  "cs.NA": {
+    "name": "Numerical Analysis",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Petr N. Vabishchevich",
+        "count": 25
+      },
+      {
+        "name": "K. B. Nakshatrala",
+        "count": 24
+      },
+      {
+        "name": "Adrian Sandu",
+        "count": 19
+      },
+      {
+        "name": "Andrzej Cichocki",
+        "count": 13
+      },
+      {
+        "name": "Dohy Hong",
+        "count": 8
+      },
+      {
+        "name": "Jürgen Zechner",
+        "count": 7
+      },
+      {
+        "name": "Gernot Beer",
+        "count": 7
+      },
+      {
+        "name": "Milan Hladík",
+        "count": 7
+      },
+      {
+        "name": "Benjamin Marussig",
+        "count": 7
+      },
+      {
+        "name": "Kevin Carlberg",
+        "count": 7
+      }
+    ],
+    "top_words": [
+      "matrices",
+      "convergence",
+      "computational",
+      "tensor",
+      "iteration",
+      "decomposition",
+      "scheme",
+      "optimization",
+      "rank",
+      "sparse"
+    ]
+  },
+  "cs.NE": {
+    "name": "Neural and Evolutionary Computing",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Frank Neumann",
+        "count": 94
+      },
+      {
+        "name": "Benjamin Doerr",
+        "count": 78
+      },
+      {
+        "name": "Carola Doerr",
+        "count": 75
+      },
+      {
+        "name": "Xin Yao",
+        "count": 51
+      },
+      {
+        "name": "Tarik A. Rashid",
+        "count": 49
+      },
+      {
+        "name": "Kay Chen Tan",
+        "count": 47
+      },
+      {
+        "name": "Aneta Neumann",
+        "count": 46
+      },
+      {
+        "name": "Thomas Bäck",
+        "count": 45
+      },
+      {
+        "name": "Uwe Aickelin",
+        "count": 45
+      },
+      {
+        "name": "Yi Zeng",
+        "count": 39
+      }
+    ],
+    "top_words": [
+      "neural",
+      "evolutionary",
+      "optimization",
+      "search",
+      "neurons",
+      "genetic",
+      "population",
+      "neuron",
+      "layer",
+      "computation"
+    ]
+  },
+  "cs.NI": {
+    "name": "Networking and Internet Architecture",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Dusit Niyato",
+        "count": 161
+      },
+      {
+        "name": "Michele Zorzi",
+        "count": 117
+      },
+      {
+        "name": "Zhu Han",
+        "count": 95
+      },
+      {
+        "name": "N. Javaid",
+        "count": 90
+      },
+      {
+        "name": "Boris Bellalta",
+        "count": 87
+      },
+      {
+        "name": "Tommaso Melodia",
+        "count": 81
+      },
+      {
+        "name": "Mehdi Bennis",
+        "count": 80
+      },
+      {
+        "name": "Michele Polese",
+        "count": 80
+      },
+      {
+        "name": "Hans D. Schotten",
+        "count": 70
+      },
+      {
+        "name": "Mohamed-Slim Alouini",
+        "count": 69
+      }
+    ],
+    "top_words": [
+      "wireless",
+      "packet",
+      "nodes",
+      "node",
+      "communication",
+      "communications",
+      "transmission",
+      "mobile",
+      "packets",
+      "service"
+    ]
+  },
+  "cs.OH": {
+    "name": "Other Computer Science",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Jocelyne Troccaz",
+        "count": 17
+      },
+      {
+        "name": "Serban E. Vlad",
+        "count": 10
+      },
+      {
+        "name": "Richard A. Formato",
+        "count": 10
+      },
+      {
+        "name": "Amit Konar",
+        "count": 9
+      },
+      {
+        "name": "Deepyaman Maiti",
+        "count": 9
+      },
+      {
+        "name": "Mohammad Nabil Almunawar",
+        "count": 9
+      },
+      {
+        "name": "Eric Feron",
+        "count": 8
+      },
+      {
+        "name": "Vincent Daanen",
+        "count": 8
+      },
+      {
+        "name": "Yongfu Li",
+        "count": 8
+      },
+      {
+        "name": "Dominik Egarter",
+        "count": 7
+      }
+    ],
+    "top_words": [
+      "design",
+      "technology",
+      "management",
+      "computer",
+      "software",
+      "output",
+      "business",
+      "application",
+      "service",
+      "user"
+    ]
+  },
+  "cs.OS": {
+    "name": "Operating Systems",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Joël Goossens",
+        "count": 19
+      },
+      {
+        "name": "Jian-Jia Chen",
+        "count": 9
+      },
+      {
+        "name": "Richard West",
+        "count": 9
+      },
+      {
+        "name": "Alex Kogan",
+        "count": 8
+      },
+      {
+        "name": "Lin Zhong",
+        "count": 8
+      },
+      {
+        "name": "Dave Dice",
+        "count": 7
+      },
+      {
+        "name": "Arvind Easwaran",
+        "count": 7
+      },
+      {
+        "name": "Giuseppe Lipari",
+        "count": 6
+      },
+      {
+        "name": "Timothy Roscoe",
+        "count": 6
+      },
+      {
+        "name": "Reto Achermann",
+        "count": 6
+      }
+    ],
+    "top_words": [
+      "memory",
+      "linux",
+      "kernel",
+      "operating",
+      "scheduling",
+      "execution",
+      "page",
+      "cpu",
+      "task",
+      "access"
+    ]
+  },
+  "cs.PF": {
+    "name": "Performance",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Georg Hager",
+        "count": 34
+      },
+      {
+        "name": "Gerhard Wellein",
+        "count": 29
+      },
+      {
+        "name": "Mor Harchol-Balter",
+        "count": 21
+      },
+      {
+        "name": "Lei Wang",
+        "count": 16
+      },
+      {
+        "name": "Jianfeng Zhan",
+        "count": 15
+      },
+      {
+        "name": "Ziv Scully",
+        "count": 13
+      },
+      {
+        "name": "George Kesidis",
+        "count": 12
+      },
+      {
+        "name": "Wanling Gao",
+        "count": 12
+      },
+      {
+        "name": "Isaac Grosof",
+        "count": 11
+      },
+      {
+        "name": "Quan-Lin Li",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "memory",
+      "service",
+      "queue",
+      "server",
+      "cache",
+      "execution",
+      "job",
+      "jobs",
+      "computing",
+      "arrival"
+    ]
+  },
+  "cs.PL": {
+    "name": "Programming Languages",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "David Van Horn",
+        "count": 44
+      },
+      {
+        "name": "Fabrizio Montesi",
+        "count": 28
+      },
+      {
+        "name": "James Cheney",
+        "count": 27
+      },
+      {
+        "name": "Nobuko Yoshida",
+        "count": 27
+      },
+      {
+        "name": "Peter Thiemann",
+        "count": 26
+      },
+      {
+        "name": "Isil Dillig",
+        "count": 24
+      },
+      {
+        "name": "Tom Schrijvers",
+        "count": 22
+      },
+      {
+        "name": "Armando Solar-Lezama",
+        "count": 21
+      },
+      {
+        "name": "Manuel V. Hermenegildo",
+        "count": 20
+      },
+      {
+        "name": "Thomas Reps",
+        "count": 20
+      }
+    ],
+    "top_words": [
+      "program",
+      "programming",
+      "language",
+      "programs",
+      "code",
+      "semantics",
+      "languages",
+      "types",
+      "acm",
+      "rules"
+    ]
+  },
+  "cs.RO": {
+    "name": "Robotics",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Damien Chablat",
+        "count": 183
+      },
+      {
+        "name": "Roland Siegwart",
+        "count": 134
+      },
+      {
+        "name": "Philippe Wenger",
+        "count": 90
+      },
+      {
+        "name": "Sven Behnke",
+        "count": 80
+      },
+      {
+        "name": "Dinesh Manocha",
+        "count": 78
+      },
+      {
+        "name": "Juan Nieto",
+        "count": 64
+      },
+      {
+        "name": "Dieter Fox",
+        "count": 63
+      },
+      {
+        "name": "Fei Gao",
+        "count": 60
+      },
+      {
+        "name": "Vijay Kumar",
+        "count": 60
+      },
+      {
+        "name": "Yue Wang",
+        "count": 57
+      }
+    ],
+    "top_words": [
+      "robot",
+      "robots",
+      "robotics",
+      "planning",
+      "motion",
+      "trajectory",
+      "object",
+      "environment",
+      "task",
+      "automation"
+    ]
+  },
+  "cs.SC": {
+    "name": "Symbolic Computation",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Mohab Safey El Din",
+        "count": 47
+      },
+      {
+        "name": "Matthew England",
+        "count": 45
+      },
+      {
+        "name": "Manuel Kauers",
+        "count": 39
+      },
+      {
+        "name": "Shaoshi Chen",
+        "count": 33
+      },
+      {
+        "name": "Éric Schost",
+        "count": 31
+      },
+      {
+        "name": "Bruno Salvy",
+        "count": 31
+      },
+      {
+        "name": "Alin Bostan",
+        "count": 31
+      },
+      {
+        "name": "Carsten Schneider",
+        "count": 30
+      },
+      {
+        "name": "Jean-Guillaume Dumas",
+        "count": 29
+      },
+      {
+        "name": "James H. Davenport",
+        "count": 27
+      }
+    ],
+    "top_words": [
+      "polynomial",
+      "polynomials",
+      "computation",
+      "algebraic",
+      "symbolic",
+      "compute",
+      "basis",
+      "computing",
+      "complexity",
+      "algebra"
+    ]
+  },
+  "cs.SD": {
+    "name": "Sound",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Lei Xie",
+        "count": 115
+      },
+      {
+        "name": "Hiroshi Saruwatari",
+        "count": 57
+      },
+      {
+        "name": "Björn W. Schuller",
+        "count": 51
+      },
+      {
+        "name": "Wenwu Wang",
+        "count": 46
+      },
+      {
+        "name": "Shinji Watanabe",
+        "count": 43
+      },
+      {
+        "name": "Qiuqiang Kong",
+        "count": 43
+      },
+      {
+        "name": "Gerhard Widmer",
+        "count": 43
+      },
+      {
+        "name": "Shinnosuke Takamichi",
+        "count": 41
+      },
+      {
+        "name": "Helen Meng",
+        "count": 40
+      },
+      {
+        "name": "Yi-Hsuan Yang",
+        "count": 40
+      }
+    ],
+    "top_words": [
+      "speech",
+      "audio",
+      "speaker",
+      "processing",
+      "music",
+      "neural",
+      "recognition",
+      "sound",
+      "acoustic",
+      "icassp"
+    ]
+  },
+  "cs.SE": {
+    "name": "Software Engineering",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "David Lo",
+        "count": 99
+      },
+      {
+        "name": "Martin Monperrus",
+        "count": 78
+      },
+      {
+        "name": "Christoph Treude",
+        "count": 77
+      },
+      {
+        "name": "Yang Liu",
+        "count": 68
+      },
+      {
+        "name": "Michael Unterkalmsteiner",
+        "count": 64
+      },
+      {
+        "name": "Luiz Fernando Capretz",
+        "count": 62
+      },
+      {
+        "name": "John Grundy",
+        "count": 62
+      },
+      {
+        "name": "Peng Liang",
+        "count": 61
+      },
+      {
+        "name": "Jürgen Münch",
+        "count": 60
+      },
+      {
+        "name": "Raula Gaikovina Kula",
+        "count": 52
+      }
+    ],
+    "top_words": [
+      "software",
+      "code",
+      "engineering",
+      "development",
+      "developers",
+      "testing",
+      "projects",
+      "project",
+      "tools",
+      "language"
+    ]
+  },
+  "cs.SI": {
+    "name": "Social and Information Networks",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Emilio Ferrara",
+        "count": 54
+      },
+      {
+        "name": "Jiebo Luo",
+        "count": 42
+      },
+      {
+        "name": "Kristina Lerman",
+        "count": 32
+      },
+      {
+        "name": "Filippo Menczer",
+        "count": 31
+      },
+      {
+        "name": "Luca Luceri",
+        "count": 28
+      },
+      {
+        "name": "Mason A. Porter",
+        "count": 27
+      },
+      {
+        "name": "Ponnurangam Kumaraguru",
+        "count": 24
+      },
+      {
+        "name": "Philip S. Yu",
+        "count": 24
+      },
+      {
+        "name": "Aristides Gionis",
+        "count": 23
+      },
+      {
+        "name": "Kiran Garimella",
+        "count": 22
+      }
+    ],
+    "top_words": [
+      "social",
+      "users",
+      "nodes",
+      "node",
+      "twitter",
+      "user",
+      "community",
+      "media",
+      "tweets",
+      "edges"
+    ]
+  },
+  "cs.SY": {
+    "name": "Systems and Control",
+    "category": "cs",
+    "top_authors": [
+      {
+        "name": "Dimos V. Dimarogonas",
+        "count": 30
+      },
+      {
+        "name": "Amin Khodaei",
+        "count": 20
+      },
+      {
+        "name": "Johan Schoukens",
+        "count": 20
+      },
+      {
+        "name": "Romeo Ortega",
+        "count": 19
+      },
+      {
+        "name": "Ding Zhao",
+        "count": 18
+      },
+      {
+        "name": "Ian R. Petersen",
+        "count": 17
+      },
+      {
+        "name": "Karl Henrik Johansson",
+        "count": 17
+      },
+      {
+        "name": "Chung-Chieh Fang",
+        "count": 15
+      },
+      {
+        "name": "Karl H. Johansson",
+        "count": 15
+      },
+      {
+        "name": "Brian D. O. Anderson",
+        "count": 14
+      }
+    ],
+    "top_words": [
+      "controller",
+      "stability",
+      "design",
+      "nonlinear",
+      "optimization",
+      "cost",
+      "output",
+      "estimation",
+      "distributed",
+      "transactions"
+    ]
+  },
+  "eess.AS": {
+    "name": "Audio and Speech Processing",
+    "category": "eess",
+    "top_authors": [
+      {
+        "name": "Shinji Watanabe",
+        "count": 155
+      },
+      {
+        "name": "Haizhou Li",
+        "count": 93
+      },
+      {
+        "name": "Lei Xie",
+        "count": 80
+      },
+      {
+        "name": "Yu Tsao",
+        "count": 78
+      },
+      {
+        "name": "Junichi Yamagishi",
+        "count": 78
+      },
+      {
+        "name": "Dong Yu",
+        "count": 70
+      },
+      {
+        "name": "Hung-yi Lee",
+        "count": 66
+      },
+      {
+        "name": "Jinyu Li",
+        "count": 60
+      },
+      {
+        "name": "Marc Delcroix",
+        "count": 55
+      },
+      {
+        "name": "Ming Li",
+        "count": 55
+      }
+    ],
+    "top_words": [
+      "speech",
+      "audio",
+      "speaker",
+      "recognition",
+      "processing",
+      "neural",
+      "icassp",
+      "acoustic",
+      "asr",
+      "language"
+    ]
+  },
+  "eess.IV": {
+    "name": "Image and Video Processing",
+    "category": "eess",
+    "top_authors": [
+      {
+        "name": "André Kaup",
+        "count": 152
+      },
+      {
+        "name": "Andreas Maier",
+        "count": 104
+      },
+      {
+        "name": "Daniel Rueckert",
+        "count": 94
+      },
+      {
+        "name": "Guang Yang",
+        "count": 79
+      },
+      {
+        "name": "Jürgen Seiler",
+        "count": 64
+      },
+      {
+        "name": "Yuankai Huo",
+        "count": 60
+      },
+      {
+        "name": "Radu Timofte",
+        "count": 60
+      },
+      {
+        "name": "Fan Zhang",
+        "count": 59
+      },
+      {
+        "name": "Nassir Navab",
+        "count": 58
+      },
+      {
+        "name": "Huazhu Fu",
+        "count": 56
+      }
+    ],
+    "top_words": [
+      "images",
+      "segmentation",
+      "deep",
+      "imaging",
+      "medical",
+      "neural",
+      "loss",
+      "convolutional",
+      "feature",
+      "reconstruction"
+    ]
+  },
+  "eess.SP": {
+    "name": "Signal Processing",
+    "category": "eess",
+    "top_authors": [
+      {
+        "name": "Henk Wymeersch",
+        "count": 137
+      },
+      {
+        "name": "Mohamed-Slim Alouini",
+        "count": 112
+      },
+      {
+        "name": "Yonina C. Eldar",
+        "count": 110
+      },
+      {
+        "name": "Cunhua Pan",
+        "count": 96
+      },
+      {
+        "name": "Symeon Chatzinotas",
+        "count": 81
+      },
+      {
+        "name": "Wen Chen",
+        "count": 81
+      },
+      {
+        "name": "Ismail Guvenc",
+        "count": 80
+      },
+      {
+        "name": "Yuanwei Liu",
+        "count": 75
+      },
+      {
+        "name": "Shi Jin",
+        "count": 75
+      },
+      {
+        "name": "Octavia A. Dobre",
+        "count": 73
+      }
+    ],
+    "top_words": [
+      "channel",
+      "wireless",
+      "communication",
+      "signals",
+      "communications",
+      "estimation",
+      "processing",
+      "noise",
+      "snr",
+      "design"
+    ]
+  },
+  "eess.SY": {
+    "name": "Systems and Control",
+    "category": "eess",
+    "top_authors": [
+      {
+        "name": "Frank Allgöwer",
+        "count": 90
+      },
+      {
+        "name": "John Lygeros",
+        "count": 78
+      },
+      {
+        "name": "Florian Dörfler",
+        "count": 68
+      },
+      {
+        "name": "Aaron D. Ames",
+        "count": 65
+      },
+      {
+        "name": "Dimos V. Dimarogonas",
+        "count": 62
+      },
+      {
+        "name": "Karl H. Johansson",
+        "count": 62
+      },
+      {
+        "name": "Matthias A. Müller",
+        "count": 60
+      },
+      {
+        "name": "Roland Tóth",
+        "count": 55
+      },
+      {
+        "name": "Karl Henrik Johansson",
+        "count": 48
+      },
+      {
+        "name": "Majid Zamani",
+        "count": 47
+      }
+    ],
+    "top_words": [
+      "controller",
+      "optimization",
+      "design",
+      "cost",
+      "transactions",
+      "constraints",
+      "nonlinear",
+      "stability",
+      "load",
+      "voltage"
+    ]
+  },
+  "q-fin.CP": {
+    "name": "Computational Finance",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Andrey Itkin",
+        "count": 19
+      },
+      {
+        "name": "Christian Bayer",
+        "count": 18
+      },
+      {
+        "name": "Christoph Reisinger",
+        "count": 18
+      },
+      {
+        "name": "Masaaki Fujii",
+        "count": 12
+      },
+      {
+        "name": "Kathrin Glau",
+        "count": 12
+      },
+      {
+        "name": "Akihiko Takahashi",
+        "count": 12
+      },
+      {
+        "name": "Matthew Lorig",
+        "count": 12
+      },
+      {
+        "name": "Tetsuya Takaishi",
+        "count": 12
+      },
+      {
+        "name": "Pavel V. Shevchenko",
+        "count": 11
+      },
+      {
+        "name": "Antonino Zanette",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "price",
+      "volatility",
+      "market",
+      "option",
+      "pricing",
+      "options",
+      "prices",
+      "risk",
+      "stock",
+      "stochastic"
+    ]
+  },
+  "q-fin.EC": {
+    "name": "Economics",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Valentina V. Tarasova",
+        "count": 9
+      },
+      {
+        "name": "Vasily E. Tarasov",
+        "count": 9
+      },
+      {
+        "name": "Ling-Yun He",
+        "count": 7
+      },
+      {
+        "name": "Ron W Nielsen",
+        "count": 7
+      },
+      {
+        "name": "Andrea Zaccaria",
+        "count": 7
+      },
+      {
+        "name": "J. Doyne Farmer",
+        "count": 7
+      },
+      {
+        "name": "Victor Olkhov",
+        "count": 6
+      },
+      {
+        "name": "Demian Pouzo",
+        "count": 6
+      },
+      {
+        "name": "Luciano Pietronero",
+        "count": 6
+      },
+      {
+        "name": "Ricardo T. Fernholz",
+        "count": 4
+      }
+    ],
+    "top_words": [
+      "economic",
+      "market",
+      "growth",
+      "price",
+      "economics",
+      "equilibrium",
+      "countries",
+      "agents",
+      "income",
+      "prices"
+    ]
+  },
+  "q-fin.GN": {
+    "name": "General Finance",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Bent Flyvbjerg",
+        "count": 30
+      },
+      {
+        "name": "Vitor Joao Pereira Domingues Martinho",
+        "count": 20
+      },
+      {
+        "name": "Didier Sornette",
+        "count": 18
+      },
+      {
+        "name": "Jozef Barunik",
+        "count": 16
+      },
+      {
+        "name": "Ivan O. Kitov",
+        "count": 15
+      },
+      {
+        "name": "Ivan Kitov",
+        "count": 15
+      },
+      {
+        "name": "Yoshi Fujiwara",
+        "count": 14
+      },
+      {
+        "name": "Hideaki Aoyama",
+        "count": 13
+      },
+      {
+        "name": "J. Doyne Farmer",
+        "count": 11
+      },
+      {
+        "name": "Oleg Kitov",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "market",
+      "price",
+      "economic",
+      "financial",
+      "risk",
+      "stock",
+      "markets",
+      "capital",
+      "growth",
+      "prices"
+    ]
+  },
+  "q-fin.MF": {
+    "name": "Mathematical Finance",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Francesca Biagini",
+        "count": 21
+      },
+      {
+        "name": "Yan Dolinsky",
+        "count": 21
+      },
+      {
+        "name": "Ulrich Horst",
+        "count": 20
+      },
+      {
+        "name": "Zongxia Liang",
+        "count": 18
+      },
+      {
+        "name": "Erhan Bayraktar",
+        "count": 18
+      },
+      {
+        "name": "Matthew Lorig",
+        "count": 17
+      },
+      {
+        "name": "Tim Leung",
+        "count": 17
+      },
+      {
+        "name": "Sebastian Jaimungal",
+        "count": 15
+      },
+      {
+        "name": "Jean-Pierre Fouque",
+        "count": 15
+      },
+      {
+        "name": "Zachary Feinstein",
+        "count": 14
+      }
+    ],
+    "top_words": [
+      "price",
+      "market",
+      "risk",
+      "volatility",
+      "stochastic",
+      "pricing",
+      "portfolio",
+      "finance",
+      "asset",
+      "prices"
+    ]
+  },
+  "q-fin.PM": {
+    "name": "Portfolio Management",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Zura Kakushadze",
+        "count": 26
+      },
+      {
+        "name": "Johannes Muhle-Karbe",
+        "count": 22
+      },
+      {
+        "name": "Erhan Bayraktar",
+        "count": 14
+      },
+      {
+        "name": "Takashi Shinzato",
+        "count": 14
+      },
+      {
+        "name": "Jaydip Sen",
+        "count": 13
+      },
+      {
+        "name": "Constantinos Kardaras",
+        "count": 10
+      },
+      {
+        "name": "Xiang Yu",
+        "count": 10
+      },
+      {
+        "name": "Virginia R. Young",
+        "count": 9
+      },
+      {
+        "name": "Ralf Wunderlich",
+        "count": 9
+      },
+      {
+        "name": "Willie Yu",
+        "count": 9
+      }
+    ],
+    "top_words": [
+      "portfolio",
+      "risk",
+      "market",
+      "asset",
+      "investment",
+      "portfolios",
+      "returns",
+      "return",
+      "assets",
+      "wealth"
+    ]
+  },
+  "q-fin.PR": {
+    "name": "Pricing of Securities",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Antoine Jacquier",
+        "count": 20
+      },
+      {
+        "name": "Damiano Brigo",
+        "count": 16
+      },
+      {
+        "name": "Lingjiong Zhu",
+        "count": 10
+      },
+      {
+        "name": "Dan Pirjol",
+        "count": 10
+      },
+      {
+        "name": "Antonis Papapantoleon",
+        "count": 9
+      },
+      {
+        "name": "Martin Keller-Ressel",
+        "count": 8
+      },
+      {
+        "name": "Stefan Gerhold",
+        "count": 8
+      },
+      {
+        "name": "Jean-Philippe Aguilar",
+        "count": 8
+      },
+      {
+        "name": "Andrea Pallavicini",
+        "count": 7
+      },
+      {
+        "name": "Dorje C. Brody",
+        "count": 7
+      }
+    ],
+    "top_words": [
+      "price",
+      "pricing",
+      "volatility",
+      "option",
+      "market",
+      "options",
+      "prices",
+      "risk",
+      "stochastic",
+      "maturity"
+    ]
+  },
+  "q-fin.RM": {
+    "name": "Risk Management",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Ruodu Wang",
+        "count": 22
+      },
+      {
+        "name": "Pavel V. Shevchenko",
+        "count": 16
+      },
+      {
+        "name": "John Cotter",
+        "count": 15
+      },
+      {
+        "name": "Zachary Feinstein",
+        "count": 14
+      },
+      {
+        "name": "Gareth W. Peters",
+        "count": 13
+      },
+      {
+        "name": "Roger J. A. Laeven",
+        "count": 11
+      },
+      {
+        "name": "Birgit Rudloff",
+        "count": 11
+      },
+      {
+        "name": "Chao Wang",
+        "count": 11
+      },
+      {
+        "name": "Cosimo Munari",
+        "count": 10
+      },
+      {
+        "name": "Giulio Cimini",
+        "count": 10
+      }
+    ],
+    "top_words": [
+      "risk",
+      "measures",
+      "market",
+      "portfolio",
+      "insurance",
+      "nancial",
+      "var",
+      "capital",
+      "loss",
+      "financial"
+    ]
+  },
+  "q-fin.ST": {
+    "name": "Statistical Finance",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Wei-Xing Zhou",
+        "count": 67
+      },
+      {
+        "name": "H. Eugene Stanley",
+        "count": 28
+      },
+      {
+        "name": "Zhi-Qiang Jiang",
+        "count": 24
+      },
+      {
+        "name": "Thomas Guhr",
+        "count": 21
+      },
+      {
+        "name": "Ladislav Kristoufek",
+        "count": 20
+      },
+      {
+        "name": "Didier Sornette",
+        "count": 18
+      },
+      {
+        "name": "Stanisław Drożdż",
+        "count": 18
+      },
+      {
+        "name": "Rudi Schäfer",
+        "count": 16
+      },
+      {
+        "name": "Jean-Philippe Bouchaud",
+        "count": 16
+      },
+      {
+        "name": "Marcin Wątorek",
+        "count": 15
+      }
+    ],
+    "top_words": [
+      "market",
+      "stock",
+      "price",
+      "volatility",
+      "series",
+      "returns",
+      "markets",
+      "nancial",
+      "stocks",
+      "financial"
+    ]
+  },
+  "q-fin.TR": {
+    "name": "Trading and Market Microstructure",
+    "category": "q-fin",
+    "top_authors": [
+      {
+        "name": "Jean-Philippe Bouchaud",
+        "count": 33
+      },
+      {
+        "name": "Fabrizio Lillo",
+        "count": 27
+      },
+      {
+        "name": "Michael Benzaquen",
+        "count": 22
+      },
+      {
+        "name": "Charles-Albert Lehalle",
+        "count": 19
+      },
+      {
+        "name": "Iacopo Mastromatteo",
+        "count": 19
+      },
+      {
+        "name": "Olivier Guéant",
+        "count": 18
+      },
+      {
+        "name": "Bence Toth",
+        "count": 11
+      },
+      {
+        "name": "Mathieu Rosenbaum",
+        "count": 10
+      },
+      {
+        "name": "Zoltan Eisler",
+        "count": 8
+      },
+      {
+        "name": "Philippe Bergault",
+        "count": 8
+      }
+    ],
+    "top_words": [
+      "market",
+      "price",
+      "trading",
+      "liquidity",
+      "markets",
+      "trade",
+      "orders",
+      "stock",
+      "prices",
+      "impact"
+    ]
+  },
+  "q-bio.BM": {
+    "name": "Biomolecules",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "D. Thirumalai",
+        "count": 55
+      },
+      {
+        "name": "Guo-Wei Wei",
+        "count": 48
+      },
+      {
+        "name": "Marek Cieplak",
+        "count": 40
+      },
+      {
+        "name": "Giovanni Bussi",
+        "count": 27
+      },
+      {
+        "name": "Eugene I. Shakhnovich",
+        "count": 27
+      },
+      {
+        "name": "Changbong Hyeon",
+        "count": 24
+      },
+      {
+        "name": "G. Tiana",
+        "count": 22
+      },
+      {
+        "name": "Kelin Xia",
+        "count": 21
+      },
+      {
+        "name": "Stan Z. Li",
+        "count": 19
+      },
+      {
+        "name": "Rob Phillips",
+        "count": 19
+      }
+    ],
+    "top_words": [
+      "protein",
+      "proteins",
+      "molecular",
+      "binding",
+      "structures",
+      "residues",
+      "amino",
+      "folding",
+      "molecules",
+      "dna"
+    ]
+  },
+  "q-bio.CB": {
+    "name": "Cell Behavior",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Robert G. Endres",
+        "count": 18
+      },
+      {
+        "name": "Kunihiko Kaneko",
+        "count": 16
+      },
+      {
+        "name": "Herbert Levine",
+        "count": 12
+      },
+      {
+        "name": "Brian A. Camley",
+        "count": 11
+      },
+      {
+        "name": "Leah Edelstein-Keshet",
+        "count": 11
+      },
+      {
+        "name": "Tommaso Lorenzi",
+        "count": 10
+      },
+      {
+        "name": "Roeland M. H. Merks",
+        "count": 9
+      },
+      {
+        "name": "Helen M. Byrne",
+        "count": 9
+      },
+      {
+        "name": "Sakuntala Chatterjee",
+        "count": 8
+      },
+      {
+        "name": "Nikolaos Sfakianakis",
+        "count": 7
+      }
+    ],
+    "top_words": [
+      "cell",
+      "cells",
+      "growth",
+      "cancer",
+      "concentration",
+      "biol",
+      "cellular",
+      "biology",
+      "response",
+      "migration"
+    ]
+  },
+  "q-bio.GN": {
+    "name": "Genomics",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Thierry Rabilloud",
+        "count": 47
+      },
+      {
+        "name": "Heng Li",
+        "count": 25
+      },
+      {
+        "name": "Onur Mutlu",
+        "count": 22
+      },
+      {
+        "name": "Sylvie Luche",
+        "count": 19
+      },
+      {
+        "name": "Mireille Chevallet",
+        "count": 18
+      },
+      {
+        "name": "Thierry Mora",
+        "count": 17
+      },
+      {
+        "name": "Hélène Diemer",
+        "count": 17
+      },
+      {
+        "name": "Mohammed Alser",
+        "count": 16
+      },
+      {
+        "name": "Can Alkan",
+        "count": 14
+      },
+      {
+        "name": "Aleksandra M. Walczak",
+        "count": 13
+      }
+    ],
+    "top_words": [
+      "genome",
+      "gene",
+      "genes",
+      "dna",
+      "sequences",
+      "sequencing",
+      "human",
+      "genomic",
+      "cell",
+      "genomes"
+    ]
+  },
+  "q-bio.MN": {
+    "name": "Molecular Networks",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Pieter Rein ten Wolde",
+        "count": 42
+      },
+      {
+        "name": "Andrea De Martino",
+        "count": 26
+      },
+      {
+        "name": "Peter Csermely",
+        "count": 26
+      },
+      {
+        "name": "Andrew Mugler",
+        "count": 20
+      },
+      {
+        "name": "William Bialek",
+        "count": 18
+      },
+      {
+        "name": "Aleksandra M. Walczak",
+        "count": 17
+      },
+      {
+        "name": "Areejit Samal",
+        "count": 17
+      },
+      {
+        "name": "Ovidiu Radulescu",
+        "count": 17
+      },
+      {
+        "name": "Tijana Milenkovic",
+        "count": 17
+      },
+      {
+        "name": "Elisenda Feliu",
+        "count": 16
+      }
+    ],
+    "top_words": [
+      "gene",
+      "protein",
+      "cell",
+      "reaction",
+      "genes",
+      "reactions",
+      "proteins",
+      "expression",
+      "biological",
+      "regulatory"
+    ]
+  },
+  "q-bio.NC": {
+    "name": "Neurons and Cognition",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Danielle S. Bassett",
+        "count": 98
+      },
+      {
+        "name": "Liane Gabora",
+        "count": 57
+      },
+      {
+        "name": "Yujiang Wang",
+        "count": 50
+      },
+      {
+        "name": "Eric Shea-Brown",
+        "count": 37
+      },
+      {
+        "name": "Markus Diesmann",
+        "count": 36
+      },
+      {
+        "name": "Alain Destexhe",
+        "count": 34
+      },
+      {
+        "name": "Wulfram Gerstner",
+        "count": 30
+      },
+      {
+        "name": "Marcus Kaiser",
+        "count": 28
+      },
+      {
+        "name": "Mihai A. Petrovici",
+        "count": 28
+      },
+      {
+        "name": "Karl Friston",
+        "count": 28
+      }
+    ],
+    "top_words": [
+      "brain",
+      "neurons",
+      "neural",
+      "activity",
+      "neuron",
+      "cortex",
+      "neuroscience",
+      "synaptic",
+      "connectivity",
+      "neuronal"
+    ]
+  },
+  "q-bio.OT": {
+    "name": "Other Quantitative Biology",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "J. C. Phillips",
+        "count": 22
+      },
+      {
+        "name": "Tidjani Negadi",
+        "count": 9
+      },
+      {
+        "name": "Aram Akram Mohammed",
+        "count": 8
+      },
+      {
+        "name": "Eleanor Dunlop",
+        "count": 8
+      },
+      {
+        "name": "Maitham G. Yousif",
+        "count": 7
+      },
+      {
+        "name": "Eugen Tarnow",
+        "count": 7
+      },
+      {
+        "name": "Bob Eisenberg",
+        "count": 7
+      },
+      {
+        "name": "Gregory Warr",
+        "count": 6
+      },
+      {
+        "name": "Les Hatton",
+        "count": 6
+      },
+      {
+        "name": "Giuseppe Longo",
+        "count": 6
+      }
+    ],
+    "top_words": [
+      "cell",
+      "cells",
+      "biological",
+      "biology",
+      "dna",
+      "protein",
+      "genetic",
+      "human",
+      "life",
+      "health"
+    ]
+  },
+  "q-bio.PE": {
+    "name": "Populations and Evolution",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Mike Steel",
+        "count": 76
+      },
+      {
+        "name": "Mareike Fischer",
+        "count": 46
+      },
+      {
+        "name": "Martin A. Nowak",
+        "count": 45
+      },
+      {
+        "name": "Joachim Krug",
+        "count": 40
+      },
+      {
+        "name": "Nadav M. Shnerb",
+        "count": 39
+      },
+      {
+        "name": "Arne Traulsen",
+        "count": 34
+      },
+      {
+        "name": "Leo van Iersel",
+        "count": 32
+      },
+      {
+        "name": "Mauro Mobilia",
+        "count": 32
+      },
+      {
+        "name": "Tobias Galla",
+        "count": 32
+      },
+      {
+        "name": "Steven A. Frank",
+        "count": 31
+      }
+    ],
+    "top_words": [
+      "population",
+      "species",
+      "individuals",
+      "populations",
+      "infected",
+      "evolutionary",
+      "infection",
+      "epidemic",
+      "disease",
+      "selection"
+    ]
+  },
+  "q-bio.QM": {
+    "name": "Quantitative Methods",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Connor W. Coley",
+        "count": 18
+      },
+      {
+        "name": "Min Xu",
+        "count": 18
+      },
+      {
+        "name": "Jean-Philippe Vert",
+        "count": 17
+      },
+      {
+        "name": "Ruth E. Baker",
+        "count": 14
+      },
+      {
+        "name": "Guo-Wei Wei",
+        "count": 14
+      },
+      {
+        "name": "Thorsten Prüstel",
+        "count": 13
+      },
+      {
+        "name": "Martin Meier-Schellersheim",
+        "count": 12
+      },
+      {
+        "name": "Christian A. Yates",
+        "count": 12
+      },
+      {
+        "name": "Yu Guang Wang",
+        "count": 11
+      },
+      {
+        "name": "Xiangrui Zeng",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "cell",
+      "protein",
+      "cells",
+      "prediction",
+      "gene",
+      "biological",
+      "patients",
+      "cancer",
+      "clinical",
+      "disease"
+    ]
+  },
+  "q-bio.SC": {
+    "name": "Subcellular Processes",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Ulrich S. Schwarz",
+        "count": 13
+      },
+      {
+        "name": "David Holcman",
+        "count": 9
+      },
+      {
+        "name": "Martin Howard",
+        "count": 8
+      },
+      {
+        "name": "Pierre Sens",
+        "count": 8
+      },
+      {
+        "name": "Ramon Grima",
+        "count": 8
+      },
+      {
+        "name": "Karsten Kruse",
+        "count": 7
+      },
+      {
+        "name": "Gao-De Li",
+        "count": 6
+      },
+      {
+        "name": "Erwin Frey",
+        "count": 6
+      },
+      {
+        "name": "Anatoly B. Kolomeisky",
+        "count": 5
+      },
+      {
+        "name": "Michael Margaliot",
+        "count": 5
+      }
+    ],
+    "top_words": [
+      "cell",
+      "protein",
+      "cells",
+      "proteins",
+      "membrane",
+      "binding",
+      "concentration",
+      "biol",
+      "motor",
+      "motors"
+    ]
+  },
+  "q-bio.TO": {
+    "name": "Tissues and Organs",
+    "category": "q-bio",
+    "top_authors": [
+      {
+        "name": "Maria Vallet-Regi",
+        "count": 15
+      },
+      {
+        "name": "Giuseppe Tronci",
+        "count": 15
+      },
+      {
+        "name": "Sitabhra Sinha",
+        "count": 10
+      },
+      {
+        "name": "M. Vallet-Regi",
+        "count": 10
+      },
+      {
+        "name": "Jicun Wang-Michelitsch",
+        "count": 9
+      },
+      {
+        "name": "D. Arcos",
+        "count": 8
+      },
+      {
+        "name": "Mette S. Olufsen",
+        "count": 8
+      },
+      {
+        "name": "E. Candelario-Jalil",
+        "count": 8
+      },
+      {
+        "name": "Shakti N. Menon",
+        "count": 8
+      },
+      {
+        "name": "Philip K. Maini",
+        "count": 8
+      }
+    ],
+    "top_words": [
+      "cells",
+      "cell",
+      "tissue",
+      "cancer",
+      "blood",
+      "growth",
+      "tumor",
+      "concentration",
+      "human",
+      "patients"
+    ]
+  },
+  "math.AC": {
+    "name": "Commutatuve Algebra",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Ryo Takahashi",
+        "count": 108
+      },
+      {
+        "name": "Tony J. Puthenpurakal",
+        "count": 106
+      },
+      {
+        "name": "Jürgen Herzog",
+        "count": 102
+      },
+      {
+        "name": "Takayuki Hibi",
+        "count": 102
+      },
+      {
+        "name": "Uwe Nagel",
+        "count": 71
+      },
+      {
+        "name": "Sean Sather-Wagstaff",
+        "count": 64
+      },
+      {
+        "name": "Adam Van Tuyl",
+        "count": 63
+      },
+      {
+        "name": "Craig Huneke",
+        "count": 61
+      },
+      {
+        "name": "Aldo Conca",
+        "count": 61
+      },
+      {
+        "name": "Rafael H. Villarreal",
+        "count": 60
+      }
+    ],
+    "top_words": [
+      "ideal",
+      "ring",
+      "ideals",
+      "algebra",
+      "rings",
+      "monomial",
+      "minimal",
+      "cohenmacaulay",
+      "prime",
+      "graded"
+    ]
+  },
+  "math.AG": {
+    "name": "Algebraic Geometry",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Indranil Biswas",
+        "count": 168
+      },
+      {
+        "name": "Edoardo Ballico",
+        "count": 112
+      },
+      {
+        "name": "Morihiko Saito",
+        "count": 96
+      },
+      {
+        "name": "Osamu Fujino",
+        "count": 94
+      },
+      {
+        "name": "János Kollár",
+        "count": 91
+      },
+      {
+        "name": "Robert Laterveer",
+        "count": 89
+      },
+      {
+        "name": "Yuri Tschinkel",
+        "count": 87
+      },
+      {
+        "name": "Ciro Ciliberto",
+        "count": 86
+      },
+      {
+        "name": "Yuri Prokhorov",
+        "count": 78
+      },
+      {
+        "name": "Alexander Polishchuk",
+        "count": 70
+      }
+    ],
+    "top_words": [
+      "smooth",
+      "morphism",
+      "variety",
+      "projective",
+      "curve",
+      "divisor",
+      "algebraic",
+      "bundle",
+      "varieties",
+      "curves"
+    ]
+  },
+  "math.AP": {
+    "name": "Analysis of PDEs",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Enrico Valdinoci",
+        "count": 127
+      },
+      {
+        "name": "Marco Squassina",
+        "count": 106
+      },
+      {
+        "name": "Kevin Zumbrun",
+        "count": 87
+      },
+      {
+        "name": "Hongjie Dong",
+        "count": 82
+      },
+      {
+        "name": "Juncheng Wei",
+        "count": 80
+      },
+      {
+        "name": "Jean Dolbeault",
+        "count": 77
+      },
+      {
+        "name": "Claudianor O. Alves",
+        "count": 76
+      },
+      {
+        "name": "Serena Dipierro",
+        "count": 75
+      },
+      {
+        "name": "Eduard Feireisl",
+        "count": 64
+      },
+      {
+        "name": "Pierluigi Colli",
+        "count": 61
+      }
+    ],
+    "top_words": [
+      "estimates",
+      "existence",
+      "sup",
+      "lim",
+      "nonlinear",
+      "regularity",
+      "weak",
+      "elliptic",
+      "global",
+      "dierential"
+    ]
+  },
+  "math.AT": {
+    "name": "Algebraic Topology",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Jie Wu",
+        "count": 62
+      },
+      {
+        "name": "Oscar Randal-Williams",
+        "count": 54
+      },
+      {
+        "name": "Michael Farber",
+        "count": 48
+      },
+      {
+        "name": "Daisuke Kishimoto",
+        "count": 46
+      },
+      {
+        "name": "Daniel C. Isaksen",
+        "count": 45
+      },
+      {
+        "name": "Tobias Barthel",
+        "count": 43
+      },
+      {
+        "name": "J. P. C. Greenlees",
+        "count": 42
+      },
+      {
+        "name": "David Blanc",
+        "count": 42
+      },
+      {
+        "name": "Michael A. Hill",
+        "count": 42
+      },
+      {
+        "name": "Julia E. Bergner",
+        "count": 40
+      }
+    ],
+    "top_words": [
+      "homotopy",
+      "category",
+      "functor",
+      "maps",
+      "spaces",
+      "equivalence",
+      "homology",
+      "simplicial",
+      "isomorphism",
+      "cohomology"
+    ]
+  },
+  "math.CA": {
+    "name": "Classical Analysis and ODEs",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Dachun Yang",
+        "count": 106
+      },
+      {
+        "name": "Stephen Semmes",
+        "count": 97
+      },
+      {
+        "name": "Feng Qi",
+        "count": 93
+      },
+      {
+        "name": "Yuan Xu",
+        "count": 80
+      },
+      {
+        "name": "Jan Moser",
+        "count": 76
+      },
+      {
+        "name": "Alex Iosevich",
+        "count": 76
+      },
+      {
+        "name": "Delfim F. M. Torres",
+        "count": 74
+      },
+      {
+        "name": "Tuomas Orponen",
+        "count": 73
+      },
+      {
+        "name": "Xavier Tolsa",
+        "count": 67
+      },
+      {
+        "name": "Andreas Seeger",
+        "count": 65
+      }
+    ],
+    "top_words": [
+      "polynomials",
+      "integral",
+      "sup",
+      "operators",
+      "lim",
+      "spaces",
+      "polynomial",
+      "series",
+      "formula",
+      "inequalities"
+    ]
+  },
+  "math.CO": {
+    "name": "Combinatorics",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Xueliang Li",
+        "count": 183
+      },
+      {
+        "name": "Benny Sudakov",
+        "count": 176
+      },
+      {
+        "name": "Doron Zeilberger",
+        "count": 116
+      },
+      {
+        "name": "David R. Wood",
+        "count": 82
+      },
+      {
+        "name": "Sergey Kitaev",
+        "count": 81
+      },
+      {
+        "name": "Dhruv Mubayi",
+        "count": 81
+      },
+      {
+        "name": "Michael Krivelevich",
+        "count": 81
+      },
+      {
+        "name": "Toufik Mansour",
+        "count": 79
+      },
+      {
+        "name": "William Y. C. Chen",
+        "count": 78
+      },
+      {
+        "name": "Alan Frieze",
+        "count": 76
+      }
+    ],
+    "top_words": [
+      "vertices",
+      "vertex",
+      "graphs",
+      "edges",
+      "edge",
+      "contains",
+      "path",
+      "connected",
+      "cycle",
+      "conjecture"
+    ]
+  },
+  "math.CT": {
+    "name": "Category Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Stephen Lack",
+        "count": 47
+      },
+      {
+        "name": "Ross Street",
+        "count": 42
+      },
+      {
+        "name": "Marino Gran",
+        "count": 38
+      },
+      {
+        "name": "Richard Garner",
+        "count": 37
+      },
+      {
+        "name": "Leonid Positselski",
+        "count": 37
+      },
+      {
+        "name": "Tim Van der Linden",
+        "count": 33
+      },
+      {
+        "name": "David I. Spivak",
+        "count": 32
+      },
+      {
+        "name": "Fosco Loregian",
+        "count": 28
+      },
+      {
+        "name": "Dirk Hofmann",
+        "count": 27
+      },
+      {
+        "name": "Hiroyuki Nakaoka",
+        "count": 25
+      }
+    ],
+    "top_words": [
+      "category",
+      "categories",
+      "functor",
+      "morphism",
+      "morphisms",
+      "objects",
+      "object",
+      "functors",
+      "monoidal",
+      "diagram"
+    ]
+  },
+  "math.CV": {
+    "name": "Complex Variables",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Saminathan Ponnusamy",
+        "count": 98
+      },
+      {
+        "name": "Franc Forstneric",
+        "count": 87
+      },
+      {
+        "name": "Filippo Bracci",
+        "count": 66
+      },
+      {
+        "name": "Nikolai Nikolov",
+        "count": 63
+      },
+      {
+        "name": "V. Ravichandran",
+        "count": 62
+      },
+      {
+        "name": "David Kalaj",
+        "count": 60
+      },
+      {
+        "name": "Qi'an Guan",
+        "count": 59
+      },
+      {
+        "name": "Steven G. Krantz",
+        "count": 55
+      },
+      {
+        "name": "S. Sivaprasad Kumar",
+        "count": 54
+      },
+      {
+        "name": "Alexandre Eremenko",
+        "count": 52
+      }
+    ],
+    "top_words": [
+      "holomorphic",
+      "analytic",
+      "compact",
+      "domains",
+      "open",
+      "smooth",
+      "lim",
+      "spaces",
+      "manifold",
+      "metric"
+    ]
+  },
+  "math.DG": {
+    "name": "Differential Geometry",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Rafael López",
+        "count": 84
+      },
+      {
+        "name": "Yong Wang",
+        "count": 84
+      },
+      {
+        "name": "Anna Fino",
+        "count": 77
+      },
+      {
+        "name": "Masaaki Umehara",
+        "count": 70
+      },
+      {
+        "name": "Andrei Moroianu",
+        "count": 62
+      },
+      {
+        "name": "Vladimir Rovenski",
+        "count": 59
+      },
+      {
+        "name": "Kotaro Yamada",
+        "count": 59
+      },
+      {
+        "name": "P. Gilkey",
+        "count": 59
+      },
+      {
+        "name": "Wayne Rossman",
+        "count": 53
+      },
+      {
+        "name": "Gang Tian",
+        "count": 52
+      }
+    ],
+    "top_words": [
+      "curvature",
+      "manifold",
+      "metric",
+      "manifolds",
+      "riemannian",
+      "smooth",
+      "lie",
+      "compact",
+      "bundle",
+      "ricci"
+    ]
+  },
+  "math.DS": {
+    "name": "Dynamical Systems",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Jinqiao Duan",
+        "count": 71
+      },
+      {
+        "name": "Artur Avila",
+        "count": 60
+      },
+      {
+        "name": "Ercai Chen",
+        "count": 56
+      },
+      {
+        "name": "Henk Bruin",
+        "count": 55
+      },
+      {
+        "name": "Sylvain Crovisier",
+        "count": 53
+      },
+      {
+        "name": "Christian Bonatti",
+        "count": 53
+      },
+      {
+        "name": "Paulo Varandas",
+        "count": 48
+      },
+      {
+        "name": "Xiangdong Ye",
+        "count": 48
+      },
+      {
+        "name": "Piotr Oprocha",
+        "count": 47
+      },
+      {
+        "name": "Serge Troubetzkoy",
+        "count": 47
+      }
+    ],
+    "top_words": [
+      "invariant",
+      "periodic",
+      "ergodic",
+      "dynamical",
+      "maps",
+      "lim",
+      "orbit",
+      "compact",
+      "hyperbolic",
+      "stable"
+    ]
+  },
+  "math.FA": {
+    "name": "Functional Analysis",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Kallol Paul",
+        "count": 91
+      },
+      {
+        "name": "Peter G. Casazza",
+        "count": 77
+      },
+      {
+        "name": "Michael Ruzhansky",
+        "count": 70
+      },
+      {
+        "name": "Daniel Pellegrino",
+        "count": 69
+      },
+      {
+        "name": "Abraham Rueda Zoca",
+        "count": 69
+      },
+      {
+        "name": "Debmalya Sain",
+        "count": 59
+      },
+      {
+        "name": "Joachim Toft",
+        "count": 58
+      },
+      {
+        "name": "E. Ostrovsky",
+        "count": 53
+      },
+      {
+        "name": "Miguel Martin",
+        "count": 52
+      },
+      {
+        "name": "Pintu Bhunia",
+        "count": 52
+      }
+    ],
+    "top_words": [
+      "spaces",
+      "banach",
+      "operators",
+      "norm",
+      "sup",
+      "compact",
+      "lim",
+      "hilbert",
+      "closed",
+      "convex"
+    ]
+  },
+  "math.GM": {
+    "name": "General Mathematics",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Florentin Smarandache",
+        "count": 160
+      },
+      {
+        "name": "N. A. Carella",
+        "count": 70
+      },
+      {
+        "name": "W. B. Vasantha Kandasamy",
+        "count": 49
+      },
+      {
+        "name": "Bhupinder Singh Anand",
+        "count": 38
+      },
+      {
+        "name": "Johan Kok",
+        "count": 37
+      },
+      {
+        "name": "Friedrich Wehrung",
+        "count": 37
+      },
+      {
+        "name": "Elemer E Rosinger",
+        "count": 32
+      },
+      {
+        "name": "Nikos Bagis",
+        "count": 32
+      },
+      {
+        "name": "Konstantine Zelator",
+        "count": 29
+      },
+      {
+        "name": "Aleks Kleyn",
+        "count": 29
+      }
+    ],
+    "top_words": [
+      "numbers",
+      "fuzzy",
+      "prime",
+      "integer",
+      "definition",
+      "mathematics",
+      "sin",
+      "formula",
+      "interval",
+      "neutrosophic"
+    ]
+  },
+  "math.GN": {
+    "name": "General Topology",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Taras Banakh",
+        "count": 130
+      },
+      {
+        "name": "Boaz Tsaban",
+        "count": 78
+      },
+      {
+        "name": "Alexander V. Osipov",
+        "count": 55
+      },
+      {
+        "name": "Lyubomyr Zdomskyy",
+        "count": 53
+      },
+      {
+        "name": "Igor Protasov",
+        "count": 37
+      },
+      {
+        "name": "Fucai Lin",
+        "count": 37
+      },
+      {
+        "name": "Vesko Valov",
+        "count": 36
+      },
+      {
+        "name": "Alan Dow",
+        "count": 35
+      },
+      {
+        "name": "Amar Kumar Banerjee",
+        "count": 33
+      },
+      {
+        "name": "Klaas Pieter Hart",
+        "count": 32
+      }
+    ],
+    "top_words": [
+      "spaces",
+      "open",
+      "topology",
+      "topological",
+      "compact",
+      "closed",
+      "subset",
+      "countable",
+      "subsets",
+      "family"
+    ]
+  },
+  "math.GR": {
+    "name": "Group Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Pavel Shumyatsky",
+        "count": 89
+      },
+      {
+        "name": "Mark L. Lewis",
+        "count": 75
+      },
+      {
+        "name": "Andrea Lucchini",
+        "count": 72
+      },
+      {
+        "name": "Marius Tărnăuceanu",
+        "count": 68
+      },
+      {
+        "name": "Cheryl E. Praeger",
+        "count": 66
+      },
+      {
+        "name": "Ilya Kapovich",
+        "count": 62
+      },
+      {
+        "name": "Pierre-Emmanuel Caprace",
+        "count": 59
+      },
+      {
+        "name": "Laurent Bartholdi",
+        "count": 58
+      },
+      {
+        "name": "Petr Vojtěchovský",
+        "count": 56
+      },
+      {
+        "name": "Pablo Spiga",
+        "count": 48
+      }
+    ],
+    "top_words": [
+      "groups",
+      "subgroup",
+      "subgroups",
+      "nitely",
+      "free",
+      "abelian",
+      "normal",
+      "contains",
+      "word",
+      "vertex"
+    ]
+  },
+  "math.GT": {
+    "name": "Geometric Topology",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Stefan Friedl",
+        "count": 102
+      },
+      {
+        "name": "Stavros Garoufalidis",
+        "count": 89
+      },
+      {
+        "name": "Louis H. Kauffman",
+        "count": 83
+      },
+      {
+        "name": "Sam Nelson",
+        "count": 75
+      },
+      {
+        "name": "Charles Livingston",
+        "count": 65
+      },
+      {
+        "name": "Jessica S. Purcell",
+        "count": 61
+      },
+      {
+        "name": "Mark Powell",
+        "count": 59
+      },
+      {
+        "name": "Kazuhiro Ichihara",
+        "count": 57
+      },
+      {
+        "name": "Stephan Tillmann",
+        "count": 54
+      },
+      {
+        "name": "Jozef H. Przytycki",
+        "count": 53
+      }
+    ],
+    "top_words": [
+      "knot",
+      "knots",
+      "manifold",
+      "link",
+      "homology",
+      "manifolds",
+      "closed",
+      "diagram",
+      "hyperbolic",
+      "connected"
+    ]
+  },
+  "math.HO": {
+    "name": "History and Overview",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Tanya Khovanova",
+        "count": 39
+      },
+      {
+        "name": "Mikhail G. Katz",
+        "count": 32
+      },
+      {
+        "name": "Leonhard Euler",
+        "count": 32
+      },
+      {
+        "name": "N. Karjanto",
+        "count": 28
+      },
+      {
+        "name": "Kazuo Muroi",
+        "count": 17
+      },
+      {
+        "name": "Alexander Aycock",
+        "count": 16
+      },
+      {
+        "name": "Athanase Papadopoulos",
+        "count": 14
+      },
+      {
+        "name": "David Sherry",
+        "count": 14
+      },
+      {
+        "name": "Steven Finch",
+        "count": 13
+      },
+      {
+        "name": "G. J. Chaitin",
+        "count": 13
+      }
+    ],
+    "top_words": [
+      "mathematics",
+      "mathematical",
+      "numbers",
+      "students",
+      "geometry",
+      "mathematicians",
+      "formula",
+      "course",
+      "book",
+      "series"
+    ]
+  },
+  "math.IT": {
+    "name": "Information Theory",
+    "category": "math",
+    "top_authors": NaN,
+    "top_words": NaN
+  },
+  "math.KT": {
+    "name": "K-Theory and Homology",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Ralf Meyer",
+        "count": 27
+      },
+      {
+        "name": "Guillermo Cortiñas",
+        "count": 26
+      },
+      {
+        "name": "Guoliang Yu",
+        "count": 24
+      },
+      {
+        "name": "Wolfgang Lueck",
+        "count": 23
+      },
+      {
+        "name": "Behrooz Mirzaii",
+        "count": 22
+      },
+      {
+        "name": "Andrea Solotar",
+        "count": 18
+      },
+      {
+        "name": "Heath Emerson",
+        "count": 18
+      },
+      {
+        "name": "Magnus Goffeng",
+        "count": 17
+      },
+      {
+        "name": "Jorge A. Guccione",
+        "count": 16
+      },
+      {
+        "name": "Juan J. Guccione",
+        "count": 16
+      }
+    ],
+    "top_words": [
+      "ktheory",
+      "algebra",
+      "isomorphism",
+      "category",
+      "cohomology",
+      "groups",
+      "algebras",
+      "exact",
+      "homology",
+      "functor"
+    ]
+  },
+  "math.LO": {
+    "name": "Logic",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Saharon Shelah",
+        "count": 656
+      },
+      {
+        "name": "Joel David Hamkins",
+        "count": 102
+      },
+      {
+        "name": "Mohammad Golshani",
+        "count": 66
+      },
+      {
+        "name": "Tarek Sayed Ahmed",
+        "count": 59
+      },
+      {
+        "name": "Vladimir Kanovei",
+        "count": 59
+      },
+      {
+        "name": "Sam Sanders",
+        "count": 55
+      },
+      {
+        "name": "Shimon Garti",
+        "count": 49
+      },
+      {
+        "name": "Anand Pillay",
+        "count": 47
+      },
+      {
+        "name": "Assaf Rinot",
+        "count": 44
+      },
+      {
+        "name": "Alessandra Palmigiano",
+        "count": 43
+      }
+    ],
+    "top_words": [
+      "logic",
+      "denable",
+      "closed",
+      "countable",
+      "formula",
+      "cardinal",
+      "subset",
+      "claim",
+      "forcing",
+      "say"
+    ]
+  },
+  "math.MG": {
+    "name": "Metric Geometry",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Jenő Szirmai",
+        "count": 44
+      },
+      {
+        "name": "Daniel Hug",
+        "count": 44
+      },
+      {
+        "name": "Zsolt Lángi",
+        "count": 35
+      },
+      {
+        "name": "Günter M. Ziegler",
+        "count": 32
+      },
+      {
+        "name": "Nageswari Shanmugalingam",
+        "count": 32
+      },
+      {
+        "name": "Martin Henk",
+        "count": 31
+      },
+      {
+        "name": "Panu Lahti",
+        "count": 29
+      },
+      {
+        "name": "Rolf Schneider",
+        "count": 29
+      },
+      {
+        "name": "Matti Vuorinen",
+        "count": 29
+      },
+      {
+        "name": "Henry Cohn",
+        "count": 26
+      }
+    ],
+    "top_words": [
+      "convex",
+      "metric",
+      "spaces",
+      "vertices",
+      "euclidean",
+      "geometry",
+      "triangle",
+      "compact",
+      "dimension",
+      "bodies"
+    ]
+  },
+  "math.MP": {
+    "name": "Mathematical Physics",
+    "category": "math",
+    "top_authors": NaN,
+    "top_words": NaN
+  },
+  "math.NA": {
+    "name": "Numerical Analysis",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Gianluigi Rozza",
+        "count": 85
+      },
+      {
+        "name": "Erik Burman",
+        "count": 80
+      },
+      {
+        "name": "Mats G. Larson",
+        "count": 71
+      },
+      {
+        "name": "Dirk Praetorius",
+        "count": 68
+      },
+      {
+        "name": "Weihua Deng",
+        "count": 60
+      },
+      {
+        "name": "Zhimin Zhang",
+        "count": 57
+      },
+      {
+        "name": "Eric T. Chung",
+        "count": 57
+      },
+      {
+        "name": "Yalchin Efendiev",
+        "count": 55
+      },
+      {
+        "name": "Peter Hansbo",
+        "count": 53
+      },
+      {
+        "name": "Jinchao Xu",
+        "count": 53
+      }
+    ],
+    "top_words": [
+      "convergence",
+      "mesh",
+      "scheme",
+      "discrete",
+      "discretization",
+      "computational",
+      "siam",
+      "basis",
+      "schemes",
+      "norm"
+    ]
+  },
+  "math.NT": {
+    "name": "Number Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Taekyun Kim",
+        "count": 231
+      },
+      {
+        "name": "Igor E. Shparlinski",
+        "count": 145
+      },
+      {
+        "name": "Dae San Kim",
+        "count": 119
+      },
+      {
+        "name": "Florian Luca",
+        "count": 110
+      },
+      {
+        "name": "Steven J. Miller",
+        "count": 101
+      },
+      {
+        "name": "Pieter Moree",
+        "count": 72
+      },
+      {
+        "name": "Kathrin Bringmann",
+        "count": 67
+      },
+      {
+        "name": "Liangyi Zhao",
+        "count": 64
+      },
+      {
+        "name": "Aleksandar Ivić",
+        "count": 64
+      },
+      {
+        "name": "Peng Gao",
+        "count": 62
+      }
+    ],
+    "top_words": [
+      "mod",
+      "prime",
+      "integer",
+      "primes",
+      "integers",
+      "forms",
+      "modular",
+      "conjecture",
+      "numbers",
+      "galois"
+    ]
+  },
+  "math.OA": {
+    "name": "Operator Algebras",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Aidan Sims",
+        "count": 84
+      },
+      {
+        "name": "John Quigg",
+        "count": 61
+      },
+      {
+        "name": "Iain Raeburn",
+        "count": 58
+      },
+      {
+        "name": "S. Kaliszewski",
+        "count": 58
+      },
+      {
+        "name": "Huaxin Lin",
+        "count": 52
+      },
+      {
+        "name": "Adam Skalski",
+        "count": 51
+      },
+      {
+        "name": "Astrid an Huef",
+        "count": 50
+      },
+      {
+        "name": "N. Christopher Phillips",
+        "count": 49
+      },
+      {
+        "name": "Antonio M. Peralta",
+        "count": 48
+      },
+      {
+        "name": "Ken Dykema",
+        "count": 47
+      }
+    ],
+    "top_words": [
+      "calgebra",
+      "algebra",
+      "calgebras",
+      "algebras",
+      "unital",
+      "compact",
+      "neumann",
+      "von",
+      "unitary",
+      "hilbert"
+    ]
+  },
+  "math.OC": {
+    "name": "Optimization and Control",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Delfim F. M. Torres",
+        "count": 159
+      },
+      {
+        "name": "Alexander Gasnikov",
+        "count": 123
+      },
+      {
+        "name": "Didier Henrion",
+        "count": 81
+      },
+      {
+        "name": "Kim-Chuan Toh",
+        "count": 75
+      },
+      {
+        "name": "Boris S. Mordukhovich",
+        "count": 67
+      },
+      {
+        "name": "Miroslav Krstic",
+        "count": 62
+      },
+      {
+        "name": "Defeng Sun",
+        "count": 60
+      },
+      {
+        "name": "John Lygeros",
+        "count": 60
+      },
+      {
+        "name": "Karl Kunisch",
+        "count": 56
+      },
+      {
+        "name": "Emmanuel Trélat",
+        "count": 56
+      }
+    ],
+    "top_words": [
+      "optimization",
+      "convex",
+      "convergence",
+      "min",
+      "constraints",
+      "cost",
+      "objective",
+      "programming",
+      "stochastic",
+      "max"
+    ]
+  },
+  "math.PR": {
+    "name": "Probability",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "David Nualart",
+        "count": 119
+      },
+      {
+        "name": "Yuval Peres",
+        "count": 112
+      },
+      {
+        "name": "Feng-Yu Wang",
+        "count": 104
+      },
+      {
+        "name": "Michael Röckner",
+        "count": 82
+      },
+      {
+        "name": "Ofer Zeitouni",
+        "count": 79
+      },
+      {
+        "name": "Ivan Nourdin",
+        "count": 76
+      },
+      {
+        "name": "Giovanni Peccati",
+        "count": 73
+      },
+      {
+        "name": "Renming Song",
+        "count": 73
+      },
+      {
+        "name": "Svante Janson",
+        "count": 69
+      },
+      {
+        "name": "Francesco Russo",
+        "count": 67
+      }
+    ],
+    "top_words": [
+      "sup",
+      "lim",
+      "processes",
+      "stochastic",
+      "brownian",
+      "convergence",
+      "markov",
+      "exp",
+      "law",
+      "probab"
+    ]
+  },
+  "math.QA": {
+    "name": "Quantum Algebra",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Naihuan Jing",
+        "count": 94
+      },
+      {
+        "name": "Pavel Etingof",
+        "count": 92
+      },
+      {
+        "name": "Haisheng Li",
+        "count": 69
+      },
+      {
+        "name": "Chongying Dong",
+        "count": 65
+      },
+      {
+        "name": "E. Mukhin",
+        "count": 55
+      },
+      {
+        "name": "Drazen Adamovic",
+        "count": 50
+      },
+      {
+        "name": "B. Feigin",
+        "count": 50
+      },
+      {
+        "name": "Shlomo Gelaki",
+        "count": 50
+      },
+      {
+        "name": "Nicolás Andruskiewitsch",
+        "count": 49
+      },
+      {
+        "name": "Antun Milas",
+        "count": 48
+      }
+    ],
+    "top_words": [
+      "algebra",
+      "algebras",
+      "lie",
+      "hopf",
+      "module",
+      "relations",
+      "category",
+      "modules",
+      "isomorphism",
+      "vertex"
+    ]
+  },
+  "math.RA": {
+    "name": "Rings and Algebras",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Ivan Kaygorodov",
+        "count": 111
+      },
+      {
+        "name": "Alberto Elduque",
+        "count": 64
+      },
+      {
+        "name": "Liangyun Chen",
+        "count": 59
+      },
+      {
+        "name": "Clément de Seguins Pazzis",
+        "count": 55
+      },
+      {
+        "name": "B. A. Omirov",
+        "count": 54
+      },
+      {
+        "name": "Gábor Czédli",
+        "count": 53
+      },
+      {
+        "name": "Vesselin Drensky",
+        "count": 49
+      },
+      {
+        "name": "Abdenacer Makhlouf",
+        "count": 47
+      },
+      {
+        "name": "Yuqun Chen",
+        "count": 47
+      },
+      {
+        "name": "V. V. Bavula",
+        "count": 46
+      }
+    ],
+    "top_words": [
+      "algebra",
+      "algebras",
+      "ring",
+      "lie",
+      "ideal",
+      "rings",
+      "graded",
+      "commutative",
+      "basis",
+      "polynomial"
+    ]
+  },
+  "math.RT": {
+    "name": "Representation Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "G. Lusztig",
+        "count": 126
+      },
+      {
+        "name": "Volodymyr Mazorchuk",
+        "count": 80
+      },
+      {
+        "name": "Vyacheslav Futorny",
+        "count": 72
+      },
+      {
+        "name": "Vladimir V. Sergeichuk",
+        "count": 54
+      },
+      {
+        "name": "Vera Serganova",
+        "count": 50
+      },
+      {
+        "name": "Meinolf Geck",
+        "count": 49
+      },
+      {
+        "name": "Dan Ciubotaru",
+        "count": 47
+      },
+      {
+        "name": "Roman Bezrukavnikov",
+        "count": 45
+      },
+      {
+        "name": "Simon Riche",
+        "count": 45
+      },
+      {
+        "name": "Xuhua He",
+        "count": 45
+      }
+    ],
+    "top_words": [
+      "algebra",
+      "algebras",
+      "representations",
+      "irreducible",
+      "lie",
+      "modules",
+      "groups",
+      "module",
+      "isomorphism",
+      "subgroup"
+    ]
+  },
+  "math.SG": {
+    "name": "Symplectic Geometry",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Yong-Geun Oh",
+        "count": 54
+      },
+      {
+        "name": "Eva Miranda",
+        "count": 45
+      },
+      {
+        "name": "Urs Frauenfelder",
+        "count": 42
+      },
+      {
+        "name": "Dusa McDuff",
+        "count": 42
+      },
+      {
+        "name": "Ivan Smith",
+        "count": 31
+      },
+      {
+        "name": "Paul Seidel",
+        "count": 31
+      },
+      {
+        "name": "Francisco Presas",
+        "count": 26
+      },
+      {
+        "name": "Michael Hutchings",
+        "count": 26
+      },
+      {
+        "name": "Kenji Fukaya",
+        "count": 26
+      },
+      {
+        "name": "Georgios Dimitroglou Rizell",
+        "count": 26
+      }
+    ],
+    "top_words": [
+      "symplectic",
+      "manifold",
+      "lagrangian",
+      "smooth",
+      "hamiltonian",
+      "bundle",
+      "manifolds",
+      "contact",
+      "floer",
+      "homology"
+    ]
+  },
+  "math.SP": {
+    "name": "Spectral Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Fritz Gesztesy",
+        "count": 69
+      },
+      {
+        "name": "David Damanik",
+        "count": 59
+      },
+      {
+        "name": "Vladimir Lotoreichik",
+        "count": 50
+      },
+      {
+        "name": "David Krejcirik",
+        "count": 49
+      },
+      {
+        "name": "Evgeny Korotyaev",
+        "count": 47
+      },
+      {
+        "name": "Bernard Helffer",
+        "count": 46
+      },
+      {
+        "name": "Jussi Behrndt",
+        "count": 45
+      },
+      {
+        "name": "Gerald Teschl",
+        "count": 43
+      },
+      {
+        "name": "Jake Fillman",
+        "count": 41
+      },
+      {
+        "name": "Rupert L. Frank",
+        "count": 39
+      }
+    ],
+    "top_words": [
+      "operators",
+      "eigenvalues",
+      "spectral",
+      "eigenvalue",
+      "selfadjoint",
+      "schrodinger",
+      "laplacian",
+      "lim",
+      "compact",
+      "formula"
+    ]
+  },
+  "math.ST": {
+    "name": "Statistics Theory",
+    "category": "math",
+    "top_authors": [
+      {
+        "name": "Holger Dette",
+        "count": 95
+      },
+      {
+        "name": "Jianqing Fan",
+        "count": 77
+      },
+      {
+        "name": "Mathias Drton",
+        "count": 58
+      },
+      {
+        "name": "T. Tony Cai",
+        "count": 57
+      },
+      {
+        "name": "Ryan Martin",
+        "count": 53
+      },
+      {
+        "name": "Akimichi Takemura",
+        "count": 52
+      },
+      {
+        "name": "Jon A. Wellner",
+        "count": 51
+      },
+      {
+        "name": "Larry Wasserman",
+        "count": 49
+      },
+      {
+        "name": "Alessandro Rinaldo",
+        "count": 49
+      },
+      {
+        "name": "Martin J. Wainwright",
+        "count": 47
+      }
+    ],
+    "top_words": [
+      "estimator",
+      "estimation",
+      "statistics",
+      "sup",
+      "estimators",
+      "asymptotic",
+      "regression",
+      "statistical",
+      "convergence",
+      "gaussian"
+    ]
+  },
+  "astro-ph.CO": {
+    "name": "Cosmology and Nongalactic Astrophysics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "R. Miquel",
+        "count": 231
+      },
+      {
+        "name": "D. Brooks",
+        "count": 226
+      },
+      {
+        "name": "E. Sanchez",
+        "count": 222
+      },
+      {
+        "name": "J. Carretero",
+        "count": 214
+      },
+      {
+        "name": "K. Honscheid",
+        "count": 211
+      },
+      {
+        "name": "S. Desai",
+        "count": 196
+      },
+      {
+        "name": "D. Gruen",
+        "count": 188
+      },
+      {
+        "name": "A. Carnero Rosell",
+        "count": 186
+      },
+      {
+        "name": "G. Tarle",
+        "count": 184
+      },
+      {
+        "name": "P. Doel",
+        "count": 183
+      }
+    ],
+    "top_words": [
+      "galaxies",
+      "galaxy",
+      "redshift",
+      "mnras",
+      "apj",
+      "cosmological",
+      "dark",
+      "matter",
+      "halo",
+      "gas"
+    ]
+  },
+  "astro-ph.EP": {
+    "name": "Earth and Planetary Astrophysics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "S. Udry",
+        "count": 343
+      },
+      {
+        "name": "Joshua N. Winn",
+        "count": 291
+      },
+      {
+        "name": "David W. Latham",
+        "count": 286
+      },
+      {
+        "name": "Andrew W. Howard",
+        "count": 269
+      },
+      {
+        "name": "Jonathan J. Fortney",
+        "count": 254
+      },
+      {
+        "name": "N. C. Santos",
+        "count": 245
+      },
+      {
+        "name": "Jon M. Jenkins",
+        "count": 243
+      },
+      {
+        "name": "D. Queloz",
+        "count": 235
+      },
+      {
+        "name": "Stephen R. Kane",
+        "count": 231
+      },
+      {
+        "name": "Sara Seager",
+        "count": 228
+      }
+    ],
+    "top_words": [
+      "planets",
+      "planet",
+      "planetary",
+      "observations",
+      "apj",
+      "orbital",
+      "star",
+      "stellar",
+      "stars",
+      "disk"
+    ]
+  },
+  "astro-ph.GA": {
+    "name": "Astrophysics of Galaxies",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "K. M. Menten",
+        "count": 170
+      },
+      {
+        "name": "Luis C. Ho",
+        "count": 132
+      },
+      {
+        "name": "J. Bland-Hawthorn",
+        "count": 124
+      },
+      {
+        "name": "F. Combes",
+        "count": 122
+      },
+      {
+        "name": "J. Cernicharo",
+        "count": 113
+      },
+      {
+        "name": "Joss Bland-Hawthorn",
+        "count": 113
+      },
+      {
+        "name": "Joop Schaye",
+        "count": 112
+      },
+      {
+        "name": "J. M. Diederik Kruijssen",
+        "count": 109
+      },
+      {
+        "name": "G. Zamorani",
+        "count": 101
+      },
+      {
+        "name": "M. Gerin",
+        "count": 100
+      }
+    ],
+    "top_words": [
+      "galaxies",
+      "apj",
+      "galaxy",
+      "mnras",
+      "gas",
+      "stellar",
+      "stars",
+      "star",
+      "emission",
+      "formation"
+    ]
+  },
+  "astro-ph.HE": {
+    "name": "High Energy Astrophysical Penomena",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Bing Zhang",
+        "count": 239
+      },
+      {
+        "name": "W. Rhode",
+        "count": 217
+      },
+      {
+        "name": "E. Bernardini",
+        "count": 216
+      },
+      {
+        "name": "U. Katz",
+        "count": 195
+      },
+      {
+        "name": "S. Covino",
+        "count": 191
+      },
+      {
+        "name": "F. Longo",
+        "count": 191
+      },
+      {
+        "name": "A. Santangelo",
+        "count": 184
+      },
+      {
+        "name": "F. Tavecchio",
+        "count": 181
+      },
+      {
+        "name": "A. C. Fabian",
+        "count": 180
+      },
+      {
+        "name": "J. Wilms",
+        "count": 166
+      }
+    ],
+    "top_words": [
+      "emission",
+      "apj",
+      "xray",
+      "kev",
+      "mnras",
+      "observations",
+      "accretion",
+      "spectral",
+      "radio",
+      "sources"
+    ]
+  },
+  "astro-ph.IM": {
+    "name": "Instrumentation and Methods for Astrophysics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Olivier Guyon",
+        "count": 128
+      },
+      {
+        "name": "C. Tucker",
+        "count": 113
+      },
+      {
+        "name": "P. A. R. Ade",
+        "count": 101
+      },
+      {
+        "name": "Johannes Hubmayr",
+        "count": 90
+      },
+      {
+        "name": "Edward J. Wollack",
+        "count": 88
+      },
+      {
+        "name": "A. Haungs",
+        "count": 77
+      },
+      {
+        "name": "Nemanja Jovanovic",
+        "count": 75
+      },
+      {
+        "name": "T. Huege",
+        "count": 73
+      },
+      {
+        "name": "Michael D. Niemack",
+        "count": 72
+      },
+      {
+        "name": "Dimitri Mawet",
+        "count": 70
+      }
+    ],
+    "top_words": [
+      "telescope",
+      "noise",
+      "observations",
+      "sky",
+      "sources",
+      "detector",
+      "optical",
+      "astronomy",
+      "light",
+      "calibration"
+    ]
+  },
+  "astro-ph.SR": {
+    "name": "Solar and Stellar Astrophysics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "G. A. Wade",
+        "count": 164
+      },
+      {
+        "name": "S. K. Solanki",
+        "count": 152
+      },
+      {
+        "name": "R. A. Garcia",
+        "count": 133
+      },
+      {
+        "name": "J. Christensen-Dalsgaard",
+        "count": 125
+      },
+      {
+        "name": "W. J. Chaplin",
+        "count": 124
+      },
+      {
+        "name": "T. R. Marsh",
+        "count": 119
+      },
+      {
+        "name": "S. Mathur",
+        "count": 116
+      },
+      {
+        "name": "O. Kochukhov",
+        "count": 107
+      },
+      {
+        "name": "A. Udalski",
+        "count": 104
+      },
+      {
+        "name": "C. Aerts",
+        "count": 103
+      }
+    ],
+    "top_words": [
+      "stars",
+      "apj",
+      "star",
+      "solar",
+      "observations",
+      "stellar",
+      "emission",
+      "spectra",
+      "period",
+      "spectral"
+    ]
+  },
+  "cond-mat.dis-nn": {
+    "name": "Disordered Systems and Neural Networks",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Giorgio Parisi",
+        "count": 163
+      },
+      {
+        "name": "Helmut G. Katzgraber",
+        "count": 99
+      },
+      {
+        "name": "G. Parisi",
+        "count": 99
+      },
+      {
+        "name": "Cecile Monthus",
+        "count": 95
+      },
+      {
+        "name": "Pierre Le Doussal",
+        "count": 87
+      },
+      {
+        "name": "Federico Ricci-Tersenghi",
+        "count": 84
+      },
+      {
+        "name": "A. P. Young",
+        "count": 67
+      },
+      {
+        "name": "Alexander K. Hartmann",
+        "count": 65
+      },
+      {
+        "name": "Giulio Biroli",
+        "count": 65
+      },
+      {
+        "name": "V. Martin-Mayor",
+        "count": 62
+      }
+    ],
+    "top_words": [
+      "disorder",
+      "spin",
+      "critical",
+      "scaling",
+      "localization",
+      "glass",
+      "disordered",
+      "lattice",
+      "exponent",
+      "correlation"
+    ]
+  },
+  "cond-mat.mes-hall": {
+    "name": "Mesoscale and Nanoscale Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "K. W. West",
+        "count": 206
+      },
+      {
+        "name": "L. N. Pfeiffer",
+        "count": 205
+      },
+      {
+        "name": "Daniel Loss",
+        "count": 184
+      },
+      {
+        "name": "F. M. Peeters",
+        "count": 159
+      },
+      {
+        "name": "W. Wegscheider",
+        "count": 137
+      },
+      {
+        "name": "K. Ensslin",
+        "count": 120
+      },
+      {
+        "name": "A. C. Gossard",
+        "count": 113
+      },
+      {
+        "name": "S. Das Sarma",
+        "count": 108
+      },
+      {
+        "name": "A. H. MacDonald",
+        "count": 106
+      },
+      {
+        "name": "C. W. J. Beenakker",
+        "count": 100
+      }
+    ],
+    "top_words": [
+      "spin",
+      "electron",
+      "graphene",
+      "conductance",
+      "electrons",
+      "transport",
+      "coupling",
+      "voltage",
+      "charge",
+      "dot"
+    ]
+  },
+  "cond-mat.mtrl-sci": {
+    "name": "Materials Science",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "David Vanderbilt",
+        "count": 124
+      },
+      {
+        "name": "Claudia Felser",
+        "count": 85
+      },
+      {
+        "name": "Matthias Scheffler",
+        "count": 81
+      },
+      {
+        "name": "J. M. Pitarke",
+        "count": 72
+      },
+      {
+        "name": "T. Jungwirth",
+        "count": 64
+      },
+      {
+        "name": "Karsten Reuter",
+        "count": 61
+      },
+      {
+        "name": "Jin-Wu Jiang",
+        "count": 54
+      },
+      {
+        "name": "Andrew M. Rappe",
+        "count": 54
+      },
+      {
+        "name": "Steven G. Louie",
+        "count": 53
+      },
+      {
+        "name": "Artem R. Oganov",
+        "count": 51
+      }
+    ],
+    "top_words": [
+      "atoms",
+      "band",
+      "materials",
+      "calculations",
+      "lattice",
+      "electronic",
+      "spin",
+      "electron",
+      "calculated",
+      "bulk"
+    ]
+  },
+  "cond-mat.other": {
+    "name": "Other Condensed Matter",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "G. E. Volovik",
+        "count": 47
+      },
+      {
+        "name": "J. Boronat",
+        "count": 42
+      },
+      {
+        "name": "Makoto Tsubota",
+        "count": 40
+      },
+      {
+        "name": "P. G. Kevrekidis",
+        "count": 36
+      },
+      {
+        "name": "V. B. Eltsov",
+        "count": 31
+      },
+      {
+        "name": "D. J. Frantzeskakis",
+        "count": 29
+      },
+      {
+        "name": "L. Santos",
+        "count": 27
+      },
+      {
+        "name": "Masahito Ueda",
+        "count": 27
+      },
+      {
+        "name": "B. A. Malomed",
+        "count": 26
+      },
+      {
+        "name": "R. Grimm",
+        "count": 26
+      }
+    ],
+    "top_words": [
+      "atoms",
+      "spin",
+      "lattice",
+      "superuid",
+      "wave",
+      "scattering",
+      "condensate",
+      "vortex",
+      "trap",
+      "optical"
+    ]
+  },
+  "cond-mat.quant-gas": {
+    "name": "Quantum Gases",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Hui Hu",
+        "count": 129
+      },
+      {
+        "name": "Xia-Ji Liu",
+        "count": 125
+      },
+      {
+        "name": "Eugene Demler",
+        "count": 114
+      },
+      {
+        "name": "Boris A. Malomed",
+        "count": 100
+      },
+      {
+        "name": "Maciej Lewenstein",
+        "count": 98
+      },
+      {
+        "name": "Immanuel Bloch",
+        "count": 96
+      },
+      {
+        "name": "P. G. Kevrekidis",
+        "count": 91
+      },
+      {
+        "name": "Hui Zhai",
+        "count": 90
+      },
+      {
+        "name": "P. Schmelcher",
+        "count": 81
+      },
+      {
+        "name": "Xiaoling Cui",
+        "count": 78
+      }
+    ],
+    "top_words": [
+      "atoms",
+      "lattice",
+      "condensate",
+      "gas",
+      "spin",
+      "trap",
+      "hamiltonian",
+      "interactions",
+      "momentum",
+      "bec"
+    ]
+  },
+  "cond-mat.soft": {
+    "name": "Soft Condensed Matter",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Hartmut Löwen",
+        "count": 116
+      },
+      {
+        "name": "S. Dietrich",
+        "count": 102
+      },
+      {
+        "name": "Francesco Sciortino",
+        "count": 98
+      },
+      {
+        "name": "Jeppe C. Dyre",
+        "count": 86
+      },
+      {
+        "name": "Michel Destrade",
+        "count": 86
+      },
+      {
+        "name": "Emanuela Zaccarelli",
+        "count": 76
+      },
+      {
+        "name": "Marjolein Dijkstra",
+        "count": 74
+      },
+      {
+        "name": "M. E. Cates",
+        "count": 71
+      },
+      {
+        "name": "Friederike Schmid",
+        "count": 67
+      },
+      {
+        "name": "Yan Levin",
+        "count": 67
+      }
+    ],
+    "top_words": [
+      "particles",
+      "particle",
+      "polymer",
+      "force",
+      "liquid",
+      "shear",
+      "chem",
+      "stress",
+      "free",
+      "elastic"
+    ]
+  },
+  "cond-mat.stat-mech": {
+    "name": "Statical Mechanics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Satya N. Majumdar",
+        "count": 130
+      },
+      {
+        "name": "Constantino Tsallis",
+        "count": 109
+      },
+      {
+        "name": "Massimiliano Esposito",
+        "count": 92
+      },
+      {
+        "name": "P. L. Krapivsky",
+        "count": 90
+      },
+      {
+        "name": "Hyunggyu Park",
+        "count": 76
+      },
+      {
+        "name": "Federico Corberi",
+        "count": 75
+      },
+      {
+        "name": "Shin-ichi Sasa",
+        "count": 74
+      },
+      {
+        "name": "Haye Hinrichsen",
+        "count": 74
+      },
+      {
+        "name": "Ronald Dickman",
+        "count": 73
+      },
+      {
+        "name": "R. Rajesh",
+        "count": 71
+      }
+    ],
+    "top_words": [
+      "critical",
+      "particles",
+      "lattice",
+      "particle",
+      "scaling",
+      "equilibrium",
+      "entropy",
+      "ising",
+      "spin",
+      "heat"
+    ]
+  },
+  "cond-mat.str-el": {
+    "name": "Strongly Correlated Electrons",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Yukitoshi Motome",
+        "count": 136
+      },
+      {
+        "name": "Philipp Werner",
+        "count": 118
+      },
+      {
+        "name": "Y. Tokura",
+        "count": 117
+      },
+      {
+        "name": "A. Zheludev",
+        "count": 113
+      },
+      {
+        "name": "C. Geibel",
+        "count": 103
+      },
+      {
+        "name": "Yong Baek Kim",
+        "count": 100
+      },
+      {
+        "name": "A. Loidl",
+        "count": 97
+      },
+      {
+        "name": "F. Steglich",
+        "count": 94
+      },
+      {
+        "name": "V. I. Anisimov",
+        "count": 91
+      },
+      {
+        "name": "Leon Balents",
+        "count": 89
+      }
+    ],
+    "top_words": [
+      "spin",
+      "lattice",
+      "ground",
+      "coupling",
+      "hamiltonian",
+      "fermi",
+      "symmetry",
+      "band",
+      "electron",
+      "charge"
+    ]
+  },
+  "cond-mat.supr-con": {
+    "name": "Superconductivity",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "P. C. Canfield",
+        "count": 170
+      },
+      {
+        "name": "Hai-Hu Wen",
+        "count": 156
+      },
+      {
+        "name": "S. L. Bud'ko",
+        "count": 129
+      },
+      {
+        "name": "R. Prozorov",
+        "count": 123
+      },
+      {
+        "name": "J. Karpinski",
+        "count": 121
+      },
+      {
+        "name": "P. J. Hirschfeld",
+        "count": 121
+      },
+      {
+        "name": "Yukio Tanaka",
+        "count": 115
+      },
+      {
+        "name": "H. Eisaki",
+        "count": 108
+      },
+      {
+        "name": "Yoshihiko Takano",
+        "count": 106
+      },
+      {
+        "name": "H. Keller",
+        "count": 106
+      }
+    ],
+    "top_words": [
+      "superconducting",
+      "superconductivity",
+      "superconductors",
+      "gap",
+      "critical",
+      "superconductor",
+      "fermi",
+      "dependence",
+      "vortex",
+      "pairing"
+    ]
+  },
+  "gr-qc": {
+    "name": "General Relativity and Quantum Cosmology",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "M. Sharif",
+        "count": 190
+      },
+      {
+        "name": "Subenoy Chakraborty",
+        "count": 116
+      },
+      {
+        "name": "Carlo Rovelli",
+        "count": 92
+      },
+      {
+        "name": "Thibault Damour",
+        "count": 91
+      },
+      {
+        "name": "Donato Bini",
+        "count": 87
+      },
+      {
+        "name": "Matt Visser",
+        "count": 83
+      },
+      {
+        "name": "Luc Blanchet",
+        "count": 78
+      },
+      {
+        "name": "Giovanni Montani",
+        "count": 78
+      },
+      {
+        "name": "Jorge Pullin",
+        "count": 77
+      },
+      {
+        "name": "Ujjal Debnath",
+        "count": 77
+      }
+    ],
+    "top_words": [
+      "spacetime",
+      "metric",
+      "gravitational",
+      "black",
+      "gravity",
+      "scalar",
+      "hole",
+      "tensor",
+      "matter",
+      "horizon"
+    ]
+  },
+  "hep-ex": {
+    "name": "High Energy Physics - Experiment",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Y. Zhang",
+        "count": 1309
+      },
+      {
+        "name": "ATLAS Collaboration",
+        "count": 1161
+      },
+      {
+        "name": "CMS Collaboration",
+        "count": 1132
+      },
+      {
+        "name": "G. Wilkinson",
+        "count": 1068
+      },
+      {
+        "name": "P. Krokovny",
+        "count": 1055
+      },
+      {
+        "name": "S. Malde",
+        "count": 1048
+      },
+      {
+        "name": "L. Sun",
+        "count": 1018
+      },
+      {
+        "name": "Y. Gao",
+        "count": 998
+      },
+      {
+        "name": "Y. Xie",
+        "count": 937
+      },
+      {
+        "name": "Z. Wang",
+        "count": 912
+      }
+    ],
+    "top_words": [
+      "events",
+      "gev",
+      "background",
+      "collaboration",
+      "decay",
+      "detector",
+      "decays",
+      "production",
+      "uncertainty",
+      "systematic"
+    ]
+  },
+  "hep-lat": {
+    "name": "High Energy Physics - Lattice",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "S. Aoki",
+        "count": 284
+      },
+      {
+        "name": "G. Schierholz",
+        "count": 259
+      },
+      {
+        "name": "K. Kanaya",
+        "count": 225
+      },
+      {
+        "name": "R. Horsley",
+        "count": 216
+      },
+      {
+        "name": "S. Hashimoto",
+        "count": 214
+      },
+      {
+        "name": "Steven Gottlieb",
+        "count": 212
+      },
+      {
+        "name": "P. E. L. Rakow",
+        "count": 193
+      },
+      {
+        "name": "U. M. Heller",
+        "count": 185
+      },
+      {
+        "name": "Karl Jansen",
+        "count": 185
+      },
+      {
+        "name": "A. Ukawa",
+        "count": 184
+      }
+    ],
+    "top_words": [
+      "lattice",
+      "gauge",
+      "quark",
+      "qcd",
+      "chiral",
+      "heplat",
+      "continuum",
+      "masses",
+      "wilson",
+      "nucl"
+    ]
+  },
+  "hep-ph": {
+    "name": "High Energy Physics - Phenomenology",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Ernest Ma",
+        "count": 97
+      },
+      {
+        "name": "W. J. Stirling",
+        "count": 84
+      },
+      {
+        "name": "V. Barger",
+        "count": 84
+      },
+      {
+        "name": "A. D. Martin",
+        "count": 82
+      },
+      {
+        "name": "R. N. Mohapatra",
+        "count": 78
+      },
+      {
+        "name": "C. S. Kim",
+        "count": 70
+      },
+      {
+        "name": "Jonathan L. Rosner",
+        "count": 68
+      },
+      {
+        "name": "C. -P. Yuan",
+        "count": 65
+      },
+      {
+        "name": "Xiao-Gang He",
+        "count": 65
+      },
+      {
+        "name": "Matthias Neubert",
+        "count": 64
+      }
+    ],
+    "top_words": [
+      "gev",
+      "quark",
+      "decay",
+      "qcd",
+      "higgs",
+      "masses",
+      "corrections",
+      "nucl",
+      "gauge",
+      "contribution"
+    ]
+  },
+  "hep-th": {
+    "name": "High Energy Physics - Theory",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "C. N. Pope",
+        "count": 134
+      },
+      {
+        "name": "H. Lu",
+        "count": 127
+      },
+      {
+        "name": "A. A. Tseytlin",
+        "count": 116
+      },
+      {
+        "name": "Edward Witten",
+        "count": 91
+      },
+      {
+        "name": "Ashoke Sen",
+        "count": 83
+      },
+      {
+        "name": "Shin'ichi Nojiri",
+        "count": 82
+      },
+      {
+        "name": "S. D. Odintsov",
+        "count": 81
+      },
+      {
+        "name": "E. Elizalde",
+        "count": 73
+      },
+      {
+        "name": "Sergei D. Odintsov",
+        "count": 71
+      },
+      {
+        "name": "S. Ferrara",
+        "count": 70
+      }
+    ],
+    "top_words": [
+      "gauge",
+      "string",
+      "hepth",
+      "elds",
+      "theories",
+      "nucl",
+      "symmetry",
+      "algebra",
+      "dimensional",
+      "supersymmetry"
+    ]
+  },
+  "math-ph": {
+    "name": "Mathematical Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "A. G. Ramm",
+        "count": 75
+      },
+      {
+        "name": "Peter J. Forrester",
+        "count": 62
+      },
+      {
+        "name": "G. Sardanashvily",
+        "count": 55
+      },
+      {
+        "name": "Robert Seiringer",
+        "count": 52
+      },
+      {
+        "name": "Benjamin Schlein",
+        "count": 52
+      },
+      {
+        "name": "Luc Vinet",
+        "count": 47
+      },
+      {
+        "name": "Richard L. Hall",
+        "count": 47
+      },
+      {
+        "name": "Mahouton Norbert Hounkonnou",
+        "count": 43
+      },
+      {
+        "name": "Hermann Schulz-Baldes",
+        "count": 42
+      },
+      {
+        "name": "Elliott H. Lieb",
+        "count": 42
+      }
+    ],
+    "top_words": [
+      "operators",
+      "algebra",
+      "hamiltonian",
+      "integral",
+      "lie",
+      "formula",
+      "dierential",
+      "lim",
+      "sin",
+      "cos"
+    ]
+  },
+  "nlin.AO": {
+    "name": "Adaption and Self-Organrizing Systems",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Eckehard Schöll",
+        "count": 66
+      },
+      {
+        "name": "Hiroya Nakao",
+        "count": 58
+      },
+      {
+        "name": "Anna Zakharova",
+        "count": 41
+      },
+      {
+        "name": "Carlos Gershenson",
+        "count": 39
+      },
+      {
+        "name": "Dibakar Ghosh",
+        "count": 38
+      },
+      {
+        "name": "Per Sebastian Skardal",
+        "count": 37
+      },
+      {
+        "name": "Jürgen Kurths",
+        "count": 32
+      },
+      {
+        "name": "Sarika Jalan",
+        "count": 29
+      },
+      {
+        "name": "M. Lakshmanan",
+        "count": 29
+      },
+      {
+        "name": "V. K. Chandrasekar",
+        "count": 29
+      }
+    ],
+    "top_words": [
+      "oscillators",
+      "synchronization",
+      "coupling",
+      "coupled",
+      "oscillator",
+      "dynamical",
+      "nodes",
+      "stable",
+      "kuramoto",
+      "stability"
+    ]
+  },
+  "nlin.CD": {
+    "name": "Chaotic Dynamics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "M. Lakshmanan",
+        "count": 50
+      },
+      {
+        "name": "G. Boffetta",
+        "count": 50
+      },
+      {
+        "name": "Cristel Chandre",
+        "count": 45
+      },
+      {
+        "name": "Euaggelos E. Zotos",
+        "count": 43
+      },
+      {
+        "name": "Victor S. L'vov",
+        "count": 42
+      },
+      {
+        "name": "Edward Ott",
+        "count": 41
+      },
+      {
+        "name": "Darryl D. Holm",
+        "count": 40
+      },
+      {
+        "name": "Itamar Procaccia",
+        "count": 39
+      },
+      {
+        "name": "Arnd Bäcker",
+        "count": 39
+      },
+      {
+        "name": "Roland Ketzmerick",
+        "count": 37
+      }
+    ],
+    "top_words": [
+      "chaotic",
+      "chaos",
+      "periodic",
+      "dynamical",
+      "orbits",
+      "lyapunov",
+      "nonlinear",
+      "bifurcation",
+      "orbit",
+      "synchronization"
+    ]
+  },
+  "nlin.CG": {
+    "name": "Cellular Automata and Lattice Gases",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Andrew Adamatzky",
+        "count": 27
+      },
+      {
+        "name": "Henryk Fukś",
+        "count": 23
+      },
+      {
+        "name": "Genaro J. Martinez",
+        "count": 15
+      },
+      {
+        "name": "Andrew Wuensche",
+        "count": 10
+      },
+      {
+        "name": "Katsuhiro Nishinari",
+        "count": 9
+      },
+      {
+        "name": "Henryk Fuks",
+        "count": 9
+      },
+      {
+        "name": "Markus Redeker",
+        "count": 8
+      },
+      {
+        "name": "Daichi Yanagisawa",
+        "count": 8
+      },
+      {
+        "name": "José Manuel Gómez Soto",
+        "count": 8
+      },
+      {
+        "name": "Franco Bagnoli",
+        "count": 7
+      }
+    ],
+    "top_words": [
+      "cellular",
+      "automata",
+      "rule",
+      "rules",
+      "automaton",
+      "cells",
+      "cell",
+      "conguration",
+      "eca",
+      "patterns"
+    ]
+  },
+  "nlin.PS": {
+    "name": "Pattern Formation and Solitons",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "P. G. Kevrekidis",
+        "count": 266
+      },
+      {
+        "name": "Boris A. Malomed",
+        "count": 141
+      },
+      {
+        "name": "D. J. Frantzeskakis",
+        "count": 79
+      },
+      {
+        "name": "B. A. Malomed",
+        "count": 69
+      },
+      {
+        "name": "Yuri S. Kivshar",
+        "count": 66
+      },
+      {
+        "name": "Panayotis G. Kevrekidis",
+        "count": 54
+      },
+      {
+        "name": "Avadh Saxena",
+        "count": 54
+      },
+      {
+        "name": "Avinash Khare",
+        "count": 53
+      },
+      {
+        "name": "A. M. Kamchatnov",
+        "count": 45
+      },
+      {
+        "name": "Mario I. Molina",
+        "count": 38
+      }
+    ],
+    "top_words": [
+      "nonlinear",
+      "solitons",
+      "soliton",
+      "wave",
+      "waves",
+      "amplitude",
+      "stability",
+      "stable",
+      "bifurcation",
+      "instability"
+    ]
+  },
+  "nlin.SI": {
+    "name": "Exactly Solvable and Integrable Systems",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Jingsong He",
+        "count": 66
+      },
+      {
+        "name": "M. Lakshmanan",
+        "count": 63
+      },
+      {
+        "name": "Da-jun Zhang",
+        "count": 62
+      },
+      {
+        "name": "A. V. Tsiganov",
+        "count": 53
+      },
+      {
+        "name": "Engui Fan",
+        "count": 41
+      },
+      {
+        "name": "M. Senthilvelan",
+        "count": 40
+      },
+      {
+        "name": "Kenji Kajiwara",
+        "count": 38
+      },
+      {
+        "name": "Maxim V. Pavlov",
+        "count": 38
+      },
+      {
+        "name": "Yunbo Zeng",
+        "count": 37
+      },
+      {
+        "name": "J. F. Gomes",
+        "count": 35
+      }
+    ],
+    "top_words": [
+      "integrable",
+      "nonlinear",
+      "lax",
+      "hierarchy",
+      "soliton",
+      "transformation",
+      "discrete",
+      "hamiltonian",
+      "dierential",
+      "integrability"
+    ]
+  },
+  "nucl-ex": {
+    "name": "Nuclear Experiment",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "ALICE Collaboration",
+        "count": 432
+      },
+      {
+        "name": "A. Lebedev",
+        "count": 257
+      },
+      {
+        "name": "X. Li",
+        "count": 228
+      },
+      {
+        "name": "Y. Zhang",
+        "count": 202
+      },
+      {
+        "name": "STAR Collaboration",
+        "count": 202
+      },
+      {
+        "name": "A. Taranenko",
+        "count": 184
+      },
+      {
+        "name": "Y. G. Ma",
+        "count": 178
+      },
+      {
+        "name": "R. Pak",
+        "count": 177
+      },
+      {
+        "name": "W. Xie",
+        "count": 168
+      },
+      {
+        "name": "H. Liu",
+        "count": 168
+      }
+    ],
+    "top_words": [
+      "collisions",
+      "nuclear",
+      "mev",
+      "gev",
+      "cross",
+      "gevc",
+      "beam",
+      "reaction",
+      "decay",
+      "production"
+    ]
+  },
+  "nucl-th": {
+    "name": "Nuclear Theory",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "E. Oset",
+        "count": 171
+      },
+      {
+        "name": "Amand Faessler",
+        "count": 142
+      },
+      {
+        "name": "W. Nazarewicz",
+        "count": 137
+      },
+      {
+        "name": "P. Ring",
+        "count": 134
+      },
+      {
+        "name": "J. Dobaczewski",
+        "count": 132
+      },
+      {
+        "name": "W. Cassing",
+        "count": 129
+      },
+      {
+        "name": "P. -G. Reinhard",
+        "count": 120
+      },
+      {
+        "name": "D. Vretenar",
+        "count": 114
+      },
+      {
+        "name": "W. Greiner",
+        "count": 106
+      },
+      {
+        "name": "J. Meng",
+        "count": 102
+      }
+    ],
+    "top_words": [
+      "mev",
+      "nuclear",
+      "nuclei",
+      "calculations",
+      "energies",
+      "nucl",
+      "neutron",
+      "momentum",
+      "ref",
+      "nucleon"
+    ]
+  },
+  "physics.acc-ph": {
+    "name": "Accelerator Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Gianluca Geloni",
+        "count": 65
+      },
+      {
+        "name": "Evgeni Saldin",
+        "count": 63
+      },
+      {
+        "name": "Haixiao Deng",
+        "count": 59
+      },
+      {
+        "name": "R. M. Jones",
+        "count": 58
+      },
+      {
+        "name": "S. Nagaitsev",
+        "count": 56
+      },
+      {
+        "name": "P. Piot",
+        "count": 52
+      },
+      {
+        "name": "V. Shiltsev",
+        "count": 52
+      },
+      {
+        "name": "Vitali Kocharyan",
+        "count": 51
+      },
+      {
+        "name": "A. Valishev",
+        "count": 44
+      },
+      {
+        "name": "M. Ferrario",
+        "count": 41
+      }
+    ],
+    "top_words": [
+      "beam",
+      "bunch",
+      "electron",
+      "accelerator",
+      "beams",
+      "emittance",
+      "particle",
+      "radiation",
+      "cavity",
+      "transverse"
+    ]
+  },
+  "physics.ao-ph": {
+    "name": "Atmospheric and Oceanic Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Stephen Jewson",
+        "count": 52
+      },
+      {
+        "name": "Valerio Lucarini",
+        "count": 50
+      },
+      {
+        "name": "Pascal Marquet",
+        "count": 31
+      },
+      {
+        "name": "Henk A. Dijkstra",
+        "count": 30
+      },
+      {
+        "name": "Hans van Haren",
+        "count": 25
+      },
+      {
+        "name": "Øyvind Breivik",
+        "count": 24
+      },
+      {
+        "name": "F. J. Beron-Vera",
+        "count": 22
+      },
+      {
+        "name": "Jan Mandel",
+        "count": 22
+      },
+      {
+        "name": "Tom Beucler",
+        "count": 22
+      },
+      {
+        "name": "Pierre Gentine",
+        "count": 21
+      }
+    ],
+    "top_words": [
+      "climate",
+      "atmospheric",
+      "ocean",
+      "wind",
+      "water",
+      "sea",
+      "global",
+      "precipitation",
+      "weather",
+      "vertical"
+    ]
+  },
+  "physics.app-ph": {
+    "name": "Applied Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Max C. Lemme",
+        "count": 36
+      },
+      {
+        "name": "Filippo Capolino",
+        "count": 33
+      },
+      {
+        "name": "Weisheng Zhao",
+        "count": 32
+      },
+      {
+        "name": "Sergei A. Tretyakov",
+        "count": 32
+      },
+      {
+        "name": "David J. Moss",
+        "count": 32
+      },
+      {
+        "name": "Volker J. Sorger",
+        "count": 29
+      },
+      {
+        "name": "George V. Eleftheriades",
+        "count": 29
+      },
+      {
+        "name": "Xingyuan Xu",
+        "count": 28
+      },
+      {
+        "name": "Yana Vaynzof",
+        "count": 28
+      },
+      {
+        "name": "Kenji Watanabe",
+        "count": 28
+      }
+    ],
+    "top_words": [
+      "materials",
+      "device",
+      "devices",
+      "layer",
+      "optical",
+      "material",
+      "voltage",
+      "field",
+      "thermal",
+      "thickness"
+    ]
+  },
+  "physics.atm-clus": {
+    "name": "Atomic and Molecular Clusters",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "M. Mudrich",
+        "count": 37
+      },
+      {
+        "name": "F. Stienkemeier",
+        "count": 31
+      },
+      {
+        "name": "P. -G. Reinhard",
+        "count": 26
+      },
+      {
+        "name": "A. R. W. McKellar",
+        "count": 24
+      },
+      {
+        "name": "Andrey V. Solov'yov",
+        "count": 23
+      },
+      {
+        "name": "Vitaly V. Kresin",
+        "count": 22
+      },
+      {
+        "name": "Paul Scheier",
+        "count": 22
+      },
+      {
+        "name": "N. Moazzen-Ahmadi",
+        "count": 22
+      },
+      {
+        "name": "Jochen Küpper",
+        "count": 17
+      },
+      {
+        "name": "M. Ya. Amusia",
+        "count": 17
+      }
+    ],
+    "top_words": [
+      "clusters",
+      "chem",
+      "cluster",
+      "atoms",
+      "electron",
+      "ionization",
+      "molecules",
+      "molecular",
+      "energies",
+      "atom"
+    ]
+  },
+  "physics.bio-ph": {
+    "name": "Biological Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Debashish Chowdhury",
+        "count": 44
+      },
+      {
+        "name": "Eric Lauga",
+        "count": 35
+      },
+      {
+        "name": "Thomas Heimburg",
+        "count": 30
+      },
+      {
+        "name": "Marc Joyeux",
+        "count": 30
+      },
+      {
+        "name": "Erwin Frey",
+        "count": 29
+      },
+      {
+        "name": "Chen Li",
+        "count": 26
+      },
+      {
+        "name": "William Bialek",
+        "count": 25
+      },
+      {
+        "name": "Frank Jülicher",
+        "count": 23
+      },
+      {
+        "name": "Andrew Mugler",
+        "count": 21
+      },
+      {
+        "name": "Jacques Prost",
+        "count": 21
+      }
+    ],
+    "top_words": [
+      "cell",
+      "cells",
+      "protein",
+      "force",
+      "membrane",
+      "dna",
+      "proteins",
+      "concentration",
+      "molecular",
+      "molecules"
+    ]
+  },
+  "physics.chem-ph": {
+    "name": "Chemical Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Pierre-François Loos",
+        "count": 86
+      },
+      {
+        "name": "O. Anatole von Lilienfeld",
+        "count": 83
+      },
+      {
+        "name": "Markus Reiher",
+        "count": 77
+      },
+      {
+        "name": "Jan M. L. Martin",
+        "count": 75
+      },
+      {
+        "name": "Julien Toulouse",
+        "count": 69
+      },
+      {
+        "name": "Michele Ceriotti",
+        "count": 59
+      },
+      {
+        "name": "Markus Meuwly",
+        "count": 59
+      },
+      {
+        "name": "Martin Head-Gordon",
+        "count": 55
+      },
+      {
+        "name": "Henrik Koch",
+        "count": 50
+      },
+      {
+        "name": "Garnet Kin-Lic Chan",
+        "count": 50
+      }
+    ],
+    "top_words": [
+      "chem",
+      "molecular",
+      "molecules",
+      "chemical",
+      "calculations",
+      "electronic",
+      "energies",
+      "basis",
+      "molecule",
+      "chemistry"
+    ]
+  },
+  "physics.class-ph": {
+    "name": "Classical Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Timothy H. Boyer",
+        "count": 49
+      },
+      {
+        "name": "Henri Gouin",
+        "count": 25
+      },
+      {
+        "name": "Christophe Vergez",
+        "count": 23
+      },
+      {
+        "name": "V. Hnizdo",
+        "count": 22
+      },
+      {
+        "name": "Sergei Tretyakov",
+        "count": 22
+      },
+      {
+        "name": "Davide Bigoni",
+        "count": 19
+      },
+      {
+        "name": "Jose A. Heras",
+        "count": 18
+      },
+      {
+        "name": "Vincent Pagneux",
+        "count": 18
+      },
+      {
+        "name": "Christophe Caloz",
+        "count": 18
+      },
+      {
+        "name": "Friedrich W. Hehl",
+        "count": 18
+      }
+    ],
+    "top_words": [
+      "force",
+      "wave",
+      "motion",
+      "electromagnetic",
+      "cos",
+      "sin",
+      "electric",
+      "waves",
+      "charge",
+      "classical"
+    ]
+  },
+  "physics.comp-ph": {
+    "name": "Computational Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Kun Xu",
+        "count": 51
+      },
+      {
+        "name": "Sauro Succi",
+        "count": 41
+      },
+      {
+        "name": "Dieter Suess",
+        "count": 33
+      },
+      {
+        "name": "Lin Lin",
+        "count": 32
+      },
+      {
+        "name": "Maria Grazia Pia",
+        "count": 30
+      },
+      {
+        "name": "Ryan G. McClarren",
+        "count": 28
+      },
+      {
+        "name": "Claas Abert",
+        "count": 27
+      },
+      {
+        "name": "Chengwen Zhong",
+        "count": 26
+      },
+      {
+        "name": "Florian Bruckner",
+        "count": 25
+      },
+      {
+        "name": "Michele Parrinello",
+        "count": 24
+      }
+    ],
+    "top_words": [
+      "computational",
+      "scheme",
+      "grid",
+      "accuracy",
+      "particle",
+      "mesh",
+      "particles",
+      "cell",
+      "materials",
+      "interface"
+    ]
+  },
+  "physics.data-an": {
+    "name": "Data Analysis, Statistics and Probability",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Tao Zhou",
+        "count": 31
+      },
+      {
+        "name": "Ali Mohammad-Djafari",
+        "count": 20
+      },
+      {
+        "name": "Joachim Peinke",
+        "count": 18
+      },
+      {
+        "name": "Bin Jiang",
+        "count": 16
+      },
+      {
+        "name": "G. R. Jafari",
+        "count": 15
+      },
+      {
+        "name": "G. D'Agostini",
+        "count": 14
+      },
+      {
+        "name": "S. Redner",
+        "count": 13
+      },
+      {
+        "name": "Shlomo Havlin",
+        "count": 12
+      },
+      {
+        "name": "Ariel Caticha",
+        "count": 11
+      },
+      {
+        "name": "Maurizio Pierini",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "series",
+      "noise",
+      "statistical",
+      "events",
+      "distributions",
+      "gaussian",
+      "likelihood",
+      "bayesian",
+      "background",
+      "entropy"
+    ]
+  },
+  "physics.ed-ph": {
+    "name": "Physics Education",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Chandralekha Singh",
+        "count": 190
+      },
+      {
+        "name": "H. J. Lewandowski",
+        "count": 63
+      },
+      {
+        "name": "Marcos D. Caballero",
+        "count": 56
+      },
+      {
+        "name": "Edward F. Redish",
+        "count": 40
+      },
+      {
+        "name": "N. G. Holmes",
+        "count": 38
+      },
+      {
+        "name": "Bethany R. Wilcox",
+        "count": 38
+      },
+      {
+        "name": "Ben Van Dusen",
+        "count": 34
+      },
+      {
+        "name": "Alexandru Maries",
+        "count": 34
+      },
+      {
+        "name": "Arturo C. Marti",
+        "count": 32
+      },
+      {
+        "name": "Emily Marshman",
+        "count": 31
+      }
+    ],
+    "top_words": [
+      "students",
+      "student",
+      "education",
+      "course",
+      "teaching",
+      "questions",
+      "courses",
+      "introductory",
+      "understanding",
+      "school"
+    ]
+  },
+  "physics.flu-dyn": {
+    "name": "Fluid Dynamics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Detlef Lohse",
+        "count": 316
+      },
+      {
+        "name": "Chao Sun",
+        "count": 120
+      },
+      {
+        "name": "Roberto Verzicco",
+        "count": 98
+      },
+      {
+        "name": "Luca Brandt",
+        "count": 78
+      },
+      {
+        "name": "Richard J. A. M. Stevens",
+        "count": 64
+      },
+      {
+        "name": "Suman Chakraborty",
+        "count": 60
+      },
+      {
+        "name": "Ashoke De",
+        "count": 58
+      },
+      {
+        "name": "Kunihiko Taira",
+        "count": 58
+      },
+      {
+        "name": "Jacco H. Snoeijer",
+        "count": 54
+      },
+      {
+        "name": "Sander G. Huisman",
+        "count": 53
+      }
+    ],
+    "top_words": [
+      "fluid",
+      "turbulent",
+      "turbulence",
+      "flow",
+      "uid",
+      "pressure",
+      "reynolds",
+      "ows",
+      "fluids",
+      "wall"
+    ]
+  },
+  "physics.gen-ph": {
+    "name": "General Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Burra G. Sidharth",
+        "count": 55
+      },
+      {
+        "name": "Mubasher Jamil",
+        "count": 45
+      },
+      {
+        "name": "Ujjal Debnath",
+        "count": 43
+      },
+      {
+        "name": "Bernhard Rothenstein",
+        "count": 41
+      },
+      {
+        "name": "Anirudh Pradhan",
+        "count": 36
+      },
+      {
+        "name": "S. I. Kruglov",
+        "count": 34
+      },
+      {
+        "name": "Farook Rahaman",
+        "count": 32
+      },
+      {
+        "name": "Zi-Hua Weng",
+        "count": 31
+      },
+      {
+        "name": "Sergiu I. Vacaru",
+        "count": 31
+      },
+      {
+        "name": "Kenath Arun",
+        "count": 30
+      }
+    ],
+    "top_words": [
+      "universe",
+      "spacetime",
+      "particle",
+      "gravitational",
+      "matter",
+      "particles",
+      "gravity",
+      "relativity",
+      "wave",
+      "mechanics"
+    ]
+  },
+  "physics.geo-ph": {
+    "name": "Geophysics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Tariq Alkhalifah",
+        "count": 36
+      },
+      {
+        "name": "Kees Wapenaar",
+        "count": 30
+      },
+      {
+        "name": "C. Thanassoulas",
+        "count": 29
+      },
+      {
+        "name": "A. V. Guglielmi",
+        "count": 28
+      },
+      {
+        "name": "Felix J. Herrmann",
+        "count": 26
+      },
+      {
+        "name": "Matteo Ravasi",
+        "count": 25
+      },
+      {
+        "name": "V. Klentos",
+        "count": 25
+      },
+      {
+        "name": "Nicolas Brantut",
+        "count": 24
+      },
+      {
+        "name": "Didier Sornette",
+        "count": 23
+      },
+      {
+        "name": "Amelia Carolina Sparavigna",
+        "count": 23
+      }
+    ],
+    "top_words": [
+      "seismic",
+      "earthquake",
+      "earth",
+      "earthquakes",
+      "geophysical",
+      "stress",
+      "water",
+      "inversion",
+      "fault",
+      "pressure"
+    ]
+  },
+  "physics.hist-ph": {
+    "name": "History and Philosophy of Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Galina Weinstein",
+        "count": 49
+      },
+      {
+        "name": "James Owen Weatherall",
+        "count": 36
+      },
+      {
+        "name": "Helge Kragh",
+        "count": 35
+      },
+      {
+        "name": "Duane W. Hamacher",
+        "count": 34
+      },
+      {
+        "name": "Christopher M. Graney",
+        "count": 30
+      },
+      {
+        "name": "Giulio Magli",
+        "count": 29
+      },
+      {
+        "name": "Jeremy Butterfield",
+        "count": 28
+      },
+      {
+        "name": "Amelia Carolina Sparavigna",
+        "count": 27
+      },
+      {
+        "name": "Henrique Gomes",
+        "count": 22
+      },
+      {
+        "name": "Christian Wuthrich",
+        "count": 22
+      }
+    ],
+    "top_words": [
+      "einstein",
+      "relativity",
+      "mechanics",
+      "philosophy",
+      "world",
+      "theories",
+      "spacetime",
+      "universe",
+      "matter",
+      "press"
+    ]
+  },
+  "physics.ins-det": {
+    "name": "Instrumentation and Detectors",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "C. Zhang",
+        "count": 103
+      },
+      {
+        "name": "M. Weber",
+        "count": 98
+      },
+      {
+        "name": "H. Wang",
+        "count": 86
+      },
+      {
+        "name": "J. M. F. dos Santos",
+        "count": 84
+      },
+      {
+        "name": "Y. Wang",
+        "count": 78
+      },
+      {
+        "name": "D. Franco",
+        "count": 78
+      },
+      {
+        "name": "J. Liu",
+        "count": 78
+      },
+      {
+        "name": "A. Ereditato",
+        "count": 77
+      },
+      {
+        "name": "A. Rubbia",
+        "count": 75
+      },
+      {
+        "name": "A. Breskin",
+        "count": 74
+      }
+    ],
+    "top_words": [
+      "detector",
+      "detectors",
+      "beam",
+      "resolution",
+      "readout",
+      "measurement",
+      "light",
+      "voltage",
+      "charge",
+      "events"
+    ]
+  },
+  "physics.med-ph": {
+    "name": "Medical Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Yohan Payan",
+        "count": 79
+      },
+      {
+        "name": "Xun Jia",
+        "count": 49
+      },
+      {
+        "name": "Ge Wang",
+        "count": 49
+      },
+      {
+        "name": "Xiaofeng Yang",
+        "count": 46
+      },
+      {
+        "name": "Steve B. Jiang",
+        "count": 39
+      },
+      {
+        "name": "Steve Jiang",
+        "count": 35
+      },
+      {
+        "name": "Dan Nguyen",
+        "count": 32
+      },
+      {
+        "name": "Xiaochuan Pan",
+        "count": 30
+      },
+      {
+        "name": "Emil Y. Sidky",
+        "count": 30
+      },
+      {
+        "name": "Tian Liu",
+        "count": 29
+      }
+    ],
+    "top_words": [
+      "imaging",
+      "dose",
+      "images",
+      "reconstruction",
+      "tissue",
+      "clinical",
+      "phantom",
+      "medical",
+      "med",
+      "mri"
+    ]
+  },
+  "physics.optics": {
+    "name": "Optics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Yuri S. Kivshar",
+        "count": 132
+      },
+      {
+        "name": "Akhlesh Lakhtakia",
+        "count": 117
+      },
+      {
+        "name": "Hui Cao",
+        "count": 87
+      },
+      {
+        "name": "Tom G. Mackay",
+        "count": 83
+      },
+      {
+        "name": "C. T. Chan",
+        "count": 81
+      },
+      {
+        "name": "Shanhui Fan",
+        "count": 70
+      },
+      {
+        "name": "Ayman F. Abouraddy",
+        "count": 69
+      },
+      {
+        "name": "Kartik Srinivasan",
+        "count": 66
+      },
+      {
+        "name": "Ya Cheng",
+        "count": 64
+      },
+      {
+        "name": "Guang-Can Guo",
+        "count": 63
+      }
+    ],
+    "top_words": [
+      "optical",
+      "light",
+      "laser",
+      "mode",
+      "opt",
+      "beam",
+      "modes",
+      "intensity",
+      "wavelength",
+      "wave"
+    ]
+  },
+  "physics.plasm-ph": {
+    "name": "Plasma Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Nathaniel J. Fisch",
+        "count": 83
+      },
+      {
+        "name": "N. J. Fisch",
+        "count": 72
+      },
+      {
+        "name": "M. Marklund",
+        "count": 63
+      },
+      {
+        "name": "L. O. Silva",
+        "count": 63
+      },
+      {
+        "name": "Amita Das",
+        "count": 62
+      },
+      {
+        "name": "P. K. Shukla",
+        "count": 58
+      },
+      {
+        "name": "A. A. Mamun",
+        "count": 56
+      },
+      {
+        "name": "A. P. Misra",
+        "count": 56
+      },
+      {
+        "name": "S. V. Bulanov",
+        "count": 49
+      },
+      {
+        "name": "M. Bonitz",
+        "count": 49
+      }
+    ],
+    "top_words": [
+      "plasma",
+      "plasmas",
+      "electron",
+      "ion",
+      "electrons",
+      "fusion",
+      "laser",
+      "wave",
+      "ions",
+      "electric"
+    ]
+  },
+  "physics.pop-ph": {
+    "name": "Popular Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Amelia Carolina Sparavigna",
+        "count": 24
+      },
+      {
+        "name": "Abraham Loeb",
+        "count": 20
+      },
+      {
+        "name": "J. R. Mureika",
+        "count": 16
+      },
+      {
+        "name": "Michael Courtney",
+        "count": 16
+      },
+      {
+        "name": "Jacob Haqq-Misra",
+        "count": 13
+      },
+      {
+        "name": "Amy Courtney",
+        "count": 12
+      },
+      {
+        "name": "John Gertz",
+        "count": 12
+      },
+      {
+        "name": "David Politzer",
+        "count": 12
+      },
+      {
+        "name": "Attilio Sacripanti",
+        "count": 11
+      },
+      {
+        "name": "Jorge Pinochet",
+        "count": 11
+      }
+    ],
+    "top_words": [
+      "earth",
+      "life",
+      "universe",
+      "years",
+      "stars",
+      "solar",
+      "civilizations",
+      "civilization",
+      "planets",
+      "light"
+    ]
+  },
+  "physics.soc-ph": {
+    "name": "Physics and Society",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Matjaz Perc",
+        "count": 96
+      },
+      {
+        "name": "Yamir Moreno",
+        "count": 89
+      },
+      {
+        "name": "Attila Szolnoki",
+        "count": 81
+      },
+      {
+        "name": "Shlomo Havlin",
+        "count": 80
+      },
+      {
+        "name": "Naoki Masuda",
+        "count": 79
+      },
+      {
+        "name": "Yanguang Chen",
+        "count": 70
+      },
+      {
+        "name": "Vito Latora",
+        "count": 58
+      },
+      {
+        "name": "Tao Zhou",
+        "count": 57
+      },
+      {
+        "name": "Filippo Radicchi",
+        "count": 56
+      },
+      {
+        "name": "Marc Barthelemy",
+        "count": 56
+      }
+    ],
+    "top_words": [
+      "social",
+      "nodes",
+      "node",
+      "population",
+      "individuals",
+      "year",
+      "agents",
+      "links",
+      "individual",
+      "urban"
+    ]
+  },
+  "physics.space-ph": {
+    "name": "Space Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "W. R. Webber",
+        "count": 28
+      },
+      {
+        "name": "S. D. Bale",
+        "count": 23
+      },
+      {
+        "name": "N. Østgaard",
+        "count": 20
+      },
+      {
+        "name": "K. M. Laundal",
+        "count": 18
+      },
+      {
+        "name": "C. T. Russell",
+        "count": 18
+      },
+      {
+        "name": "Stuart D. Bale",
+        "count": 18
+      },
+      {
+        "name": "J. L. Burch",
+        "count": 17
+      },
+      {
+        "name": "D. J. McComas",
+        "count": 17
+      },
+      {
+        "name": "S. E. Milan",
+        "count": 16
+      },
+      {
+        "name": "J. C. Kasper",
+        "count": 16
+      }
+    ],
+    "top_words": [
+      "solar",
+      "wind",
+      "plasma",
+      "spacecraft",
+      "geophys",
+      "observations",
+      "res",
+      "geophysical",
+      "electron",
+      "shock"
+    ]
+  },
+  "quant-ph": {
+    "name": "Quantum Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "Guang-Can Guo",
+        "count": 142
+      },
+      {
+        "name": "J. I. Cirac",
+        "count": 117
+      },
+      {
+        "name": "Nicolas Gisin",
+        "count": 110
+      },
+      {
+        "name": "Seth Lloyd",
+        "count": 86
+      },
+      {
+        "name": "Michal Horodecki",
+        "count": 85
+      },
+      {
+        "name": "G. M. D'Ariano",
+        "count": 83
+      },
+      {
+        "name": "N. Gisin",
+        "count": 80
+      },
+      {
+        "name": "H. M. Wiseman",
+        "count": 80
+      },
+      {
+        "name": "Barry C. Sanders",
+        "count": 79
+      },
+      {
+        "name": "Stefano Mancini",
+        "count": 79
+      }
+    ],
+    "top_words": [
+      "entanglement",
+      "measurement",
+      "classical",
+      "qubit",
+      "entangled",
+      "qubits",
+      "photon",
+      "operators",
+      "hamiltonian",
+      "bob"
+    ]
+  },
+  "physics.atom-ph": {
+    "name": "Atomic Physics",
+    "category": "physic",
+    "top_authors": [
+      {
+        "name": "V. V. Flambaum",
+        "count": 207
+      },
+      {
+        "name": "V. A. Dzuba",
+        "count": 163
+      },
+      {
+        "name": "V. M. Shabaev",
+        "count": 145
+      },
+      {
+        "name": "B. K. Sahoo",
+        "count": 128
+      },
+      {
+        "name": "M. S. Safronova",
+        "count": 105
+      },
+      {
+        "name": "G. Plunien",
+        "count": 98
+      },
+      {
+        "name": "V. A. Yerokhin",
+        "count": 87
+      },
+      {
+        "name": "I. I. Tupitsyn",
+        "count": 83
+      },
+      {
+        "name": "Chris H. Greene",
+        "count": 82
+      },
+      {
+        "name": "M. G. Kozlov",
+        "count": 80
+      }
+    ],
+    "top_words": [
+      "laser",
+      "atomic",
+      "atoms",
+      "atom",
+      "electron",
+      "optical",
+      "beam",
+      "ionization",
+      "ion",
+      "pulse"
+    ]
+  }
+}
