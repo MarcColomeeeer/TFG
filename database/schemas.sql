@@ -42,6 +42,7 @@ create table paper_author (
 create table paper_word (
   paper_id VARCHAR,
   word_id INTEGER,
+  count INTEGER,
   tf_idf FLOAT,
   primary key (paper_id, word_id),
   foreign key (paper_id) references paper(id),

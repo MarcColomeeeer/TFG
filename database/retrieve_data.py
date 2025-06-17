@@ -47,7 +47,7 @@ def export_enriched_subcategories(output_path="subcategory.json"):
                    SUM(pw.tf_idf) AS tfidf_sum
             FROM paper p
             JOIN subcategory s ON p.subcategory = s.id
-            JOIN paper_word_2 pw ON p.id = pw.paper_id
+            JOIN paper_word_final pw ON p.id = pw.paper_id
             JOIN word w ON pw.word_id = w.id
             JOIN doc_freq df ON w.id = df.word_id
             WHERE df.df <= 100000
@@ -136,7 +136,7 @@ def export_enriched_categories(output_path="category.json"):
             FROM paper p
             JOIN subcategory s ON p.subcategory = s.id
             JOIN category c ON s.category = c.id
-            JOIN paper_word_2 pw ON p.id = pw.paper_id
+            JOIN paper_word_final pw ON p.id = pw.paper_id
             JOIN word w ON pw.word_id = w.id
             JOIN doc_freq df ON w.id = df.word_id
             WHERE df.df <= 100000
@@ -227,7 +227,7 @@ def export_full_paper_dataset(output_dir="papers", chunk_size=250_000):
         # Fetch top 10 words per paper based on tf-idf (already ordered)
         word_query = """
             SELECT pwr.paper_id, w.word, pwr.tf_idf
-            FROM paper_word_reduced_3 pwr
+            FROM paper_word_final pwr
             JOIN word w ON pwr.word_id = w.id
             ORDER BY pwr.paper_id, pwr.tf_idf DESC;
         """
@@ -258,6 +258,35 @@ def export_full_paper_dataset(output_dir="papers", chunk_size=250_000):
     save_dataframe_in_chunks(merged_df, output_dir=output_dir, chunk_size=chunk_size)
     print(f"✅ Done! {len(merged_df)} papers saved to '{output_dir}' in .parquet chunks.")
 
-export_enriched_categories()
-export_enriched_subcategories()
-export_full_paper_dataset()
+# export_enriched_categories()
+# export_enriched_subcategories()
+# export_full_paper_dataset()
+
+def export_top_words_flat(output_path="words_flat.parquet"):
+    conn = get_connection()
+
+    try:
+        query = """
+            SELECT paper_id, word, tf_idf
+            FROM (
+                SELECT 
+                    pw.paper_id,
+                    w.word,
+                    pw.tf_idf,
+                    ROW_NUMBER() OVER (PARTITION BY pw.paper_id ORDER BY pw.tf_idf DESC) AS rank
+                FROM paper_word_final pw
+                JOIN word w ON pw.word_id = w.id
+            ) AS ranked
+            WHERE rank <= 10
+        """
+        df = pd.read_sql(query, conn)
+
+    finally:
+        conn.close()
+
+    # Save in flat table format
+    df.to_parquet(output_path, index=False, compression="snappy")
+    print(f"✅ Exported flat top-10 words per paper to '{output_path}'")
+
+if __name__ == "__main__":
+    export_top_words_flat()
